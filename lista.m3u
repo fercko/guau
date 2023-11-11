@@ -1,0 +1,943 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Diarios",TN Todo Noticias
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Diarios",Cronica
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Diarios",Cronica YT
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0068
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="Diarios",C5N
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0071
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Diarios",LN+
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Diarios",America
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Diarios",A24
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0084
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Diarios",A24 YT
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0085
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALERTN.png" group-title="Diarios",AN24 TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Diarios",Canal 26
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Diarios",El Trece
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Diarios",Telefe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Diarios",Canal 9
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0082
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Diarios", El 13 Argentina
+http://pe.shortgod.com/c16a6/tv1.php?id=239.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Diarios",El Nueve
+http://pe.shortgod.com/c16a6/tv1.php?id=772.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Diarios",El Trece
+http://pe.shortgod.com/c16a6/tv1.php?id=767.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Diarios",ORBE 21
+http://pe.shortgod.com/c16a6/tv1.php?id=242.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png"group-title="Diarios",Telefe
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT17.png" group-title="Misiones",107.3 TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0320
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---2MI.png" group-title="Misiones",Canal 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0321
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4PO.png" group-title="Misiones",Canal 4
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0322
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C6P.png" group-title="Misiones",Noticias del 6
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0323
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4MI.png" group-title="Misiones",Misiones Cuatro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0324
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI21POSA.png" group-title="Misiones",Canal 21
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0325
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT85.png" group-title="Misiones",Canal 12
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0326
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT85.png" group-title="Misiones",Canal 12 YT
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0327
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TUM.png" group-title="Misiones",TUM - 34.2TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0328
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DKIDS.png" group-title="Infantiles",Discovery Kids
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAGICK.png" group-title="Infantiles",Magic Kids
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0097
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Infantiles",AnimeStation
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantiles", Latino Kids TV
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Infantiles",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Infantiles",Cartoon Network 2
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png"group-title="Infantiles", Baby TV
+http://pe.shortgod.com/c16a6/tv1.php?id=7.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png"group-title="Infantiles", Cartoon Network
+http://pe.shortgod.com/c16a6/tv1.php?id=17.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png"group-title="Infantiles", Cartoon Network Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=737.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png"group-title="Infantiles", Cartoonito (Boomerang)
+http://pe.shortgod.com/c16a6/tv1.php?id=11.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png"group-title="Infantiles", Cartoonito Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=735.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png"group-title="Infantiles", Discovery Kids
+http://pe.shortgod.com/c16a6/tv1.php?id=25.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png"group-title="Infantiles", Disney Channel
+http://pe.shortgod.com/c16a6/tv1.php?id=29.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png"group-title="Infantiles", Disney Junior
+http://pe.shortgod.com/c16a6/tv1.php?id=30.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png"group-title="Infantiles", Disney Junior Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=743.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png"group-title="Infantiles", Disney XD
+http://pe.shortgod.com/c16a6/tv1.php?id=31.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png"group-title="Infantiles", Disney XD Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=744.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png"group-title="Infantiles", Nat Geo Kids
+http://pe.shortgod.com/c16a6/tv1.php?id=412.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png"group-title="Infantiles", Nick
+http://pe.shortgod.com/c16a6/tv1.php?id=78.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png"group-title="Infantiles", Nick JR
+http://pe.shortgod.com/c16a6/tv1.php?id=79.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png"group-title="Infantiles", Nick Toons
+http://pe.shortgod.com/c16a6/tv1.php?id=80.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png"group-title="Infantiles", Nickelodeon
+http://pe.shortgod.com/c16a6/tv1.php?id=184.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png"group-title="Infantiles", TeenNick
+http://pe.shortgod.com/c16a6/tv1.php?id=882.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png"group-title="Infantiles", Tiin
+http://pe.shortgod.com/c16a6/tv1.php?id=93.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png"group-title="Infantiles", Tooncast
+http://pe.shortgod.com/c16a6/tv1.php?id=95.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DreamWorks_Channel#/media/Archivo:DreamWorks_Channel_Logo.svg" group-title="Infantiles",Dreamworks
+http://pe.shortgod.com/c16a6/tv2.php?id=223517
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIESPNPR.png" group-title="Deportes",ESPN Premium
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0031
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="Deportes",Garage TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--TNTS.png" group-title="Deportes",TNT Sport
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--TNTS.png" group-title="Deportes",TNT Sport 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes",DEPORTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes",DEPORTV YT
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0065
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png"group-title="Deportes", Tyc Sports
+http://pe.shortgod.com/c16a6/tv1.php?id=274.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png"group-title="Deportes", AyM Sports
+http://pe.shortgod.com/c16a6/tv1.php?id=148.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png"group-title="Deportes", CDF Premium
+http://pe.shortgod.com/c16a6/tv1.php?id=318.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png"group-title="Deportes", CDO Premium
+http://pe.shortgod.com/c16a6/tv1.php?id=401.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png"group-title="Deportes", Claro Sports
+http://pe.shortgod.com/c16a6/tv1.php?id=328.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png"group-title="Deportes", DirectTV Sports
+http://pe.shortgod.com/c16a6/tv1.php?id=259.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"group-title="Deportes", DirectTV Sports 2
+http://pe.shortgod.com/c16a6/tv1.php?id=667.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"group-title="Deportes", ESPN
+http://pe.shortgod.com/c16a6/tv1.php?id=34.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"group-title="Deportes", ESPN 2
+http://pe.shortgod.com/c16a6/tv1.php?id=35.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"group-title="Deportes", ESPN 2 MX
+http://pe.shortgod.com/c16a6/tv1.php?id=531.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"group-title="Deportes", ESPN MX
+http://pe.shortgod.com/c16a6/tv1.php?id=530.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png"group-title="Deportes", ESPN Plus
+http://pe.shortgod.com/c16a6/tv1.php?id=37.m3u8
+#EXTINF:-1 "group-title="Deportes",SY SPORTS F1
+http://pe.shortgod.com/c16a6/tv3.php?id=20828
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png"group-title="Deportes", Formula 1 TV (F1)
+http://pe.shortgod.com/c16a6/tv1.php?id=192.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes" ,DAZN F1 UHD/4K
+http://pe.shortgod.com/c16a6/tv2.php?id=223427
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",DAZN F1
+http://pe.shortgod.com/c16a6/tv2.php?id=223426
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",DAZN 4
+http://pe.shortgod.com/c16a6/tv2.php?id=223425
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",DAZN 3
+http://pe.shortgod.com/c16a6/tv2.php?id=223424
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",DAZN 2
+http://pe.shortgod.com/c16a6/tv2.php?id=223423
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",DAZN 1
+http://pe.shortgod.com/c16a6/tv2.php?id=223422
+#EXTINF:-1 group-title="Deportes" ,MOTOR TREND
+http://pe.shortgod.com/c16a6/tv3.php?id=26819
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes", Fox Sports
+http://pe.shortgod.com/c16a6/tv1.php?id=52.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="Deportes", Fox Sports 2
+http://pe.shortgod.com/c16a6/tv1.php?id=53.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="Deportes", Fox Sports 2 MX
+http://pe.shortgod.com/c16a6/tv1.php?id=528.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"group-title="Deportes", Fox Sports 3
+http://pe.shortgod.com/c16a6/tv1.php?id=54.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes", Fox Sports MX
+http://pe.shortgod.com/c16a6/tv1.php?id=527.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes", Fox Sports MX Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=748.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png"group-title="Deportes", Fox Sports Premium
+http://pe.shortgod.com/c16a6/tv1.php?id=512.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes", Fox Sports Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=402.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="Deportes", Fox Sports Sur 2
+http://pe.shortgod.com/c16a6/tv1.php?id=410.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"group-title="Deportes", Fox Sports Sur 3
+http://pe.shortgod.com/c16a6/tv1.php?id=511.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png"group-title="Deportes", NBA
+http://pe.shortgod.com/c16a6/tv1.php?id=838.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png"group-title="Deportes", TNT Sports
+http://pe.shortgod.com/c16a6/tv1.php?id=509.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes", TUDN 
+http://pe.shortgod.com/c16a6/tv1.php?id=698.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes", TUDN (Pocos Datos)
+http://pe.shortgod.com/c16a6/tv1.php?id=822.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes", TUDN USA
+http://pe.shortgod.com/c16a6/tv1.php?id=86.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png"group-title="Deportes", Tyc Sports
+http://pe.shortgod.com/c16a6/tv1.php?id=274.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"group-title="Deportes", Win Sports
+http://pe.shortgod.com/c16a6/tv1.php?id=292.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png"group-title="Deportes", WWE Network
+http://pe.shortgod.com/c16a6/tv1.php?id=276.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CNN.png" group-title="Internacional",CNN International
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png"group-title="Internacional",Mexico | Canal de las Estrellas
+http://pe.shortgod.com/c16a6/tv1.php?id=411.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png"group-title="Internacional", Mexico | Canal de las Estrellas Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=736.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png"group-title="Internacional", Animal Planet
+http://pe.shortgod.com/c16a6/tv1.php?id=3.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png"group-title="Internacional", Discovery Channel
+http://pe.shortgod.com/c16a6/tv1.php?id=22.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png"group-title="Internacional", Discovery Channel Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=741.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png"group-title="Internacional", Discovery Civilization
+http://pe.shortgod.com/c16a6/tv1.php?id=23.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"group-title="Internacional", Discovery H&H
+http://pe.shortgod.com/c16a6/tv1.php?id=24.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"group-title="Internacional", Discovery H&H Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=742.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png"group-title="Internacional", Discovery SCI
+http://pe.shortgod.com/c16a6/tv1.php?id=26.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png"group-title="Internacional", Discovery Theater HD
+http://pe.shortgod.com/c16a6/tv1.php?id=27.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png"group-title="Internacional", Discovery Turbo
+http://pe.shortgod.com/c16a6/tv1.php?id=28.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png"group-title="Internacional", Discovery World
+http://pe.shortgod.com/c16a6/tv1.php?id=187.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png"group-title="Internacional", H2
+http://pe.shortgod.com/c16a6/tv1.php?id=61.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png"group-title="Internacional", H2 Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=760.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"group-title="Internacional", History Channel
+http://pe.shortgod.com/c16a6/tv1.php?id=67.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png"group-title="Internacional", Investigation Discovery
+http://pe.shortgod.com/c16a6/tv1.php?id=68.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png"group-title="Internacional", Nat Geo
+http://pe.shortgod.com/c16a6/tv1.php?id=76.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Internacional", Nat Geo Wild
+http://pe.shortgod.com/c16a6/tv1.php?id=77.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios y Musica",LR6 Mitre
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios y Musica",LS4 Continental
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="Radios y Musica",LS5 Rivadavia
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVORTER.png" group-title="Radios y Musica",Vorterix
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0010
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LA100.png" group-title="Radios y Musica",La 100
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0012
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png"group-title="Radios y Musica",Musica | Bandamax
+http://pe.shortgod.com/c16a6/tv1.php?id=8.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png"group-title="Radios y Musica",Musica | Capital TV
+http://pe.shortgod.com/c16a6/tv1.php?id=205.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png"group-title="Radios y Musica",Musica | Djing Ibiza
+http://pe.shortgod.com/c16a6/tv1.php?id=277.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png"group-title="Radios y Musica",Musica | Hit TV
+http://pe.shortgod.com/c16a6/tv1.php?id=201.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png"group-title="Radios y Musica",Musica | HTV
+http://pe.shortgod.com/c16a6/tv1.php?id=66.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Juce TV
+http://pe.shortgod.com/c16a6/tv1.php?id=263.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | m2o TV
+http://pe.shortgod.com/c16a6/tv1.php?id=203.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png"group-title="Radios y Musica",Musica | Mi Musica HD
+http://pe.shortgod.com/c16a6/tv1.php?id=172.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png"group-title="Radios y Musica",Musica | MTV Live
+http://pe.shortgod.com/c16a6/tv1.php?id=70.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Music Now
+http://pe.shortgod.com/c16a6/tv1.php?id=690.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png"group-title="Radios y Musica",Musica | MusicTop
+http://pe.shortgod.com/c16a6/tv1.php?id=691.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png"group-title="Radios y Musica",Musica | Retro Music
+http://pe.shortgod.com/c16a6/tv1.php?id=692.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png"group-title="Radios y Musica",Musica | Ritmoson Latino
+http://pe.shortgod.com/c16a6/tv1.php?id=154.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png"group-title="Radios y Musica",Musica | Telehit
+http://pe.shortgod.com/c16a6/tv1.php?id=91.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png"group-title="Radios y Musica",Musica | Tu Musica HD
+http://pe.shortgod.com/c16a6/tv1.php?id=516.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png"group-title="Radios y Musica",Musica | VH1
+http://pe.shortgod.com/c16a6/tv1.php?id=101.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png"group-title="Radios y Musica",Musica | Video Rola
+http://pe.shortgod.com/c16a6/tv1.php?id=359.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: 1Music
+http://pe.shortgod.com/c16a6/tv1.php?id=433.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: Company Radio TV
+http://pe.shortgod.com/c16a6/tv1.php?id=435.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: Dream TV
+http://pe.shortgod.com/c16a6/tv1.php?id=439.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Virgin TV
+http://pe.shortgod.com/c16a6/tv1.php?id=315.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"group-title="Entretenimiento", A&E
+http://pe.shortgod.com/c16a6/tv1.php?id=1.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"group-title="Entretenimiento", A&E Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=734.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png"group-title="Entretenimiento", AMC
+http://pe.shortgod.com/c16a6/tv1.php?id=183.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Entretenimiento", Anime 24H
+http://pe.shortgod.com/c16a6/tv1.php?id=269.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"group-title="Entretenimiento", AXN
+http://pe.shortgod.com/c16a6/tv1.php?id=146.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"group-title="Entretenimiento", AXN Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=804.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png"group-title="Entretenimiento", Az Clic
+http://pe.shortgod.com/c16a6/tv1.php?id=165.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png"group-title="Entretenimiento", Caracol Internacional
+http://pe.shortgod.com/c16a6/tv1.php?id=290.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"group-title="Entretenimiento", Comedy Central
+http://pe.shortgod.com/c16a6/tv1.php?id=135.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"group-title="Entretenimiento", Comedy Central Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=740.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png"group-title="Entretenimiento", Distrito Comedia
+http://pe.shortgod.com/c16a6/tv1.php?id=32.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png"group-title="Entretenimiento", E!
+http://pe.shortgod.com/c16a6/tv1.php?id=33.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png"group-title="Entretenimiento", El Gourmet
+http://pe.shortgod.com/c16a6/tv1.php?id=157.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png"group-title="Entretenimiento", Estrella TV
+http://pe.shortgod.com/c16a6/tv1.php?id=177.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png"group-title="Entretenimiento", Fox Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=750.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png"group-title="Entretenimiento", Fox Life Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=746.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png"group-title="Entretenimiento", FX
+http://pe.shortgod.com/c16a6/tv1.php?id=42.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png"group-title="Entretenimiento", FX Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=749.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png"group-title="Entretenimiento", Glitz
+http://pe.shortgod.com/c16a6/tv1.php?id=158.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png"group-title="Entretenimiento", Hola TV
+http://pe.shortgod.com/c16a6/tv1.php?id=189.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento", Lifetime
+http://pe.shortgod.com/c16a6/tv1.php?id=152.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"group-title="Entretenimiento", MTV
+http://pe.shortgod.com/c16a6/tv1.php?id=69.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"group-title="Entretenimiento", MTV Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=823.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png"group-title="Entretenimiento", Sony
+http://pe.shortgod.com/c16a6/tv1.php?id=145.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png"group-title="Entretenimiento", Star
+http://pe.shortgod.com/c16a6/tv1.php?id=45.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png"group-title="Entretenimiento", Star Life
+http://pe.shortgod.com/c16a6/tv1.php?id=50.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png"group-title="Entretenimiento", Star Series
+http://pe.shortgod.com/c16a6/tv1.php?id=303.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png"group-title="Entretenimiento", Star Series Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=745.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png"group-title="Entretenimiento", TBS Very Funny
+http://pe.shortgod.com/c16a6/tv1.php?id=171.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png"group-title="Entretenimiento", TLC
+http://pe.shortgod.com/c16a6/tv1.php?id=87.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png"group-title="Entretenimiento", Tlnovelas
+http://pe.shortgod.com/c16a6/tv1.php?id=94.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"group-title="Entretenimiento", TNT Series
+http://pe.shortgod.com/c16a6/tv1.php?id=90.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"group-title="Entretenimiento", TNT Series Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=757.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png"group-title="Entretenimiento", TruTV
+http://pe.shortgod.com/c16a6/tv1.php?id=96.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png"group-title="Entretenimiento", Unicable
+http://pe.shortgod.com/c16a6/tv1.php?id=98.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png"group-title="Entretenimiento", Univision
+http://pe.shortgod.com/c16a6/tv1.php?id=99.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Entretenimiento", Univision Tlnovelas
+http://pe.shortgod.com/c16a6/tv1.php?id=413.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"group-title="Entretenimiento", Warner Channel
+http://pe.shortgod.com/c16a6/tv1.php?id=102.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"group-title="Entretenimiento", Warner Channel Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=759.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg"group-title="Peliculas", Cine Accion
+http://pe.shortgod.com/c16a6/tv1.php?id=700.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg"group-title="Peliculas", Cine Comedia 1
+http://pe.shortgod.com/c16a6/tv1.php?id=695.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg"group-title="Peliculas", Cine Comedia 2
+http://pe.shortgod.com/c16a6/tv1.php?id=696.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg"group-title="Peliculas", Cine Ficcion/Fantasia 1
+http://pe.shortgod.com/c16a6/tv1.php?id=709.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg"group-title="Peliculas", Cine Ficcion/Fantasia 2
+http://pe.shortgod.com/c16a6/tv1.php?id=710.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg"group-title="Peliculas", Cine Ficcion/Fantasia Sagas
+http://pe.shortgod.com/c16a6/tv1.php?id=711.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg"group-title="Peliculas", Cine Infantil
+http://pe.shortgod.com/c16a6/tv1.php?id=687.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg"group-title="Peliculas", Cine Infantil Sagas
+http://pe.shortgod.com/c16a6/tv1.php?id=694.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png"group-title="Peliculas", Cine Latino
+http://pe.shortgod.com/c16a6/tv1.php?id=295.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg"group-title="Peliculas", Cine Marvel
+http://pe.shortgod.com/c16a6/tv1.php?id=697.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg"group-title="Peliculas", Cine Romance
+http://pe.shortgod.com/c16a6/tv1.php?id=689.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg"group-title="Peliculas", Cine Terror
+http://pe.shortgod.com/c16a6/tv1.php?id=693.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg"group-title="Peliculas", Cine Zombis
+http://pe.shortgod.com/c16a6/tv1.php?id=688.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"group-title="Peliculas", Cinecanal
+http://pe.shortgod.com/c16a6/tv1.php?id=18.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"group-title="Peliculas", Cinecanal Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=738.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"group-title="Peliculas", Cinemax
+http://pe.shortgod.com/c16a6/tv1.php?id=20.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"group-title="Peliculas", Cinemax Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=739.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png"group-title="Peliculas", De Pelicula
+http://pe.shortgod.com/c16a6/tv1.php?id=21.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"group-title="Peliculas", DHE
+http://pe.shortgod.com/c16a6/tv1.php?id=844.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Peliculas", FM Hot TV
+http://pe.shortgod.com/c16a6/tv1.php?id=731.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png"group-title="Peliculas", FXM
+http://pe.shortgod.com/c16a6/tv1.php?id=43.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png"group-title="Peliculas", Golden
+http://pe.shortgod.com/c16a6/tv1.php?id=57.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png"group-title="Peliculas", Golden Edge
+http://pe.shortgod.com/c16a6/tv1.php?id=58.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"group-title="Peliculas", HBO
+http://pe.shortgod.com/c16a6/tv1.php?id=62.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"group-title="Peliculas", HBO (EN)
+http://pe.shortgod.com/c16a6/tv1.php?id=723.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"group-title="Peliculas", HBO 2
+http://pe.shortgod.com/c16a6/tv1.php?id=300.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"group-title="Peliculas", HBO 2 (EN)
+http://pe.shortgod.com/c16a6/tv1.php?id=724.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png"group-title="Peliculas", HBO Family
+http://pe.shortgod.com/c16a6/tv1.php?id=63.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"group-title="Peliculas", HBO Plus
+http://pe.shortgod.com/c16a6/tv1.php?id=64.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"group-title="Peliculas", HBO Plus (EN)
+http://pe.shortgod.com/c16a6/tv1.php?id=722.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png"group-title="Peliculas", HBO Xtreme
+http://pe.shortgod.com/c16a6/tv1.php?id=814.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png"group-title="Peliculas", HBO Xtreme
+http://pe.shortgod.com/c16a6/tv1.php?id=841.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png"group-title="Peliculas", I.Sat
+http://pe.shortgod.com/c16a6/tv1.php?id=153.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Peliculas", MegaCine HD
+http://pe.shortgod.com/c16a6/tv1.php?id=517.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png"group-title="Peliculas", Movie Max
+http://pe.shortgod.com/c16a6/tv1.php?id=678.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png"group-title="Peliculas", MultiPremier
+http://pe.shortgod.com/c16a6/tv1.php?id=294.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png"group-title="Peliculas", Paramount
+http://pe.shortgod.com/c16a6/tv1.php?id=200.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png"group-title="Peliculas", Showtime
+http://pe.shortgod.com/c16a6/tv1.php?id=679.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png"group-title="Peliculas", Space
+http://pe.shortgod.com/c16a6/tv1.php?id=83.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png"group-title="Peliculas", Space Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=751.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png"group-title="Peliculas", Star Action
+http://pe.shortgod.com/c16a6/tv1.php?id=46.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png"group-title="Peliculas", Star Cinema
+http://pe.shortgod.com/c16a6/tv1.php?id=47.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_classics.png"group-title="Peliculas", Star Classics
+http://pe.shortgod.com/c16a6/tv1.php?id=48.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_comedy.png"group-title="Peliculas", Star Comedy
+http://pe.shortgod.com/c16a6/tv1.php?id=150.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png"group-title="Peliculas", Star Fun
+http://pe.shortgod.com/c16a6/tv1.php?id=49.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png"group-title="Peliculas", Star Hits
+http://pe.shortgod.com/c16a6/tv1.php?id=51.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png"group-title="Peliculas", Star Hits Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=747.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png"group-title="Peliculas", Starz Cinema
+http://pe.shortgod.com/c16a6/tv1.php?id=680.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png"group-title="Peliculas", Starz Comedy
+http://pe.shortgod.com/c16a6/tv1.php?id=681.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png"group-title="Peliculas", Starz Encore Action
+http://pe.shortgod.com/c16a6/tv1.php?id=682.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png"group-title="Peliculas", Starz Encore Black
+http://pe.shortgod.com/c16a6/tv1.php?id=683.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png"group-title="Peliculas", Starz Encore Family
+http://pe.shortgod.com/c16a6/tv1.php?id=684.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png"group-title="Peliculas", Studio Universal
+http://pe.shortgod.com/c16a6/tv1.php?id=84.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"group-title="Peliculas", SyFy
+http://pe.shortgod.com/c16a6/tv1.php?id=151.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"group-title="Peliculas", SyFy Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=758.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png"group-title="Peliculas", TCM
+http://pe.shortgod.com/c16a6/tv1.php?id=85.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"group-title="Peliculas", TNT
+http://pe.shortgod.com/c16a6/tv1.php?id=179.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"group-title="Peliculas", TNT Sur
+http://pe.shortgod.com/c16a6/tv1.php?id=752.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"group-title="Peliculas", Universal
+http://pe.shortgod.com/c16a6/tv1.php?id=137.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España",A3Series
+http://pe.shortgod.com/c16a6/tv1.php?id=444.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES
+http://pe.shortgod.com/c16a6/tv1.php?id=715.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España",Antena 3
+http://pe.shortgod.com/c16a6/tv1.php?id=298.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"group-title="España",AXN (ES)
+http://pe.shortgod.com/c16a6/tv1.php?id=713.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"group-title="España",AXN WHITE (ES)
+http://pe.shortgod.com/c16a6/tv1.php?id=714.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png"group-title="España",Canal+ Accion
+http://pe.shortgod.com/c16a6/tv1.php?id=364.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"group-title="España",Comedy Central (ES)
+http://pe.shortgod.com/c16a6/tv1.php?id=719.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png"group-title="España",rime Investigation (ES)
+http://pe.shortgod.com/c16a6/tv1.php?id=720.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"group-title="España",Historia (ES)
+http://pe.shortgod.com/c16a6/tv1.php?id=718.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png"group-title="España", La Sexta
+http://pe.shortgod.com/c16a6/tv1.php?id=326.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="España", Mega (ES)
+http://pe.shortgod.com/c16a6/tv1.php?id=352.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png"group-title="España",Movistar Comedia
+http://pe.shortgod.com/c16a6/tv1.php?id=370.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png"group-title="España", Movistar Xtra
+http://pe.shortgod.com/c16a6/tv1.php?id=372.m3u8
+
+#EXTINF:-1  group-title="24/7", Los Simpson 24\/7
+http://pe.shortgod.com/c16a6/tv6.php?id=329
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7", Alf 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=426.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png"group-title="24/7", Animaniacs 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=677.m3u8
+#EXTINF:-1 tvg-logo=""group-title="24/7", Barbie 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=788.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png"group-title="24/7", Bleach 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=883.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png"group-title="24/7", Bob Esponja 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=518.m3u8
+#EXTINF:-1 tvg-logo=""group-title="24/7", Brickleberry 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=789.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png"group-title="24/7", Caballeros del Zodiaco 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=427.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png"group-title="24/7", Cantinflas 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=428.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png"group-title="24/7", CatDog 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=785.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png"group-title="24/7", Chapulin Colorado 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=418.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg"group-title="24/7", Chespirito 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=417.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png"group-title="24/7", Coraje el Perro Cobarde 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=519.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png"group-title="24/7", Dinosaurios 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=670.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png"group-title="24/7", Doraemon 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=521.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png"group-title="24/7", Dragon Ball 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=425.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png"group-title="24/7", Dragon Ball GT 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=520.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png"group-title="24/7", Dragon Ball Super 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=424.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png"group-title="24/7", Dragon Ball Z 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=329.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png"group-title="24/7", El Chavo Animado 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=790.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png"group-title="24/7", El Chavo del 8 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=400.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png"group-title="24/7", El Coyote y el Correcaminos 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=429.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png"group-title="24/7", El Increible Mundo de Gumball 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=791.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png"group-title="24/7", El Pajaro Loco 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=525.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png"group-title="24/7", El Principel del Rap 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=430.m3u8
+#EXTINF:-1 tvg-logo=""group-title="24/7", Futurama 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=793.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png"group-title="24/7", Game of Thrones 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=515.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png"group-title="24/7", Hey Arnold 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=522.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png"group-title="24/7", Johnny Bravo 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=786.m3u8
+#EXTINF:-1 tvg-logo=""group-title="24/7", La Casa de Papel 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=403.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png"group-title="24/7", La Hora Pico 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=887.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png"group-title="24/7", La Pantera Rosa 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=671.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png"group-title="24/7", La PequeÃ±a Lulu 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=792.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png"group-title="24/7", La Rosa de Guadalupe 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=886.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png"group-title="24/7", Le Temes a la Oscuridad 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=888.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png"group-title="24/7", Looney Tunes 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=524.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png"group-title="24/7", Los 3 Chiflados 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=423.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png"group-title="24/7", Los Picapiedra 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=669.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png"group-title="24/7", Los Pinguinos de Madagascar 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=794.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png"group-title="24/7", Los Pitufos 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=795.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png"group-title="24/7", Los Reyes de la Colina 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=796.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"group-title="24/7", Los Simpson 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=357.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png"group-title="24/7", Los Supersonicos 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=797.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"group-title="24/7", Malcolm 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=798.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png"group-title="24/7", Mr. Bean 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=431.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png"group-title="24/7", Naruto 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=523.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png"group-title="24/7", One Punch Man 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=661.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png"group-title="24/7", Padre de Familia 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=416.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png"group-title="24/7", Peppa Pig 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=787.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png"group-title="24/7", Pinky y Cerebro 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=721.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png"group-title="24/7", Pocoyo 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=799.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png"group-title="24/7", Pokemon 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=420.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png"group-title="24/7", Prison Break 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=884.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png"group-title="24/7", Ranma 1/2 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=419.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png"group-title="24/7", Sakura Card Captor 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=672.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png"group-title="24/7", Samurai X 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=663.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png"group-title="24/7", Scooby Doo 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=422.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png"group-title="24/7", Smallville 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=673.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png"group-title="24/7", South Park 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=674.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png"group-title="24/7", Spiderman 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=889.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png"group-title="24/7", Super Campeones 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=432.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png"group-title="24/7", The Big Bang Theory 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=676.m3u8
+#EXTINF:-1 tvg-logo=""group-title="24/7", The Walking Dead 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=800.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png"group-title="24/7", Tom y Jerry 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=421.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png"group-title="24/7", TrollHunters 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=662.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png"group-title="24/7", Two And a Half Men 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=675.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png"group-title="24/7", Yu-Gi-Oh! 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=664.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png"group-title="24/7", Breaking Bad 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=846.m3u8
+#EXTINF:-1 tvg-logo=""group-title="24/7", Candy Candy 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=808.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png"group-title="24/7", El Gallo Claudio 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=845.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png"group-title="24/7", El SeÃ±or de los Cielos 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=820.m3u8
+#EXTINF:-1 tvg-logo=""group-title="24/7", Garfield 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=812.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png"group-title="24/7", La Vaca y ElPollito 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=809.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png"group-title="24/7", Max Steel 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=880.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png"group-title="24/7", Patoaventuras 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=819.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png"group-title="24/7", Patrulla Canina 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=807.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7", Los AÃ±os Maravillosos 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=810.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png"group-title="24/7", Los Padrinos Magicos 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=813.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png"group-title="24/7", Los Vengadores Unidos 24/7
+http://pe.shortgod.com/c16a6/tv1.php?id=818.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"group-title="HD",HD | A&E HD
+http://pe.shortgod.com/c16a6/tv1.php?id=474.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png"group-title="HD",HD | AMC HD
+http://pe.shortgod.com/c16a6/tv1.php?id=475.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png"group-title="HD",HD | Animal Planet HD
+http://pe.shortgod.com/c16a6/tv1.php?id=633.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"group-title="HD",HD | AXN HD
+http://pe.shortgod.com/c16a6/tv1.php?id=476.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png"group-title="HD",HD | Az CorazÃ³n HD
+http://pe.shortgod.com/c16a6/tv1.php?id=834.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png"group-title="HD",HD | Azteca 1 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=634.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png"group-title="HD",HD | Azteca 7 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=635.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png"group-title="HD",HD | Bandamax HD
+http://pe.shortgod.com/c16a6/tv1.php?id=833.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png"group-title="HD",HD | Bein HD
+http://pe.shortgod.com/c16a6/tv1.php?id=763.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png"group-title="HD",HD | BeinSports HD
+http://pe.shortgod.com/c16a6/tv1.php?id=9.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png"group-title="HD",HD | BeinSports Ã‘ HD
+http://pe.shortgod.com/c16a6/tv1.php?id=376.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png"group-title="HD",HD | Canal de las Estrellas HD
+http://pe.shortgod.com/c16a6/tv1.php?id=636.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png"group-title="HD",HD | Cartoon Network HD
+http://pe.shortgod.com/c16a6/tv1.php?id=637.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png"group-title="HD",HD | Cartoonito (Boomerang) HD
+http://pe.shortgod.com/c16a6/tv1.php?id=824.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png"group-title="HD",HD | CDF Premium HD
+http://pe.shortgod.com/c16a6/tv1.php?id=725.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg"group-title="HD",HD | Cine Accion HD
+http://pe.shortgod.com/c16a6/tv1.php?id=706.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_hd/img.jpg"group-title="HD",HD | Cine Accion Sagas HD
+http://pe.shortgod.com/c16a6/tv1.php?id=707.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg"group-title="HD",HD | Cine Ficcion/Fantasia HD
+http://pe.shortgod.com/c16a6/tv1.php?id=712.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_hd/img.jpg"group-title="HD",HD | Cine Infantil HD
+http://pe.shortgod.com/c16a6/tv1.php?id=702.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_hd/img.jpg"group-title="HD",HD | Cine Infantil Sagas HD
+http://pe.shortgod.com/c16a6/tv1.php?id=703.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_hd/img.jpg"group-title="HD",HD | Cine Marvel HD
+http://pe.shortgod.com/c16a6/tv1.php?id=701.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance_hd/img.jpg"group-title="HD",HD | Cine Romance HD
+http://pe.shortgod.com/c16a6/tv1.php?id=705.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg"group-title="HD",HD | Cine Terror HD
+http://pe.shortgod.com/c16a6/tv1.php?id=704.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"group-title="HD",HD | Cinecanal HD
+http://pe.shortgod.com/c16a6/tv1.php?id=479.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"group-title="HD",HD | Cinemax HD
+http://pe.shortgod.com/c16a6/tv1.php?id=638.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"group-title="HD",HD | Comedy Central HD
+http://pe.shortgod.com/c16a6/tv1.php?id=480.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png"group-title="HD",HD | De Pelicula HD
+http://pe.shortgod.com/c16a6/tv1.php?id=481.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png"group-title="HD",HD | DirectTV Sports Peru HD
+http://pe.shortgod.com/c16a6/tv1.php?id=879.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png"group-title="HD",HD | Discovery Channel HD
+http://pe.shortgod.com/c16a6/tv1.php?id=639.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"group-title="HD",HD | Discovery H&H HD
+http://pe.shortgod.com/c16a6/tv1.php?id=640.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png"group-title="HD",HD | Discovery Kids HD
+http://pe.shortgod.com/c16a6/tv1.php?id=641.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png"group-title="HD",HD | Discovery Turbo HD
+http://pe.shortgod.com/c16a6/tv1.php?id=727.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png"group-title="HD",HD | Disney Junior HD
+http://pe.shortgod.com/c16a6/tv1.php?id=826.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png"group-title="HD",HD | Disney XD HD
+http://pe.shortgod.com/c16a6/tv1.php?id=827.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png"group-title="HD",HD | E! HD
+http://pe.shortgod.com/c16a6/tv1.php?id=483.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"group-title="HD",HD | ESPN 2 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=484.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png"group-title="HD",HD | ESPN 3 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=485.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"group-title="HD",HD | ESPN HD
+http://pe.shortgod.com/c16a6/tv1.php?id=486.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png"group-title="HD",HD | ESPN Plus HD
+http://pe.shortgod.com/c16a6/tv1.php?id=487.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png"group-title="HD",HD | Film & Arts HD
+http://pe.shortgod.com/c16a6/tv1.php?id=149.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png"group-title="HD",HD | Film & Arts HD (EN)
+http://pe.shortgod.com/c16a6/tv1.php?id=729.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="HD",HD | Fox Sports 2 Argentina HD
+http://pe.shortgod.com/c16a6/tv1.php?id=770.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="HD",HD | Fox Sports 2 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=494.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"group-title="HD",HD | Fox Sports 3 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=839.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="HD",HD | Fox Sports Argentina HD
+http://pe.shortgod.com/c16a6/tv1.php?id=769.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="HD",HD | Fox Sports HD
+http://pe.shortgod.com/c16a6/tv1.php?id=493.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png"group-title="HD",HD | Fox Sports Premium HD
+http://pe.shortgod.com/c16a6/tv1.php?id=658.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png"group-title="HD",HD | FX HD
+http://pe.shortgod.com/c16a6/tv1.php?id=495.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png"group-title="HD",HD | FXM HD
+http://pe.shortgod.com/c16a6/tv1.php?id=488.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png"group-title="HD",HD | Gala TV HD
+http://pe.shortgod.com/c16a6/tv1.php?id=651.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png"group-title="HD",HD | Gol TV HD
+http://pe.shortgod.com/c16a6/tv1.php?id=514.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png"group-title="HD",HD | Golden HD
+http://pe.shortgod.com/c16a6/tv1.php?id=496.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"group-title="HD",HD | HBO 2 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=732.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"group-title="HD",HD | HBO 2 HD (EN)
+http://pe.shortgod.com/c16a6/tv1.php?id=733.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"group-title="HD",HD | HBO HD
+http://pe.shortgod.com/c16a6/tv1.php?id=654.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"group-title="HD",HD | HBO Plus HD
+http://pe.shortgod.com/c16a6/tv1.php?id=655.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"group-title="HD",HD | HBO Plus Oeste HD
+http://pe.shortgod.com/c16a6/tv1.php?id=728.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"group-title="HD",HD | History Channel HD
+http://pe.shortgod.com/c16a6/tv1.php?id=642.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png"group-title="HD",HD | Imagen TelevisiÃ³n HD
+http://pe.shortgod.com/c16a6/tv1.php?id=643.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png"group-title="HD",HD | Investigation Discovery HD
+http://pe.shortgod.com/c16a6/tv1.php?id=825.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="HD",HD | Max Prime HD
+http://pe.shortgod.com/c16a6/tv1.php?id=730.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="HD",HD | Max Up HD
+http://pe.shortgod.com/c16a6/tv1.php?id=659.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"group-title="HD",HD | MTV HD
+http://pe.shortgod.com/c16a6/tv1.php?id=828.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png"group-title="HD",HD | Nat Geo HD
+http://pe.shortgod.com/c16a6/tv1.php?id=644.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png"group-title="HD",HD | Nat Geo Wild HD
+http://pe.shortgod.com/c16a6/tv1.php?id=497.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png"group-title="HD",HD | Nick 2 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=646.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png"group-title="HD",HD | Nick HD
+http://pe.shortgod.com/c16a6/tv1.php?id=645.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png"group-title="HD",HD | Nick JR HD
+http://pe.shortgod.com/c16a6/tv1.php?id=829.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png"group-title="HD",HD | Paramount HD
+http://pe.shortgod.com/c16a6/tv1.php?id=647.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png"group-title="HD",HD | Pasiones HD
+http://pe.shortgod.com/c16a6/tv1.php?id=755.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rt.png"group-title="HD",HD | RT HD
+http://pe.shortgod.com/c16a6/tv1.php?id=142.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png"group-title="HD",HD | Sony HD
+http://pe.shortgod.com/c16a6/tv1.php?id=498.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png"group-title="HD",HD | Space HD
+http://pe.shortgod.com/c16a6/tv1.php?id=499.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png"group-title="HD",HD | Star Action HD
+http://pe.shortgod.com/c16a6/tv1.php?id=490.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png"group-title="HD",HD | Star Fun HD
+http://pe.shortgod.com/c16a6/tv1.php?id=840.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png"group-title="HD",HD | Star HD
+http://pe.shortgod.com/c16a6/tv1.php?id=489.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png"group-title="HD",HD | Star Hits HD
+http://pe.shortgod.com/c16a6/tv1.php?id=491.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png"group-title="HD",HD | Star Life HD
+http://pe.shortgod.com/c16a6/tv1.php?id=652.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png"group-title="HD",HD | Star Series HD
+http://pe.shortgod.com/c16a6/tv1.php?id=492.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png"group-title="HD",HD | Starz HD
+http://pe.shortgod.com/c16a6/tv1.php?id=685.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png"group-title="HD",HD | Studio Universal HD
+http://pe.shortgod.com/c16a6/tv1.php?id=830.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"group-title="HD",HD | SyFy HD
+http://pe.shortgod.com/c16a6/tv1.php?id=648.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png"group-title="HD",HD | TBS Very Funny HD
+http://pe.shortgod.com/c16a6/tv1.php?id=831.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png"group-title="HD",HD | Telehit HD
+http://pe.shortgod.com/c16a6/tv1.php?id=649.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png"group-title="HD",HD | Telemundo HD
+http://pe.shortgod.com/c16a6/tv1.php?id=660.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png"group-title="HD",HD | Tlnovelas HD
+http://pe.shortgod.com/c16a6/tv1.php?id=832.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"group-title="HD",HD | TNT HD
+http://pe.shortgod.com/c16a6/tv1.php?id=500.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"group-title="HD",HD | TNT Series HD
+http://pe.shortgod.com/c16a6/tv1.php?id=650.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png"group-title="HD",HD | TruTv HD
+http://pe.shortgod.com/c16a6/tv1.php?id=501.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="HD",HD | TUDN HD
+http://pe.shortgod.com/c16a6/tv1.php?id=801.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="HD",HD | TUDN USA HD
+http://pe.shortgod.com/c16a6/tv1.php?id=821.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png"group-title="HD",HD | Unicable HD
+http://pe.shortgod.com/c16a6/tv1.php?id=653.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"group-title="HD",HD | Universal HD
+http://pe.shortgod.com/c16a6/tv1.php?id=502.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png"group-title="HD",HD | VH1 HD
+http://pe.shortgod.com/c16a6/tv1.php?id=632.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"group-title="HD",HD | Warner Channel HD
+http://pe.shortgod.com/c16a6/tv1.php?id=503.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png"group-title="HD",HD | Win Sports +
+http://pe.shortgod.com/c16a6/tv1.php?id=881.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png"group-title="HD",HD | Win Sports + HD
+http://pe.shortgod.com/c16a6/tv1.php?id=802.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"group-title="HD",HD | Win Sports HD
+http://pe.shortgod.com/c16a6/tv1.php?id=754.m3u8
+
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 01
+http://pe.shortgod.com/c16a6/tv3.php?id=24333
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 02
+http://pe.shortgod.com/c16a6/tv3.php?id=24332
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 03
+http://pe.shortgod.com/c16a6/tv3.php?id=24331
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 04
+http://pe.shortgod.com/c16a6/tv3.php?id=24330
+#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 05
+http://pe.shortgod.com/c16a6/tv3.php?id=24329
+#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 06
+http://pe.shortgod.com/c16a6/tv3.php?id=24328
+#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 07
+http://pe.shortgod.com/c16a6/tv3.php?id=24327
+#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 08
+http://pe.shortgod.com/c16a6/tv3.php?id=24326
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 09
+http://pe.shortgod.com/c16a6/tv3.php?id=24325
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 10
+http://pe.shortgod.com/c16a6/tv3.php?id=24324
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 11
+http://pe.shortgod.com/c16a6/tv3.php?id=24323
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 12
+http://pe.shortgod.com/c16a6/tv3.php?id=24322
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 13
+http://pe.shortgod.com/c16a6/tv3.php?id=24321
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 14
+http://pe.shortgod.com/c16a6/tv3.php?id=24320
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 15
+http://pe.shortgod.com/c16a6/tv3.php?id=24319
+#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 16
+http://pe.shortgod.com/c16a6/tv3.php?id=24318
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 17
+http://pe.shortgod.com/c16a6/tv3.php?id=24317
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 18
+http://pe.shortgod.com/c16a6/tv3.php?id=24316
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 19
+http://pe.shortgod.com/c16a6/tv3.php?id=24315
+#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 20
+http://pe.shortgod.com/c16a6/tv3.php?id=24314
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 01
+http://pe.shortgod.com/c16a6/tv7.php?id=529
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 02
+http://pe.shortgod.com/c16a6/tv7.php?id=530
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 03
+http://pe.shortgod.com/c16a6/tv7.php?id=531
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 04
+http://pe.shortgod.com/c16a6/tv7.php?id=532
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 05
+http://pe.shortgod.com/c16a6/tv7.php?id=533
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 06
+http://pe.shortgod.com/c16a6/tv7.php?id=534
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 07
+http://pe.shortgod.com/c16a6/tv7.php?id=535
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 08
+http://pe.shortgod.com/c16a6/tv7.php?id=536
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 09
+http://pe.shortgod.com/c16a6/tv7.php?id=537
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 10
+http://pe.shortgod.com/c16a6/tv7.php?id=538
+#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | SEXMEX
+http://pe.shortgod.com/c16a6/tv7.php?id=539
