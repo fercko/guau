@@ -1,35 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Diarios",TN Todo Noticias
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Diarios",Cronica
+#EXTINF:-1 tvg-logo="" group-title="Diarios",Cronica
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Diarios",Cronica YT
+#EXTINF:-1 tvg-logo="" group-title="Diarios",Cronica YT
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0068
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="Diarios",C5N
+#EXTINF:-1 tvg-logo="" group-title="Diarios",C5N
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0071
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Diarios",LN+
+#EXTINF:-1 tvg-logo="" group-title="Diarios",LN+
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Diarios",America
+#EXTINF:-1 tvg-logo="" group-title="Diarios",America
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Diarios",A24
+#EXTINF:-1 tvg-logo="" group-title="Diarios",A24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0084
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Diarios",A24 YT
+#EXTINF:-1 tvg-logo="" group-title="Diarios",A24 YT
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0085
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALERTN.png" group-title="Diarios",AN24 TV
+#EXTINF:-1 tvg-logo="" group-title="Diarios",AN24 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Diarios",Canal 26
+#EXTINF:-1 tvg-logo="" group-title="Diarios",Canal 26
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Diarios",El Trece
+#EXTINF:-1 tvg-logo="" group-title="Diarios",El Trece
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Diarios",Telefe
+#EXTINF:-1 tvg-logo="" group-title="Diarios",Telefe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Diarios",Canal 9
+#EXTINF:-1 tvg-logo="" group-title="Diarios",Canal 9
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0082
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Diarios", El 13 Argentina
+#EXTINF:-1 tvg-logo="" group-title="Diarios", El 13 Argentina
 http://pe.shortgod.com/c16a6/tv1.php?id=239.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Diarios",El Nueve
+#EXTINF:-1 tvg-logo="" group-title="Diarios",El Nueve
 http://pe.shortgod.com/c16a6/tv1.php?id=772.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Diarios",El Trece
+#EXTINF:-1 tvg-logo=""group-title="Diarios",El Trece
 http://pe.shortgod.com/c16a6/tv1.php?id=767.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT17.png" group-title="Misiones",107.3 TV
