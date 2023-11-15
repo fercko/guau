@@ -2,9 +2,7 @@
 #EXTINF:-1 tvg-logo="" group-title="Diarios",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diarios",Cronica
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
-#EXTINF:-1 tvg-logo="" group-title="Diarios",Cronica YT
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0068
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diarios",C5N
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
 #EXTINF:-1 tvg-logo="" group-title="Diarios",LN+
