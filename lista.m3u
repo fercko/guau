@@ -31,7 +31,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0082
 http://pe.shortgod.com/c16a6/tv1.php?id=239.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Diarios",El Nueve
 http://pe.shortgod.com/c16a6/tv1.php?id=772.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Diarios",Telefe
+#EXTINF:-1 tvg-logo=""group-title="Diarios",Telefe - Pluto
 https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT17.png" group-title="Misiones",107.3 TV
