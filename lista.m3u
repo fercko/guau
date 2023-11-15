@@ -32,25 +32,6 @@ http://pe.shortgod.com/c16a6/tv1.php?id=772.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Diarios",Telefe - Pluto
 https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT17.png" group-title="Misiones",107.3 TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0320
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---2MI.png" group-title="Misiones",Canal 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0321
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4PO.png" group-title="Misiones",Canal 4
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0322
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C6P.png" group-title="Misiones",Noticias del 6
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0323
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4MI.png" group-title="Misiones",Misiones Cuatro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0324
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI21POSA.png" group-title="Misiones",Canal 21
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0325
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT85.png" group-title="Misiones",Canal 12
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0326
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT85.png" group-title="Misiones",Canal 12 YT
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0327
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TUM.png" group-title="Misiones",TUM - 34.2TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0328
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DKIDS.png" group-title="Infantiles",Discovery Kids
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAGICK.png" group-title="Infantiles",Magic Kids
@@ -234,61 +215,6 @@ http://pe.shortgod.com/c16a6/tv1.php?id=68.m3u8
 http://pe.shortgod.com/c16a6/tv1.php?id=76.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Internacional", Nat Geo Wild
 http://pe.shortgod.com/c16a6/tv1.php?id=77.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios y Musica",LR6 Mitre
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios y Musica",LS4 Continental
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="Radios y Musica",LS5 Rivadavia
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVORTER.png" group-title="Radios y Musica",Vorterix
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0010
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LA100.png" group-title="Radios y Musica",La 100
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0012
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png"group-title="Radios y Musica",Musica | Bandamax
-http://pe.shortgod.com/c16a6/tv1.php?id=8.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png"group-title="Radios y Musica",Musica | Capital TV
-http://pe.shortgod.com/c16a6/tv1.php?id=205.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png"group-title="Radios y Musica",Musica | Djing Ibiza
-http://pe.shortgod.com/c16a6/tv1.php?id=277.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png"group-title="Radios y Musica",Musica | Hit TV
-http://pe.shortgod.com/c16a6/tv1.php?id=201.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png"group-title="Radios y Musica",Musica | HTV
-http://pe.shortgod.com/c16a6/tv1.php?id=66.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Juce TV
-http://pe.shortgod.com/c16a6/tv1.php?id=263.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | m2o TV
-http://pe.shortgod.com/c16a6/tv1.php?id=203.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png"group-title="Radios y Musica",Musica | Mi Musica HD
-http://pe.shortgod.com/c16a6/tv1.php?id=172.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png"group-title="Radios y Musica",Musica | MTV Live
-http://pe.shortgod.com/c16a6/tv1.php?id=70.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Music Now
-http://pe.shortgod.com/c16a6/tv1.php?id=690.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png"group-title="Radios y Musica",Musica | MusicTop
-http://pe.shortgod.com/c16a6/tv1.php?id=691.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png"group-title="Radios y Musica",Musica | Retro Music
-http://pe.shortgod.com/c16a6/tv1.php?id=692.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png"group-title="Radios y Musica",Musica | Ritmoson Latino
-http://pe.shortgod.com/c16a6/tv1.php?id=154.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png"group-title="Radios y Musica",Musica | Telehit
-http://pe.shortgod.com/c16a6/tv1.php?id=91.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png"group-title="Radios y Musica",Musica | Tu Musica HD
-http://pe.shortgod.com/c16a6/tv1.php?id=516.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png"group-title="Radios y Musica",Musica | VH1
-http://pe.shortgod.com/c16a6/tv1.php?id=101.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png"group-title="Radios y Musica",Musica | Video Rola
-http://pe.shortgod.com/c16a6/tv1.php?id=359.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: 1Music
-http://pe.shortgod.com/c16a6/tv1.php?id=433.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: Company Radio TV
-http://pe.shortgod.com/c16a6/tv1.php?id=435.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: Dream TV
-http://pe.shortgod.com/c16a6/tv1.php?id=439.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Virgin TV
-http://pe.shortgod.com/c16a6/tv1.php?id=315.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"group-title="Entretenimiento", A&E
@@ -876,65 +802,55 @@ http://pe.shortgod.com/c16a6/tv1.php?id=802.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"group-title="HD",HD | Win Sports HD
 http://pe.shortgod.com/c16a6/tv1.php?id=754.m3u8
 
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 01
-http://pe.shortgod.com/c16a6/tv3.php?id=24333
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 02
-http://pe.shortgod.com/c16a6/tv3.php?id=24332
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 03
-http://pe.shortgod.com/c16a6/tv3.php?id=24331
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 04
-http://pe.shortgod.com/c16a6/tv3.php?id=24330
-#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 05
-http://pe.shortgod.com/c16a6/tv3.php?id=24329
-#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 06
-http://pe.shortgod.com/c16a6/tv3.php?id=24328
-#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 07
-http://pe.shortgod.com/c16a6/tv3.php?id=24327
-#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 08
-http://pe.shortgod.com/c16a6/tv3.php?id=24326
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 09
-http://pe.shortgod.com/c16a6/tv3.php?id=24325
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 10
-http://pe.shortgod.com/c16a6/tv3.php?id=24324
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 11
-http://pe.shortgod.com/c16a6/tv3.php?id=24323
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 12
-http://pe.shortgod.com/c16a6/tv3.php?id=24322
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 13
-http://pe.shortgod.com/c16a6/tv3.php?id=24321
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 14
-http://pe.shortgod.com/c16a6/tv3.php?id=24320
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 15
-http://pe.shortgod.com/c16a6/tv3.php?id=24319
-#EXTINF:-1 group-title="+18 (puerquesas) " ,NAUGHTY 16
-http://pe.shortgod.com/c16a6/tv3.php?id=24318
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 17
-http://pe.shortgod.com/c16a6/tv3.php?id=24317
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 18
-http://pe.shortgod.com/c16a6/tv3.php?id=24316
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 19
-http://pe.shortgod.com/c16a6/tv3.php?id=24315
-#EXTINF:-1 group-title="+18 (puerquesas) ",NAUGHTY 20
-http://pe.shortgod.com/c16a6/tv3.php?id=24314
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 01
-http://pe.shortgod.com/c16a6/tv7.php?id=529
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 02
-http://pe.shortgod.com/c16a6/tv7.php?id=530
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 03
-http://pe.shortgod.com/c16a6/tv7.php?id=531
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 04
-http://pe.shortgod.com/c16a6/tv7.php?id=532
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 05
-http://pe.shortgod.com/c16a6/tv7.php?id=533
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 06
-http://pe.shortgod.com/c16a6/tv7.php?id=534
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 07
-http://pe.shortgod.com/c16a6/tv7.php?id=535
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 08
-http://pe.shortgod.com/c16a6/tv7.php?id=536
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 09
-http://pe.shortgod.com/c16a6/tv7.php?id=537
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | 10
-http://pe.shortgod.com/c16a6/tv7.php?id=538
-#EXTINF:-1 group-title="+18 (puerquesas) ",XXX | SEXMEX
-http://pe.shortgod.com/c16a6/tv7.php?id=539
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR6.png" group-title="Radios y Musica",LR6 Mitre
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="Radios y Musica",LS4 Continental
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="Radios y Musica",LS5 Rivadavia
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVORTER.png" group-title="Radios y Musica",Vorterix
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0010
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LA100.png" group-title="Radios y Musica",La 100
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0012
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png"group-title="Radios y Musica",Musica | Bandamax
+http://pe.shortgod.com/c16a6/tv1.php?id=8.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png"group-title="Radios y Musica",Musica | Capital TV
+http://pe.shortgod.com/c16a6/tv1.php?id=205.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png"group-title="Radios y Musica",Musica | Djing Ibiza
+http://pe.shortgod.com/c16a6/tv1.php?id=277.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png"group-title="Radios y Musica",Musica | Hit TV
+http://pe.shortgod.com/c16a6/tv1.php?id=201.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png"group-title="Radios y Musica",Musica | HTV
+http://pe.shortgod.com/c16a6/tv1.php?id=66.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Juce TV
+http://pe.shortgod.com/c16a6/tv1.php?id=263.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | m2o TV
+http://pe.shortgod.com/c16a6/tv1.php?id=203.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png"group-title="Radios y Musica",Musica | Mi Musica HD
+http://pe.shortgod.com/c16a6/tv1.php?id=172.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png"group-title="Radios y Musica",Musica | MTV Live
+http://pe.shortgod.com/c16a6/tv1.php?id=70.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Music Now
+http://pe.shortgod.com/c16a6/tv1.php?id=690.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png"group-title="Radios y Musica",Musica | MusicTop
+http://pe.shortgod.com/c16a6/tv1.php?id=691.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png"group-title="Radios y Musica",Musica | Retro Music
+http://pe.shortgod.com/c16a6/tv1.php?id=692.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png"group-title="Radios y Musica",Musica | Ritmoson Latino
+http://pe.shortgod.com/c16a6/tv1.php?id=154.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png"group-title="Radios y Musica",Musica | Telehit
+http://pe.shortgod.com/c16a6/tv1.php?id=91.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png"group-title="Radios y Musica",Musica | Tu Musica HD
+http://pe.shortgod.com/c16a6/tv1.php?id=516.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png"group-title="Radios y Musica",Musica | VH1
+http://pe.shortgod.com/c16a6/tv1.php?id=101.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png"group-title="Radios y Musica",Musica | Video Rola
+http://pe.shortgod.com/c16a6/tv1.php?id=359.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: 1Music
+http://pe.shortgod.com/c16a6/tv1.php?id=433.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: Company Radio TV
+http://pe.shortgod.com/c16a6/tv1.php?id=435.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Videos: Dream TV
+http://pe.shortgod.com/c16a6/tv1.php?id=439.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Radios y Musica",Musica | Virgin TV
+http://pe.shortgod.com/c16a6/tv1.php?id=315.m3u8
