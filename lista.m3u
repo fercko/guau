@@ -418,33 +418,6 @@ http://pe.shortgod.com/c16a6/tv1.php?id=752.m3u8
 http://pe.shortgod.com/c16a6/tv1.php?id=137.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España",A3Series
-http://pe.shortgod.com/c16a6/tv1.php?id=444.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES
-http://pe.shortgod.com/c16a6/tv1.php?id=715.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España",Antena 3
-http://pe.shortgod.com/c16a6/tv1.php?id=298.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"group-title="España",AXN (ES)
-http://pe.shortgod.com/c16a6/tv1.php?id=713.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"group-title="España",AXN WHITE (ES)
-http://pe.shortgod.com/c16a6/tv1.php?id=714.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png"group-title="España",Canal+ Accion
-http://pe.shortgod.com/c16a6/tv1.php?id=364.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"group-title="España",Comedy Central (ES)
-http://pe.shortgod.com/c16a6/tv1.php?id=719.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png"group-title="España",rime Investigation (ES)
-http://pe.shortgod.com/c16a6/tv1.php?id=720.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"group-title="España",Historia (ES)
-http://pe.shortgod.com/c16a6/tv1.php?id=718.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png"group-title="España", La Sexta
-http://pe.shortgod.com/c16a6/tv1.php?id=326.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="España", Mega (ES)
-http://pe.shortgod.com/c16a6/tv1.php?id=352.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png"group-title="España",Movistar Comedia
-http://pe.shortgod.com/c16a6/tv1.php?id=370.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png"group-title="España", Movistar Xtra
-http://pe.shortgod.com/c16a6/tv1.php?id=372.m3u8
-
 #EXTINF:-1  group-title="24/7", Los Simpson 24\/7
 http://pe.shortgod.com/c16a6/tv6.php?id=329
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7", Alf 24/7
