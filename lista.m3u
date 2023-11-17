@@ -19,6 +19,8 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45139
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45140
 #EXTINF:-1 tvg-id="" group-title="ARGENTINA", LN+
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45141
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA",LN+ 2
+https://www.youtube.com/c/LaNacionMas/live
 #EXTINF:-1 tvg-id="" group-title="ARGENTINA", Magazine HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45142
 #EXTINF:-1 tvg-id="" group-title="ARGENTINA", AMERICA TV
@@ -27,9 +29,41 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45150
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45151
 #EXTINF:-1 tvg-id="" group-title="ARGENTINA",Canal 9
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45152
+
+
+#DEPORTES
+
 #EXTINF:-1 tvg-id="" group-title="DEPORTES",Deportv HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45153
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",Espn 2 New
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN - ARG
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43741
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43740
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",Espn 2
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45154
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 2 - ARG
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43744
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 2 - MEXICO
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43745
+#EXTINF:-1 tvg-id=""group-title="DEPORTES",ESPN 2 OP2
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43742
+#EXTINF:-1 tvg-id=""group-title="DEPORTES",ESPN 2 4K
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43743
 #EXTINF:-1 tvg-id="" group-title="DEPORTES",Espn 3
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45155
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 3 - ARG
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43748
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 3 - MEXICO
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43749
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 4K
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43753
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN EXTRA HD
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43755
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN PREMIUM HD
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43758
+#EXTINF:-1 tvg-id="" group-title="DEPORTEs",FOX SPORTS HD - ARG
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46476
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",FOX SPORTS 2 HD - ARG
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46477
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",ARG ®| FOX SPORTS 3 HD - ARG
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46478
