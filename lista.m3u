@@ -1,49 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | AMERICA TV" tvg-logo="https://logo.iptveditor.com/americatv.png" group-title="ARGENTINA",ARGENTINA | AMERICA TV
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA",AMERICA TV
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45132
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | EL NUEVE" tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="ARGENTINA",ARGENTINA | EL NUEVE
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA",EL NUEVE
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45133
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | EL TRECE HD" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="ARGENTINA",ARGENTINA | EL TRECE HD
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA",EL TRECE HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45134
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="ARGENTINA",ARGENTINA | TELEFE
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", TELEFE
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45135
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE INTERNACIONAL HD" tvg-logo="https://logo.iptveditor.com/telefeinternacional.png" group-title="ARGENTINA",ARGENTINA | TELEFE INTERNACIONAL HD
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", TELEFE INTERNACIONAL HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45136
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | Television Publica" tvg-logo="https://logo.iptveditor.com/televisionpublica.png" group-title="ARGENTINA",ARGENTINA | Television Publica
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", Television Publica
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45137
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TN NOTICIAS" tvg-logo="https://logo.iptveditor.com/c7noticias.png" group-title="ARGENTINA",ARGENTINA | TN NOTICIAS
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", TN NOTICIAS
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45138
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | C5N HD" tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="ARGENTINA",ARGENTINA | C5N HD
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", C5N HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45139
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CANAL 26" tvg-logo="https://logo.iptveditor.com/canal26.png" group-title="ARGENTINA",ARGENTINA | CANAL 26
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", CANAL 26
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45140
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | LN+" tvg-logo="https://logo.iptveditor.com/ln.png" group-title="ARGENTINA",ARGENTINA | LN+
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", LN+
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45141
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | Magazine HD" tvg-logo="https://logo.iptveditor.com/magazine.png" group-title="ARGENTINA",ARGENTINA | Magazine HD
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", Magazine HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45142
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | NET TV HD" tvg-logo="https://logo.iptveditor.com/nettv.png" group-title="ARGENTINA",ARGENTINA | NET TV HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45143
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | 13 MAX HD" tvg-logo="https://logo.iptveditor.com/13maxtv.png" group-title="ARGENTINA",ARGENTINA | 13 MAX HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45144
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | Canal 4 Posadas" tvg-logo="https://logo.iptveditor.com/canal4posadas5.png" group-title="ARGENTINA",ARGENTINA | Canal 4 Posadas
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45145
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | Music Top" tvg-logo="https://logo.iptveditor.com/musictop.png" group-title="ARGENTINA",ARGENTINA | Music Top
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45146
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | Telemax" tvg-logo="https://logo.iptveditor.com/telemax.png" group-title="ARGENTINA",ARGENTINA | Telemax
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45147
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TIERRAMIA TV" tvg-logo="https://logo.iptveditor.com/tierramiatv.png" group-title="ARGENTINA",ARGENTINA | TIERRAMIA TV
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45148
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | VOLVER" tvg-logo="https://logo.iptveditor.com/volver.png" group-title="ARGENTINA",ARGENTINA | VOLVER
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45149
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | AMERICA TV" tvg-logo="https://logo.iptveditor.com/americatv.png" group-title="ARGENTINA",ARGENTINA | AMERICA TV
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", AMERICA TV
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45150
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CRONICA" tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg" group-title="ARGENTINA",ARGENTINA | CRONICA
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", CRONICA
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45151
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CANAL9/EXPORTACION_WEB/SS/CANAL9_t-290x163.png" group-title="ARGENTINA",Canal 9
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA",Canal 9
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45152
-#EXTINF:-1 tvg-id="" tvg-name="Deportv HD" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DEPORTVHD/EXPORTACION_WEB/SS/DEPORTVHD_t-290x163.png" group-title="ARGENTINA",Deportv HD
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",Deportv HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45153
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 New" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/ESPN2NEW/EXPORTACION_WEB/SS/ESPN2NEW_t-290x163.png" group-title="ARGENTINA",Espn 2 New
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",Espn 2 New
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45154
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN3/EXPORTACION_WEB/SS/ESPN3_t-290x163.png" group-title="ARGENTINA",Espn 3
+#EXTINF:-1 tvg-id="" group-title="DEPORTES",Espn 3
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45155
