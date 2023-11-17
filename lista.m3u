@@ -121,7 +121,9 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/305
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/310
 #EXTINF:-1 group-title="DEPORTES",Dazn 2 FHD - España
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/311
-#EXTINF:-1 group-title="ARGENTINA",Dazn 3 HD - España
+#EXTINF:-1,DAZN 2 
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/112205
+#EXTINF:-1 group-title="DEPORTES",Dazn 3 HD - España
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/320
 #EXTINF:-1 group-title="DEPORTES",Dazn 4 FHD - España
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/323
@@ -147,10 +149,56 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46844
 http://tv.com.vc:80/msm/msm/955183
 #EXTINF:-1 group-title="DEPORTES",FOX Sports 2
 http://tv.com.vc:80/msm/msm/955184
-#EXTINF:-1 group-title="INFANTILES",Claro Sports 1 SD
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 1 SD
 http://tv.com.vc:80/msm/msm/955157
-#EXTINF:-1 group-title="INFANTILES",Latin America Sport
+#EXTINF:-1 group-title="DEPORTES",Latin America Sport
 http://tv.com.vc:80/msm/msm/955202
+#EXTINF:-1 group-title="DEPORTES",MX | ESPN 2 HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126374
+#EXTINF:-1 group-title="DEPORTES",MX | ESPN 3 R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126376
+#EXTINF:-1 group-title="DEPORTES",MX | FOX SPORTS 2 R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126381
+#EXTINF:-1 group-title="DEPORTES",MX | FOX SPORTS 2 HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126382
+#EXTINF:-1 group-title="DEPORTES",MX | FOX SPORTS 2 LQ R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126383
+#EXTINF:-1 group-title="DEPORTES",MX | FOX SPORTS 3 LQ R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126384
+#EXTINF:-1 group-title="DEPORTES",MX | FOX SPORTS 3 MX HD (1080p)
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126385
+#EXTINF:-1 group-title="DEPORTES",MX | FOX SPORTS MX R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126387
+#EXTINF:-1 group-title="DEPORTES",MX: FOX SPORTS MX HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126388
+#EXTINF:-1,MX | Fox Sports Premium HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126389
+#EXTINF:-1 group-title="DEPORTES",FIGHT NETWORK 77
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140191
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140196
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS ESP
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140198
+#EXTINF:-1 group-title="DEPORTES",NFL HD 77
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140200
+#EXTINF:-1 group-title="DEPORTES",GOL TV 77 US
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140205
+#EXTINF:-1 group-title="DEPORTES",ESPN + HD MX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140218
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 ARG
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140316
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM ARG
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140317
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140318
+#EXTINF:-1 group-title="DEPORTES",ESPN2 US
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140320
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS HD MEX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140323
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 HD MEX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140324
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 HD MEX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140325
 
 #INFANTILES
 
@@ -162,6 +210,8 @@ http://tv.com.vc:80/msm/msm/955166
 http://tv.com.vc:80/msm/msm/955168
 #EXTINF:-1 group-title="INFANTILES",Disney JR
 http://tv.com.vc:80/msm/msm/955169
+#EXTINF:-1 group-title="INFANTILES",ES: DISNEY JUNIOR 2
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/59933
 #EXTINF:-1 group-title="INFANTILES",Nick Jr
 http://tv.com.vc:80/msm/msm/955217
 #EXTINF:-1 group-title="INFANTILES",Nick Jr 2
@@ -172,8 +222,24 @@ http://tv.com.vc:80/msm/msm/955219
 http://tv.com.vc:80/msm/msm/955255
 #EXTINF:-1 group-title="INFANTILES",Tooncast-CH16
 http://tv.com.vc:80/msm/msm/955256
+#EXTINF:-1 group-title="INFANTILES",CARTOONITO MX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140141
+#EXTINF:-1 group-title="INFANTILES",CARTOON NETWORK
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140142
+#EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140143
+#EXTINF:-1 group-title="INFANTILES",DISNEY JR HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140144
+#EXTINF:-1 group-title="INFANTILES",DISCOVERY KIDS MX HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140145
+#EXTINF:-1 group-title="INFANTILES",NICK JUNIOR HD MX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140146
+
 
 #INTERNACIONAL
+
+#EXTINF:-1 group-title="INTERNACIONAL",ANIMAL PLANET
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140126
 #EXTINF:-1 group-title="INTERNACIONAL",Animal Planet
 http://tv.com.vc:80/msm/msm/955097
 #EXTINF:-1 group-title="INTERNACIONAL",Animal Planet HD
@@ -250,7 +316,102 @@ http://tv.com.vc:80/msm/msm/955268
 http://tv.com.vc:80/msm/msm/955269
 #EXTINF:-1 group-title="INTERNACIONAL",WARNER 2 HD
 http://tv.com.vc:80/msm/msm/955270
+#EXTINF:-1 group-title="INTERNACIONAL",HBO + HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126307
+#EXTINF:-1 group-title="INTERNACIONAL",MX | HBO 2 HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126308
+#EXTINF:-1 group-title="INTERNACIONAL",HBO FAMILY HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126309
+#EXTINF:-1 group-title="INTERNACIONAL",HBO POP R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126310
+#EXTINF:-1 group-title="INTERNACIONAL",MX | HBO SIGNATURE HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126311
+#EXTINF:-1 group-title="INTERNACIONAL",HBO XTREME FHD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126312
+#EXTINF:-1 group-title="INTERNACIONAL",MX | HBO XTREME HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126313
+#EXTINF:-1 group-title="INTERNACIONAL",MX | HBO HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126316
+#EXTINF:-1 group-title="INTERNACIONAL",LAT | HBO MUNDI HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126317
+#EXTINF:-1 group-title="INTERNACIONAL",ES: FOX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/59928
+#EXTINF:-1 group-title="INTERNACIONAL",ES: FOX LIFE
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/59927
+#EXTINF:-1 group-title="INTERNACIONAL",MX | TNT HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126397
+#EXTINF:-1 group-title="INTERNACIONAL",MX | TNT SERIES HD R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126399
+#EXTINF:-1 group-title="INTERNACIONAL",MX | TNT SERIES LQ R
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126400
+#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY HOME & HEALTH
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140127
+#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY WORLD ESP
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140128
+#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY MX HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140129
+#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY TURBO
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140130
+#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY THEATER
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140131
+#EXTINF:-1 group-title="INTERNACIONAL",INVESTIGATION DISCOVERY
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140132
+#EXTINF:-1 group-title="INTERNACIONAL",HISTORY 2 MX HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140133
+#EXTINF:-1 group-title="INTERNACIONAL",HISTORY EN ESPANOL
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140134
+#EXTINF:-1 group-title="INTERNACIONAL",NATIONAL GEOGRAPHIC WILD ESP HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140135
+#EXTINF:-1 group-title="INTERNACIONAL",CINECANAL HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140151
+#EXTINF:-1 group-title="INTERNACIONAL",SYFY ENG
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140154
+#EXTINF:-1 group-title="INTERNACIONAL",PARAMOUNT NETWORK ESP
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140155
+#EXTINF:-1 group-title="INTERNACIONAL",SONY CHANNEL LAT
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140156
+#EXTINF:-1 group-title="INTERNACIONAL",SPACE MEXICO
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140157
+#EXTINF:-1 group-title="INTERNACIONAL",CINEMAX HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140158
+#EXTINF:-1 group-title="INTERNACIONAL",STUDIO UNIVERSAL HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140159
+#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140160
+#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL COMEDY
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140161
+#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL CINEMA
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140162
+#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL PREMIER LATINO
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140163
+#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL CRIMEN
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140164
+#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL REALITY Latino
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140165
+#EXTINF:-1 group-title="INTERNACIONAL",FX HD mx
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140169
+#EXTINF:-1 group-title="INTERNACIONAL",FILM&ARTS
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140170
+#EXTINF:-1 group-title="INTERNACIONAL",GOLDEN EDGE
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140171
+#EXTINF:-1 group-title="INTERNACIONAL",HBO MX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140173
+#EXTINF:-1 group-title="INTERNACIONAL",HBO 2 HD Latino
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140174
+#EXTINF:-1 group-title="INTERNACIONAL",HBO PLUS
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140175
+#EXTINF:-1 group-title="INTERNACIONAL",HBO POP
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140176
+#EXTINF:-1 group-title="INTERNACIONAL",HBO SIGNATURE
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140177
+#EXTINF:-1 group-title="INTERNACIONAL",HBO MUNDI
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140178
+#EXTINF:-1 group-title="INTERNACIONAL",HBO EXTREME Dual
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140179
+#EXTINF:-1 group-title="INTERNACIONAL",TNT HD
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140180
 
 #ADULTOS
+
 #EXTINF:-1 group-title="ADULTOS",VENUS
 http://tv.com.vc:80/msm/msm/955266
