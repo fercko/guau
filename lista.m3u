@@ -93,6 +93,18 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43753
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43755
 #EXTINF:-1  group-title="DEPORTES",ESPN PREMIUM HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43758
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://tv.com.vc:80/msm/msm/955174
+#EXTINF:-1 group-title="DEPORTES",ESPN  +
+http://tv.com.vc:80/msm/msm/955175
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://tv.com.vc:80/msm/msm/955176
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+http://tv.com.vc:80/msm/msm/955177
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+http://tv.com.vc:80/msm/msm/955178
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://tv.com.vc:80/msm/msm/955179
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS HD - ARG
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46476
 #EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2 HD - ARG
@@ -131,3 +143,21 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46842
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46843
 #EXTINF:-1 group-title="DEPORTES",SKY SPORTS | PREMIER LEAGUE
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46844
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 3
+http://tv.com.vc:80/msm/msm/955183
+#EXTINF:-1 group-title="DEPORTES",FOX Sports 2
+http://tv.com.vc:80/msm/msm/955184
+
+
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network
+http://tv.com.vc:80/msm/msm/955144
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids
+http://tv.com.vc:80/msm/msm/955166
+#EXTINF:-1 group-title="INFANTILES",Disney JR
+http://tv.com.vc:80/msm/msm/955169
+#EXTINF:-1 group-title="INFANTILES",Nick Jr
+http://tv.com.vc:80/msm/msm/955217
+#EXTINF:-1 group-title="INFANTILES",Nick Jr 2
+http://tv.com.vc:80/msm/msm/955218
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon
+http://tv.com.vc:80/msm/msm/955219
