@@ -1,74 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="CD Cd Aut Bs As",LS4 Continental - 590 TV - CABA AM - CD Cd Aut Bs As
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="CD Cd Aut Bs As",LS5 Rivadavia - 630 TV - CABA AM - CD Cd Aut Bs As
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----10.png" group-title="CD Cd Aut Bs As",LRL202 Radio 10 - 710 TV - CABA AM - CD Cd Aut Bs As
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA",AMERICA TV
+#EXTINF:-1  group-title="ARGENTINA",AMERICA TV
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45132
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA",EL NUEVE
+#EXTINF:-1 group-title="ARGENTINA",AMERICA TV 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
+#EXTINF:-1  group-title="ARGENTINA",EL NUEVE
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45133
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA",EL TRECE HD
+#EXTINF:-1  group-title="ARGENTINA",EL TRECE HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45134
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", TELEFE
+#EXTINF:-1 group-title="ARGENTINA",EL TRECE 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
+#EXTINF:-1  group-title="ARGENTINA", TELEFE
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45135
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", TELEFE INTERNACIONAL HD
+#EXTINF:-1 group-title="ARGENTINA",Telefe 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+#EXTINF:-1  group-title="ARGENTINA", TELEFE INTERNACIONAL HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45136
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", Television Publica
+#EXTINF:-1  group-title="ARGENTINA", Television Publica
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45137
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", TN NOTICIAS
+#EXTINF:-1  group-title="ARGENTINA", TN NOTICIAS
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45138
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", C5N HD
+#EXTINF:-1 group-title="ARGENTINA",TN Todo Noticias 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+#EXTINF:-1 group-title="ARGENTINA",TN Todo Noticias YOUTUBE
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0051
+#EXTINF:-1 group-title="ARGENTINA", C5N HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45139
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", CANAL 26
+#EXTINF:-1 group-title="ARGENTINA",C5N 2
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
+#EXTINF:-1 group-title="ARGENTINA", CANAL 26
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45140
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", LN+
+#EXTINF:-1 group-title="ARGENTINA",Canal 26 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0077
+#EXTINF:-1 group-title="ARGENTINA",LN+
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
+#EXTINF:-1 group-title="ARGENTINA",LN+ 2
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45141
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA",LN+ 2
+#EXTINF:-1 group-title="ARGENTINA",LN+ 3
 https://www.youtube.com/c/LaNacionMas/live
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", Magazine HD
+#EXTINF:-1 group-title="ARGENTINA", Magazine HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45142
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", AMERICA TV
+#EXTINF:-1 group-title="ARGENTINA", AMERICA TV
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45150
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA", CRONICA
+#EXTINF:-1 group-title="ARGENTINA",CRONICA
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45151
-#EXTINF:-1 tvg-id="" group-title="ARGENTINA",Canal 9
+#EXTINF:-1 group-title="ARGENTINA",Cronica 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0068
+#EXTINF:-1 group-title="ARGENTINA",Cronica YOUTUBE
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
+#EXTINF:-1 group-title="ARGENTINA",Canal 9
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45152
+#EXTINF:-1 group-title="ARGENTINA",A24
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
 
 
 #DEPORTES
 
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",Deportv HD
+#EXTINF:-1  group-title="DEPORTES",Deportv HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45153
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN - ARG
+#EXTINF:-1 group-title="DEPORTES",DEPORTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0065
+#EXTINF:-1 group-title="DEPORTES",DEPORTV YOUTUBE
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0066
+#EXTINF:-1 group-title="DEPORTES",TNT Sport
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+#EXTINF:-1 group-title="DEPORTES",TNT Sport 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
+#EXTINF:-1  group-title="DEPORTES",ESPN - ARG
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43741
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN
+#EXTINF:-1  group-title="DEPORTES",ESPN
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43740
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",Espn 2
+#EXTINF:-1  group-title="DEPORTES",Espn 2
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45154
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 2 - ARG
+#EXTINF:-1  group-title="DEPORTES",ESPN 2 - ARG
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43744
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 2 - MEXICO
+#EXTINF:-1  group-title="DEPORTES",ESPN 2 - MEXICO
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43745
-#EXTINF:-1 tvg-id=""group-title="DEPORTES",ESPN 2 OP2
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 OP2
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43742
-#EXTINF:-1 tvg-id=""group-title="DEPORTES",ESPN 2 4K
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 4K
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43743
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",Espn 3
+#EXTINF:-1  group-title="DEPORTES",Espn 3
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45155
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 3 - ARG
+#EXTINF:-1  group-title="DEPORTES",ESPN 3 - ARG
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43748
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 3 - MEXICO
+#EXTINF:-1  group-title="DEPORTES",ESPN 3 - MEXICO
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43749
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN 4K
+#EXTINF:-1  group-title="DEPORTES",ESPN 4K
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43753
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN EXTRA HD
+#EXTINF:-1  group-title="DEPORTES",ESPN EXTRA HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43755
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ESPN PREMIUM HD
+#EXTINF:-1  group-title="DEPORTES",ESPN PREMIUM HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43758
-#EXTINF:-1 tvg-id="" group-title="DEPORTEs",FOX SPORTS HD - ARG
+#EXTINF:-1  group-title="DEPORTES",FOX SPORTS HD - ARG
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46476
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",FOX SPORTS 2 HD - ARG
+#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2 HD - ARG
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46477
-#EXTINF:-1 tvg-id="" group-title="DEPORTES",ARG ®| FOX SPORTS 3 HD - ARG
+#EXTINF:-1  group-title="DEPORTES",ARG ®| FOX SPORTS 3 HD - ARG
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46478
