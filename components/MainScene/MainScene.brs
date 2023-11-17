@@ -6,7 +6,7 @@ sub init()
     m.top.backgroundURI = "pkg:/images/fondo_url.jpg"
 
     ' Inicializa directamente la URL en el campo feedurl del nodo global
-    m.global.feedurl = "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+    m.global.feedurl = "https://raw.githubusercontent.com/fercko/guau/main/lista.m3u"
 
     ' Obtiene referencias a nodos en la interfaz de usuario
     m.save_feed_url = m.top.FindNode("save_feed_url")  'Guarda la URL en el registro
