@@ -147,12 +147,19 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46844
 http://tv.com.vc:80/msm/msm/955183
 #EXTINF:-1 group-title="DEPORTES",FOX Sports 2
 http://tv.com.vc:80/msm/msm/955184
+#EXTINF:-1 group-title="INFANTILES",Claro Sports 1 SD
+http://tv.com.vc:80/msm/msm/955157
+#EXTINF:-1 group-title="INFANTILES",Latin America Sport
+http://tv.com.vc:80/msm/msm/955202
 
+#INFANTILES
 
 #EXTINF:-1 group-title="INFANTILES",Cartoon Network
 http://tv.com.vc:80/msm/msm/955144
 #EXTINF:-1 group-title="INFANTILES",Discovery Kids
 http://tv.com.vc:80/msm/msm/955166
+#EXTINF:-1 group-title="INFANTILES",Disney
+http://tv.com.vc:80/msm/msm/955168
 #EXTINF:-1 group-title="INFANTILES",Disney JR
 http://tv.com.vc:80/msm/msm/955169
 #EXTINF:-1 group-title="INFANTILES",Nick Jr
@@ -161,3 +168,89 @@ http://tv.com.vc:80/msm/msm/955217
 http://tv.com.vc:80/msm/msm/955218
 #EXTINF:-1 group-title="INFANTILES",Nickelodeon
 http://tv.com.vc:80/msm/msm/955219
+#EXTINF:-1 group-title="INFANTILES",Tooncast
+http://tv.com.vc:80/msm/msm/955255
+#EXTINF:-1 group-title="INFANTILES",Tooncast-CH16
+http://tv.com.vc:80/msm/msm/955256
+
+#INTERNACIONAL
+#EXTINF:-1 group-title="INTERNACIONAL",Animal Planet
+http://tv.com.vc:80/msm/msm/955097
+#EXTINF:-1 group-title="INTERNACIONAL",Animal Planet HD
+http://tv.com.vc:80/msm/msm/955098
+#EXTINF:-1 group-title="INTERNACIONAL",BBC World
+http://tv.com.vc:80/msm/msm/955107
+#EXTINF:-1 group-title="INTERNACIONAL",CineCanal
+http://tv.com.vc:80/msm/msm/955151
+#EXTINF:-1 group-title="INTERNACIONAL",CINECANAL HD
+http://tv.com.vc:80/msm/msm/955152
+#EXTINF:-1 group-title="INTERNACIONAL",CINECANAL HD
+http://tv.com.vc:80/msm/msm/955153
+#EXTINF:-1 group-title="INTERNACIONAL",CineMax
+http://tv.com.vc:80/msm/msm/955154
+#EXTINF:-1 group-title="INTERNACIONAL",Claro Cinema
+http://tv.com.vc:80/msm/msm/955155
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery Channel
+http://tv.com.vc:80/msm/msm/955164
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery Home & Health
+http://tv.com.vc:80/msm/msm/955165
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery Turbo
+http://tv.com.vc:80/msm/msm/955167
+#EXTINF:-1 group-title="INTERNACIONAL",Golden
+http://tv.com.vc:80/msm/msm/955188
+#EXTINF:-1 group-title="INTERNACIONAL",Golden-CH56
+http://tv.com.vc:80/msm/msm/955189
+#EXTINF:-1 group-title="INTERNACIONAL",H2
+http://tv.com.vc:80/msm/msm/955192
+#EXTINF:-1 group-title="INTERNACIONAL",HCH- HON
+http://tv.com.vc:80/msm/msm/955193
+#EXTINF:-1 group-title="INTERNACIONAL",History Channel
+http://tv.com.vc:80/msm/msm/955194
+#EXTINF:-1 group-title="INTERNACIONAL",History Channel 2
+http://tv.com.vc:80/msm/msm/955195
+#EXTINF:-1 group-title="INTERNACIONAL",History HD
+http://tv.com.vc:80/msm/msm/955196
+#EXTINF:-1 group-title="INTERNACIONAL",ISAT
+http://tv.com.vc:80/msm/msm/955199
+#EXTINF:-1 group-title="INTERNACIONAL",Las Estrellas
+http://tv.com.vc:80/msm/msm/955201
+#EXTINF:-1 group-title="INTERNACIONAL",National Geographic
+http://tv.com.vc:80/msm/msm/955214
+#EXTINF:-1 group-title="INTERNACIONAL",SONY
+http://tv.com.vc:80/msm/msm/955227
+#EXTINF:-1 group-title="INTERNACIONAL",SONY ᴴᴰ
+http://tv.com.vc:80/msm/msm/955228
+#EXTINF:-1 group-title="INTERNACIONAL",Sony Movies HD
+http://tv.com.vc:80/msm/msm/955229
+#EXTINF:-1 group-title="INTERNACIONAL",SPACE
+http://tv.com.vc:80/msm/msm/955230
+#EXTINF:-1 group-title="INTERNACIONAL",SPACE HD
+http://tv.com.vc:80/msm/msm/955231
+#EXTINF:-1 group-title="INTERNACIONAL",STAR CHANNEL
+http://tv.com.vc:80/msm/msm/955232
+#EXTINF:-1 group-title="INTERNACIONAL",STAR CHANNEL HD
+http://tv.com.vc:80/msm/msm/955233
+#EXTINF:-1 group-title="INTERNACIONAL",STAR CHANNEL HD
+http://tv.com.vc:80/msm/msm/955234
+#EXTINF:-1 group-title="INTERNACIONAL",Studio Universal
+http://tv.com.vc:80/msm/msm/955235
+#EXTINF:-1 group-title="INTERNACIONAL",Studio Universal HD
+http://tv.com.vc:80/msm/msm/955236
+#EXTINF:-1 group-title="INTERNACIONAL",TNT
+http://tv.com.vc:80/msm/msm/955252
+#EXTINF:-1 group-title="INTERNACIONAL",TNT Novelas
+http://tv.com.vc:80/msm/msm/955253
+#EXTINF:-1 group-title="INTERNACIONAL",TNT Series
+http://tv.com.vc:80/msm/msm/955254
+#EXTINF:-1 group-title="INTERNACIONAL",Universal
+http://tv.com.vc:80/msm/msm/955264
+#EXTINF:-1 group-title="INTERNACIONAL",Warner
+http://tv.com.vc:80/msm/msm/955268
+#EXTINF:-1 group-title="INTERNACIONAL",WARNER HD
+http://tv.com.vc:80/msm/msm/955269
+#EXTINF:-1 group-title="INTERNACIONAL",WARNER 2 HD
+http://tv.com.vc:80/msm/msm/955270
+
+#ADULTOS
+#EXTINF:-1 group-title="ADULTOS",VENUS
+http://tv.com.vc:80/msm/msm/955266
