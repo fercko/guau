@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ROKU",EL TRECE 2
+#EXTINF:-1 group-title="ROKU",EL TRECE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
-#EXTINF:-1 group-title="ROKU",Telefe 2
+#EXTINF:-1 group-title="ROKU",TELEFE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
-#EXTINF:-1 group-title="ROKU",TN Todo Noticias 2
+#EXTINF:-1 group-title="ROKU",TN Todo Noticias
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 #EXTINF:-1 group-title="ROKU",LN+
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
@@ -14,6 +14,10 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
 #EXTINF:-1 group-title="ROKU",Discovery Kids
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
+#EXTINF:-1 group-title="ROKU",TELEFE CORDOBA
+https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:-1 group-title="ROKU",TV PUBLICA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1  group-title="ARGENTINA",AMERICA TV
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45132
