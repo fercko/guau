@@ -65,10 +65,62 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45152
 #EXTINF:-1 group-title="ARGENTINA",A24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+#EXTINF:-1 group-title="ARGENTINA",AR | TV PUBLICA
+http://offshore.lat:25461/marichu8/K35MV9pTHK/491
+#EXTINF:-1 group-title="ARGENTINA",AR | TELEFE
+http://offshore.lat:25461/marichu8/K35MV9pTHK/492
+#EXTINF:-1 group-title="ARGENTINA",AR | AMERICA TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/494
+#EXTINF:-1 group-title="ARGENTINA",AR | EL NUEVE
+http://offshore.lat:25461/marichu8/K35MV9pTHK/495
+#EXTINF:-1 group-title="ARGENTINA",AR | EL TRECE
+http://offshore.lat:25461/marichu8/K35MV9pTHK/496
+#EXTINF:-1 group-title="ARGENTINA",AR | TELEFE SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/498
+#EXTINF:-1 group-title="ARGENTINA",AR | TV PUBLICA*
+http://offshore.lat:25461/marichu8/K35MV9pTHK/499
+#EXTINF:-1 group-title="ARGENTINA",AR | A24
+http://offshore.lat:25461/marichu8/K35MV9pTHK/501
+#EXTINF:-1 group-title="ARGENTINA",AR | C5N
+http://offshore.lat:25461/marichu8/K35MV9pTHK/503
+#EXTINF:-1 group-title="ARGENTINA",AR | Canal-26-HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/505
+#EXTINF:-1 group-title="ARGENTINA",AR | Canal de Noticias 24/7
+http://offshore.lat:25461/marichu8/K35MV9pTHK/511
+#EXTINF:-1 group-title="ARGENTINA",AR | Cine AR
+http://offshore.lat:25461/marichu8/K35MV9pTHK/512
+#EXTINF:-1 group-title="ARGENTINA",AR | El Nueve *
+http://offshore.lat:25461/marichu8/K35MV9pTHK/516
+#EXTINF:-1 group-title="ARGENTINA",AR | El Trece HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/517
+#EXTINF:-1 group-title="ARGENTINA",AR | Garage TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/518
+#EXTINF:-1 group-title="ARGENTINA",AR | Paka Paka
+http://offshore.lat:25461/marichu8/K35MV9pTHK/520
+#EXTINF:-1 group-title="ARGENTINA",AR | TN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/522
+#EXTINF:-1 group-title="ARGENTINA",AR | El Trece HD op2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/240910
+#EXTINF:-1 group-title="ARGENTINA",AR | El Trece HD op3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/240911
+#EXTINF:-1 group-title="ARGENTINA",AR | El Trece Op3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/240912
+#EXTINF:-1 group-title="ARGENTINA",AR | America TV *
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263318
+#EXTINF:-1 group-title="ARGENTINA",AR | El Nueve SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/265945
+#EXTINF:-1 group-title="ARGENTINA",AR | Telefe SD*
+http://offshore.lat:25461/marichu8/K35MV9pTHK/265947
+#EXTINF:-1 group-title="ARGENTINA",AR | El trece SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/265950
+#EXTINF:-1 group-title="ARGENTINA",AR | CRONICA TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324798
 
 
 #DEPORTES
 
+#EXTINF:-1 group-title="DEPORTES",AR | DirectV Sports SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/294584
 #EXTINF:-1  group-title="DEPORTES",Deportv HD
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45153
 #EXTINF:-1 group-title="DEPORTES",DEPORTV
@@ -135,7 +187,7 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/305
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/310
 #EXTINF:-1 group-title="DEPORTES",Dazn 2 FHD - España
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/311
-#EXTINF:-1,DAZN 2 
+#EXTINF:-1 group-title="DEPORTES",DAZN 2 
 http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/112205
 #EXTINF:-1 group-title="DEPORTES",Dazn 3 HD - España
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/320
@@ -213,6 +265,430 @@ http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140323
 http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140324
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 HD MEX
 http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140325
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 1" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",US | YU_DeportesN OP 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/272000
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 2" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",US | YU_DeportesN OP 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/326799
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 3" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",US | YU_DeportesN OP 3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/326800
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="MX | TUDN OP 1" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",MX | TUDN OP 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/311893
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="MX | TUDN OP 2" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",MX | TUDN OP 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/245567
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="MX | TUDN OP 3" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",MX | TUDN OP 3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/326801
+#EXTINF:-1 tvg-id="" tvg-name="MX | ZONA TUDN" tvg-logo="http://offshore.lat:25461/images/38182eb8d6cd01c0071139a6592af16c.jpeg" group-title="DEPORTES",MX | ZONA TUDN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/300924
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA DEPORTES" tvg-logo="http://offshore.lat:25461/images/722373644d182b9eee9a832786b39170.png" group-title="DEPORTES",MX | AZTECA DEPORTES
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324799
+#EXTINF:-1 tvg-id="" tvg-name="ES | F1 Formula 1" tvg-logo="http://offshore.lat:25461/images/9915c85ca678b136bfe5b5ef0a01e02c.png" group-title="DEPORTES",ES | F1 Formula 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/295663
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX | Fox Sports" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",MX | Fox Sports
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1324
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX | Fox Sports 2" tvg-logo="http://offshore.lat:8001/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",MX | Fox Sports 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1325
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX | Fox Sports 3" tvg-logo="http://offshore.lat:8001/images/b038eac2a97032ca255e8f5638bf07e5.png" group-title="DEPORTES",MX | Fox Sports 3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1329
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports Premium" tvg-logo="http://offshore.lat:25461/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",MX | Fox Sports Premium
+http://offshore.lat:25461/marichu8/K35MV9pTHK/285169
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports Premium SD" tvg-logo="http://offshore.lat:25461/images/1e7721d7b42e20a697250798b3b9feca.png" group-title="DEPORTES",MX | Fox Sports Premium SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/293129
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="US | Fox Deportes" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | Fox Deportes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/9632
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="HD | Fox Sports 1 MX" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",HD | Fox Sports 1 MX
+http://offshore.lat:25461/marichu8/K35MV9pTHK/27981
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="HD | Fox Sports 2 MX" tvg-logo="http://offshore.lat:36995/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",HD | Fox Sports 2 MX
+http://offshore.lat:25461/marichu8/K35MV9pTHK/27982
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="HD | Fox Sports 3 MX" tvg-logo="http://offshore.lat:36995/images/b038eac2a97032ca255e8f5638bf07e5.png" group-title="DEPORTES",HD | Fox Sports 3 MX
+http://offshore.lat:25461/marichu8/K35MV9pTHK/27983
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX | Espn" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",MX | Espn
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262192
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="MX | Espn 2" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",MX | Espn 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1328
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX | Espn 3" tvg-logo="http://offshore.lat:8001/images/fb9205b3640fde6f9af34bdf05b0fdc3.png" group-title="DEPORTES",MX | Espn 3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1323
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN Deportes" tvg-logo="http://offshore.lat:8001/images/74a703e74ad90c7cbf4001ad6899dea0.png" group-title="DEPORTES",DE | ESPN Deportes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/292943
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN Deportes" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",LA | ESPN Deportes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/295699
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US | ESPN DEPORTES HD" tvg-logo="http://offshore.lat:25461/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",US | ESPN DEPORTES HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262177
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX | Espn Plus" tvg-logo="http://offshore.lat:36995/images/e589823b440afa607e617e72f0e69878.png" group-title="DEPORTES",MX | Espn Plus
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1322
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="HD  | ESPN MX" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",HD  | ESPN MX
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262191
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="HD  | ESPN 2 MX" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",HD  | ESPN 2 MX
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262174
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="HD  | ESPN 3 MX" tvg-logo="http://offshore.lat:8001/images/fb9205b3640fde6f9af34bdf05b0fdc3.png" group-title="DEPORTES",HD  | ESPN 3 MX
+http://offshore.lat:25461/marichu8/K35MV9pTHK/27980
+#EXTINF:-1 tvg-id="" tvg-name="HD | Claro Sports" tvg-logo="http://offshore.lat:8001/images/0dc2077d5ade80a969d758e12021da87.png" group-title="DEPORTES",HD | Claro Sports
+http://offshore.lat:25461/marichu8/K35MV9pTHK/264122
+#EXTINF:-1 tvg-id="" tvg-name="DE | Trending SE3" tvg-logo="http://offshore.lat:8001/images/d9dba30cec85e5a46410b45006c7c405.png" group-title="DEPORTES",DE | Trending SE3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/229849
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | Afizzionados HD" tvg-logo="http://offshore.lat:8001/images/585551cc605087b3412533635a7655f3.png" group-title="DEPORTES",Deportes | Afizzionados HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/244539
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Deportes | Afizzionados 2 HD" tvg-logo="http://offshore.lat:8001/images/585551cc605087b3412533635a7655f3.png" group-title="DEPORTES",Deportes | Afizzionados 2 HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/269758
+#EXTINF:-1 tvg-id="" tvg-name="DE | Trending SE16 España" tvg-logo="http://offshore.lat:8001/images/d9dba30cec85e5a46410b45006c7c405.png" group-title="DEPORTES",DE | Trending SE16 España
+http://offshore.lat:25461/marichu8/K35MV9pTHK/226533
+#EXTINF:-1 tvg-id="" tvg-name="DE | Trending SE21 Inglesa" tvg-logo="http://offshore.lat:25461/images/d9dba30cec85e5a46410b45006c7c405.png" group-title="DEPORTES",DE | Trending SE21 Inglesa
+http://offshore.lat:25461/marichu8/K35MV9pTHK/226534
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="MX | TVC Deportes" tvg-logo="http://offshore.lat:8001/images/15a0bda8c666b36f5e587d0b75be692e.png" group-title="DEPORTES",MX | TVC Deportes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/18704
+#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="MX | Adrenalina" tvg-logo="http://offshore.lat:25461/images/0d0a5d5378cb671b0c084375dc1c8d06.jpg" group-title="DEPORTES",MX | Adrenalina
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1335
+#EXTINF:-1 tvg-id="" tvg-name="MX | Claro Sports SD" tvg-logo="http://offshore.lat:25461/images/0dc2077d5ade80a969d758e12021da87.png" group-title="DEPORTES",MX | Claro Sports SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1462
+#EXTINF:-1 tvg-id="" tvg-name="MX | Claro Sport HD" tvg-logo="http://offshore.lat:25461/images/0dc2077d5ade80a969d758e12021da87.png" group-title="DEPORTES",MX | Claro Sport HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1461
+#EXTINF:-1 tvg-id="" tvg-name="MX | El Garage" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0018/2274/brand.gif?itok=sH1UGnPO" group-title="DEPORTES",MX | El Garage
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1320
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="MX | Golf Channel" tvg-logo="http://offshore.lat:25461/images/ddca5f1d34e4252780e5cd2cbb8d8be3.png" group-title="DEPORTES",MX | Golf Channel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1321
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="MX | AyM Sports" tvg-logo="http://offshore.lat:8001/images/0d7882248f84ffad5f184079cfc1fd2d.png" group-title="DEPORTES",MX | AyM Sports
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1330
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 SD Arg" tvg-logo="http://offshore.lat:25461/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",AR | FOX SPORTS 1 SD Arg
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1234
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1  Arg" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",AR | FOX SPORTS 1  Arg
+http://offshore.lat:25461/marichu8/K35MV9pTHK/292978
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD Arg" tvg-logo="http://offshore.lat:8001/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",AR | FOX SPORTS 2 SD Arg
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1236
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD Arg" tvg-logo="http://offshore.lat:25461/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",AR | FOX SPORTS 2 HD Arg
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1237
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD Arg" tvg-logo="http://offshore.lat:8001/images/b038eac2a97032ca255e8f5638bf07e5.png" group-title="DEPORTES",AR | FOX SPORTS 3 SD Arg
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1238
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3* Arg" tvg-logo="http://offshore.lat:36995/images/b038eac2a97032ca255e8f5638bf07e5.png" group-title="DEPORTES",AR | FOX SPORTS 3* Arg
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1239
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fox sports Premiun HD Ligero" tvg-logo="http://offshore.lat:36995/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",DE | Fox sports Premiun HD Ligero
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262188
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fox Sports Premium 1080" tvg-logo="http://offshore.lat:25461/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",DE | Fox Sports Premium 1080
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262272
+#EXTINF:-1 tvg-id="" tvg-name="AR | DirectV Sports **" tvg-logo="http://offshore.lat:25461/images/18f6aff9afb17570d96fb7cf520765e8.jpg" group-title="DEPORTES",AR | DirectV Sports **
+http://offshore.lat:25461/marichu8/K35MV9pTHK/294582
+#EXTINF:-1 tvg-id="" tvg-name="AR | DirectV Sports *" tvg-logo="http://offshore.lat:25461/images/18f6aff9afb17570d96fb7cf520765e8.jpg" group-title="DEPORTES",AR | DirectV Sports *
+http://offshore.lat:25461/marichu8/K35MV9pTHK/294583
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS 1 HD" tvg-logo="http://offshore.lat:25461/images/9940ac3540ec15e3e63bf9610931627b.png" group-title="DEPORTES",AR | DTV SPORTS 1 HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/267392
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORT 2" tvg-logo="http://offshore.lat:8001/images/127824a2ea4c43ebd3702a89ea5761ef.png" group-title="DEPORTES",AR | DTV SPORT 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1243
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS +" tvg-logo="http://offshore.lat:8001/images/127824a2ea4c43ebd3702a89ea5761ef.png" group-title="DEPORTES",AR | DTV SPORTS +
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1244
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 *" tvg-logo="http://offshore.lat:36995/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",AR | ESPN 1 *
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263376
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN *SD" tvg-logo="http://offshore.lat:25461/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",AR | ESPN *SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263377
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1" tvg-logo="http://offshore.lat:36995/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",AR | ESPN 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1246
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="http://offshore.lat:25461/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",AR | ESPN 1 HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262270
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",AR | ESPN 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262403
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",AR | ESPN 2 HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262176
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 3 Arg" tvg-logo="http://offshore.lat:25461/images/fb9205b3640fde6f9af34bdf05b0fdc3.png" group-title="DEPORTES",AR | ESPN 3 Arg
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1250
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 4" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",AR | ESPN 4
+http://offshore.lat:25461/marichu8/K35MV9pTHK/296664
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN EXTRA" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",AR | ESPN EXTRA
+http://offshore.lat:25461/marichu8/K35MV9pTHK/296663
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS" tvg-logo="http://offshore.lat:25461/images/5d9bfc16e724d61b5bfd822a9861e630.png" group-title="DEPORTES",AR | TNT SPORTS
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1259
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT Sports*" tvg-logo="http://offshore.lat:25461/images/5d9bfc16e724d61b5bfd822a9861e630.png" group-title="DEPORTES",AR | TNT Sports*
+http://offshore.lat:25461/marichu8/K35MV9pTHK/35754
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS PREMIUM FHD" tvg-logo="http://offshore.lat:8001/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",AR | FOX SPORTS PREMIUM FHD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262271
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC Sports" tvg-logo="http://offshore.lat:25461/images/76567423925bcfbce1f36c3f27ae8444.png" group-title="DEPORTES",AR | TyC Sports
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262179
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC Sports Argentina" tvg-logo="http://offshore.lat:36995/images/76567423925bcfbce1f36c3f27ae8444.png" group-title="DEPORTES",AR | TyC Sports Argentina
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262180
+#EXTINF:-1 tvg-id="" tvg-name="DE | TYC" tvg-logo="http://offshore.lat:25461/images/698b5e254af6858ea88637b768cd13e0.jpg" group-title="DEPORTES",DE | TYC
+http://offshore.lat:25461/marichu8/K35MV9pTHK/277940
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN  1 SUR FHD" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",DE | ESPN  1 SUR FHD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/244639
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN  2 SUR FHD" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",DE | ESPN  2 SUR FHD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262175
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN 3 SUR FHD" tvg-logo="http://offshore.lat:36995/images/fb9205b3640fde6f9af34bdf05b0fdc3.png" group-title="DEPORTES",DE | ESPN 3 SUR FHD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/244641
+#EXTINF:-1 tvg-id="" tvg-name="DE | TyC Sports SD" tvg-logo="http://offshore.lat:25461/images/76567423925bcfbce1f36c3f27ae8444.png" group-title="DEPORTES",DE | TyC Sports SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/245370
+#EXTINF:-1 tvg-id="" tvg-name="DE | TNT Sports SD" tvg-logo="http://offshore.lat:8001/images/5d9bfc16e724d61b5bfd822a9861e630.png" group-title="DEPORTES",DE | TNT Sports SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/259249
+#EXTINF:-1 tvg-id="" tvg-name="CH | CDO Premium SD" tvg-logo="http://offshore.lat:25461/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="DEPORTES",CH | CDO Premium SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/261280
+#EXTINF:-1 tvg-id="Chile - CDO Básico" tvg-name="CH | CDO Basico" tvg-logo="http://offshore.lat:8001/images/380cb2174b0ae74336785310cad70193.png" group-title="DEPORTES",CH | CDO Basico
+http://offshore.lat:25461/marichu8/K35MV9pTHK/241050
+#EXTINF:-1 tvg-id="Chile - CDO Premium" tvg-name="CH | CDO PREMIUM" tvg-logo="http://offshore.lat:25461/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="DEPORTES",CH | CDO PREMIUM
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1231
+#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 1" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",CH | FOX SPORTS 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1240
+#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 2" tvg-logo="http://offshore.lat:8001/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",CH | FOX SPORTS 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1241
+#EXTINF:-1 tvg-id="" tvg-name="CH | TENETE DEPORTES (Solo Eventos)" tvg-logo="http://offshore.lat:8001/images/5d9bfc16e724d61b5bfd822a9861e630.png" group-title="DEPORTES",CH | TENETE DEPORTES (Solo Eventos)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/271950
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports Op3" tvg-logo="http://offshore.lat:25461/images/509a418e24de822fa42d205f7f92a46d.png" group-title="DEPORTES",CO | Win Sports Op3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1265
+#EXTINF:-1 tvg-id="" tvg-name="PE | GOL PERU" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_mze_2cz9a53r1alrxN2V_hj6D6QNbbAuRIg=s900-c-k-c0xffffffff-no-rj-mo" group-title="DEPORTES",PE | GOL PERU
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1336
+#EXTINF:-1 tvg-id="" tvg-name="PE | MOVISTAR DEPORTES" tvg-logo="http://offshore.lat:8001/images/964f9997484e3c12e13a367d1921c3aa.png" group-title="DEPORTES",PE | MOVISTAR DEPORTES
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1337
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="LA | BEIN SPORTS Ñ" tvg-logo="http://offshore.lat:8001/images/f4c30553cdbd562e64a278cc7c709126.png" group-title="DEPORTES",LA | BEIN SPORTS Ñ
+http://offshore.lat:25461/marichu8/K35MV9pTHK/244576
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="US | BEIN SPORTS Ñ" tvg-logo="http://offshore.lat:8001/images/f4c30553cdbd562e64a278cc7c709126.png" group-title="DEPORTES",US | BEIN SPORTS Ñ
+http://offshore.lat:25461/marichu8/K35MV9pTHK/40963
+#EXTINF:-1 tvg-id="" tvg-name="LA | Bein sports Ñ *" tvg-logo="http://offshore.lat:36995/images/f4c30553cdbd562e64a278cc7c709126.png" group-title="DEPORTES",LA | Bein sports Ñ *
+http://offshore.lat:25461/marichu8/K35MV9pTHK/258965
+#EXTINF:-1 tvg-id="" tvg-name="DE | beIN SPORTS XTRA en español" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="DEPORTES",DE | beIN SPORTS XTRA en español
+http://offshore.lat:25461/marichu8/K35MV9pTHK/283272
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US | Bein Sports USA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",US | Bein Sports USA HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1227
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US | BEIN SPORTS LA LIGA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",US | BEIN SPORTS LA LIGA
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1253
+#EXTINF:-1 tvg-id="" tvg-name="ES | BEIN LA LIGA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",ES | BEIN LA LIGA
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1212
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="DE | Bein Sports 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",DE | Bein Sports 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/33967
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="DE | Bein Sports 5" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",DE | Bein Sports 5
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208212
+#EXTINF:-1 tvg-id="" tvg-name="US | Bein Sports Ñ HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",US | Bein Sports Ñ HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/258964
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA TV BAR" tvg-logo="http://offshore.lat:8001/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="DEPORTES",ES: LA LIGA TV BAR
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1210
+#EXTINF:-1 tvg-id="" tvg-name="DE | Movistar Deportes" tvg-logo="http://offshore.lat:25461/images/964f9997484e3c12e13a367d1921c3aa.png" group-title="DEPORTES",DE | Movistar Deportes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/226526
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LIGA DE CAMPEONES" tvg-logo="http://offshore.lat:25461/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="DEPORTES",ES | M. LIGA DE CAMPEONES
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1264
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="http://offshore.lat:25461/images/964f9997484e3c12e13a367d1921c3aa.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1222
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar La Liga 1" tvg-logo="http://offshore.lat:8001/images/7aa20cb4acef9d04a95f7abc73b8410f.png" group-title="DEPORTES",ES | Movistar La Liga 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/226493
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar la Liga 2" tvg-logo="http://offshore.lat:25461/images/7aa20cb4acef9d04a95f7abc73b8410f.png" group-title="DEPORTES",ES | Movistar la Liga 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/226494
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA MULTI 1 HD" tvg-logo="http://offshore.lat:25461/images/7aa20cb4acef9d04a95f7abc73b8410f.png" group-title="DEPORTES",ES | MOVISTAR LA LIGA MULTI 1 HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1213
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://offshore.lat:36995/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262190
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 1 HD" tvg-logo="http://offshore.lat:25461/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES 1 HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262193
+#EXTINF:-1 tvg-id="" tvg-name="ES | #VAMOS HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og=s900-c-k-c0xffffffff-no-rj-mo" group-title="DEPORTES",ES | #VAMOS HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1218
+#EXTINF:-1 tvg-id="" tvg-name="ES | Real Madrid TV" tvg-logo="http://offshore.lat:36995/images/b1dbab92df90ba52649baddc26520e37.png" group-title="DEPORTES",ES | Real Madrid TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1467
+#EXTINF:-1 tvg-id="" tvg-name="ES | EUROSPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHNBA7gxcoMtwv9HlYSk0NwIKYVQMK4izANfSbFpFJlVwwkFx&s" group-title="DEPORTES",ES | EUROSPORT 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1207
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar F1 (DAZN)" tvg-logo="http://offshore.lat:25461/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES",F1 | Movistar F1 (DAZN)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1255
+#EXTINF:-1 tvg-id="" tvg-name="ES | GOLF HD" tvg-logo="http://offshore.lat:8001/images/9f6300b215db8911a0c2f41c864804c2.png" group-title="DEPORTES",ES | GOLF HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1219
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR GOLF HD" tvg-logo="http://offshore.lat:8001/images/30fc34b1cd9991364fc57ca216638911.png" group-title="DEPORTES",ES | MOVISTAR GOLF HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1220
+#EXTINF:-1 tvg-id="" tvg-name="ES | BARÇA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdk8OB6ryqByIqfV1RkM31UiR600YmFxq_J1i_U82EIVqbAPx&s" group-title="DEPORTES",ES | BARÇA TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1221
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://offshore.lat:36995/images/fd8da11c7ec868432a1863e13d3548eb.jpg" group-title="DEPORTES",ES: EUROSPORT 2 HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/259511
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA HD" tvg-logo="http://offshore.lat:25461/images/7aa20cb4acef9d04a95f7abc73b8410f.png" group-title="DEPORTES",ES | MOVISTAR LA LIGA HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/277239
+#EXTINF:-1 tvg-id="" tvg-name="ES | GOL TV " tvg-logo="https://play-lh.googleusercontent.com/kjSMryvBomB-V_pXTAebLDI1cUbUItiA4Jh1PqSXshK7k3jLbd4ustP2HqOCSrlDREw=w220-rw" group-title="DEPORTES",ES | GOL TV 
+http://offshore.lat:25461/marichu8/K35MV9pTHK/279223
+#EXTINF:-1 tvg-id="" tvg-name="ES | Teledeporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdMlb7dkRDxvi8bxgNmNj2Ois1ZlbOH6vdvJ32NIFaeruqR4-Lmc0t7oV9wOON70s8xE&usqp=CAU" group-title="DEPORTES",ES | Teledeporte
+http://offshore.lat:25461/marichu8/K35MV9pTHK/279224
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/279225
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/279226
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN 3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/279227
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN 4
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297430
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN LaLiga
+http://offshore.lat:25461/marichu8/K35MV9pTHK/296662
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar Formula 1 (DAZN)" tvg-logo="https://yt3.ggpht.com/PVF4vIcVEtapRrU5SnmbKwK4hTy7n6x_Sfas6ruR_62ZbF2sc5ydQQ0IBPTHvphxcgdBgMcuc_M=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",F1 | Movistar Formula 1 (DAZN)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/285272
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar Formula 1 (DAZN op2)" tvg-logo="http://offshore.lat:25461/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES",F1 | Movistar Formula 1 (DAZN op2)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/260370
+#EXTINF:-1 tvg-id="goltv.us" tvg-name="US | GOLTV ENG" tvg-logo="http://offshore.lat:8001/images/12f1605d2c82633d876c65e6226f43f5.jpg" group-title="DEPORTES",US | GOLTV ENG
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1299
+#EXTINF:-1 tvg-id="plutotvkids.us" tvg-name="US | GOAL TV ESP" tvg-logo="http://offshore.lat:8001/images/12f1605d2c82633d876c65e6226f43f5.jpg" group-title="DEPORTES",US | GOAL TV ESP
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1334
+#EXTINF:-1 tvg-id="" tvg-name="UY | VTV" tvg-logo="http://offshore.lat:8001/images/ad03b20507ea6770b351cac42f2630df.png" group-title="DEPORTES",UY | VTV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1354
+#EXTINF:-1 tvg-id="" tvg-name="UY | VTV HD" tvg-logo="http://offshore.lat:25461/images/ad03b20507ea6770b351cac42f2630df.png" group-title="DEPORTES",UY | VTV HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1355
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US  | TENNIS CHANEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKEDr4hvyZRcA_SgGtlYJtVQn25C3prTfuBnWTTpwWuw52FQo&s" group-title="DEPORTES",US  | TENNIS CHANEL
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1261
+#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="US | UFC TV" tvg-logo="http://offshore.lat:36995/images/bb90a56d757a97915b6fe12a486451fa.jpg" group-title="DEPORTES",US | UFC TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1262
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US | ESPN" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",US | ESPN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1269
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US | ESPN News" tvg-logo="http://offshore.lat:25461/images/e5fead9fe7ce6d37f7a407fb46a87ae5.png" group-title="DEPORTES",US | ESPN News
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1270
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U" tvg-logo="http://offshore.lat:36995/images/500b1f7cdad583f9d07c87427babe201.png" group-title="DEPORTES",US | ESPN U
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1271
+#EXTINF:-1 tvg-id="" tvg-name="US LA | Espn +" tvg-logo="http://offshore.lat:8001/images/e589823b440afa607e617e72f0e69878.png" group-title="DEPORTES",US LA | Espn +
+http://offshore.lat:25461/marichu8/K35MV9pTHK/240774
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="US | Fight Network" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGF3AbKOnMKFw/company-logo_200_200/0?e=2159024400&v=beta&t=s5TI6p82ni-QS6E-xmziuEjkBC_DpXyVJAkOBlkkMfg" group-title="DEPORTES",US | Fight Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1272
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US | Fox Sports 1" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",US | Fox Sports 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1274
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2" tvg-logo="http://offshore.lat:25461/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="DEPORTES",US | Fox Sports 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1275
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | Fox Soccer Plus" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | Fox Soccer Plus
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1276
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Arizona" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports Arizona
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232357
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports North" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports North
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232359
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports San Diego" tvg-logo="http://offshore.lat:8001/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports San Diego
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232361
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports South
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232362
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South East" tvg-logo="http://offshore.lat:8001/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports South East
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232363
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Sun" tvg-logo="http://offshore.lat:8001/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports Sun
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232365
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports West" tvg-logo="http://offshore.lat:8001/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports West
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232366
+#EXTINF:-1 tvg-id="" tvg-name="US | GINX eSports" tvg-logo="http://offshore.lat:25461/images/7dd1602146f9f863e7c11e8f3dde6345.jpg" group-title="DEPORTES",US | GINX eSports
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1277
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US | Golf Channel" tvg-logo="http://offshore.lat:36995/images/ddca5f1d34e4252780e5cd2cbb8d8be3.png" group-title="DEPORTES",US | Golf Channel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1278
+#EXTINF:-1 tvg-id="plutotvkids.us" tvg-name="US | LongHorn Network" tvg-logo="http://offshore.lat:36995/images/3112974c314d75a365bb1b5e0e7ba415.jpg" group-title="DEPORTES",US | LongHorn Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1279
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US | MLB Network" tvg-logo="http://offshore.lat:8001/images/491ccc167374a98762b5a5c2cd6fe3fe.png" group-title="DEPORTES",US | MLB Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1280
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US | MSG" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/compositions/T121A70PA4057PT17X31Y34D11646780FS7247Cx000000/views/1,width=650,height=650,appearanceId=70.jpg" group-title="DEPORTES",US | MSG
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1281
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US | MSNBC" tvg-logo="http://offshore.lat:8001/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | MSNBC
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1283
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US | NBCSN" tvg-logo="http://offshore.lat:8001/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBCSN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1309
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US | NFL Network" tvg-logo="http://offshore.lat:8001/images/45c466aa2042c9fbcc75d02e6b7b2f6a.png" group-title="DEPORTES",US | NFL Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1286
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="US | NHL Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsf3F59vP7XsKRa3TPayXZQ_zLArqGLSOIOOnI2hRJoooY-XlI&s" group-title="DEPORTES",US | NHL Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1287
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US | Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ_iU-N3Jmi-DPnL2n1RnAF4E62bHtLGBreoW9nUKKldRXbx5F&s" group-title="DEPORTES",US | Outdoor Channel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1289
+#EXTINF:-1 tvg-id="" tvg-name="US | SNY" tvg-logo="http://offshore.lat:36995/images/bcb4aa344918c92a8aa03659507fff14.png" group-title="DEPORTES",US | SNY
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1294
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US | Yes Network" tvg-logo="http://offshore.lat:8001/images/7ba73fcf05dcc6eb87b3d86da9034f16.jpg" group-title="DEPORTES",US | Yes Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1296
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US | WWE Network" tvg-logo="http://offshore.lat:25461/images/1994e3b934d8b35006fbab8b268db069.png" group-title="DEPORTES",US | WWE Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1466
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US | NBC Sports Bay Area" tvg-logo="http://offshore.lat:8001/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Bay Area
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232368
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US | NBC Sports Boston" tvg-logo="http://offshore.lat:25461/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Boston
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232369
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="US | NBC Sports California" tvg-logo="http://offshore.lat:8001/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports California
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232370
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="US | NBC Sports Philadelphia" tvg-logo="http://offshore.lat:36995/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Philadelphia
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232373
+#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="US | NBC Sports Washington" tvg-logo="http://offshore.lat:25461/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Washington
+http://offshore.lat:25461/marichu8/K35MV9pTHK/232374
+#EXTINF:-1 tvg-id="" tvg-name="US | World Fishing Network" tvg-logo="http://offshore.lat:8001/images/e3d897a974742c51c9ea660124e58814.png" group-title="DEPORTES",US | World Fishing Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/236447
+#EXTINF:-1 tvg-id="" tvg-name="US | TVG" tvg-logo="http://offshore.lat:8001/images/246f008b372bce0dcab6c10d4779a786.png" group-title="DEPORTES",US | TVG
+http://offshore.lat:25461/marichu8/K35MV9pTHK/254187
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX 35 Orlando" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX 35 Orlando
+http://offshore.lat:25461/marichu8/K35MV9pTHK/265417
+#EXTINF:-1 tvg-id="" tvg-name="US | Red Bull TV" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv" group-title="DEPORTES",US | Red Bull TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266007
+#EXTINF:-1 tvg-id="" tvg-name="US | ESPN 2" tvg-logo="http://offshore.lat:36995/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",US | ESPN 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266771
+#EXTINF:-1 tvg-id="" tvg-name="US | Fox Sports Wisconsin" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | Fox Sports Wisconsin
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266864
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports Florida" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports Florida
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266903
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports Great Lakes" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports Great Lakes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266904
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports Kansas City" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports Kansas City
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266906
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports New Orleans" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports New Orleans
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266908
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports SOCAL" tvg-logo="http://offshore.lat:8001/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports SOCAL
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266913
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports SUN" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports SUN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/266917
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports San Diego" tvg-logo="http://offshore.lat:8001/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports San Diego
+http://offshore.lat:25461/marichu8/K35MV9pTHK/308367
+#EXTINF:-1 tvg-id="" tvg-name="USA | Motor trend" tvg-logo="http://offshore.lat:36995/images/8cc2ab17fd7a6bf849a1de3187e6284c.jpg" group-title="DEPORTES",USA | Motor trend
+http://offshore.lat:25461/marichu8/K35MV9pTHK/267474
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US | NBC Sports Bay Area op2" tvg-logo="http://offshore.lat:36995/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Bay Area op2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/283355
+#EXTINF:-1 tvg-id="" tvg-name="US | Sports Time Ohio" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQFbfETX-ztHLA/company-logo_200_200/0/1519871049682?e=2159024400&v=beta&t=r_v61rO8LrABSih2W1XGzQoRRNEs9kfkOeY3iUo5UWU" group-title="DEPORTES",US | Sports Time Ohio
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263624
+#EXTINF:-1 tvg-id="" tvg-name="US | AT&T SportsNet Rocky Mountain HD" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",US | AT&T SportsNet Rocky Mountain HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263625
+#EXTINF:-1 tvg-id="" tvg-name="US | AT&T Sportsnet SouthWest" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",US | AT&T Sportsnet SouthWest
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263626
+#EXTINF:-1 tvg-id="" tvg-name="US | AT&T SPORTSNET Pittsburgh" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",US | AT&T SPORTSNET Pittsburgh
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263627
+#EXTINF:-1 tvg-id="" tvg-name="US | MASN (Mid-Atlantic Sports Network)" tvg-logo="http://offshore.lat:36995/images/a4a02f279a9b32513a2e7a0a1b8db6f0.jpg" group-title="DEPORTES",US | MASN (Mid-Atlantic Sports Network)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263628
+#EXTINF:-1 tvg-id="" tvg-name="DE | SportsNet 360" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",DE | SportsNet 360
+http://offshore.lat:25461/marichu8/K35MV9pTHK/245394
+#EXTINF:-1 tvg-id="" tvg-name="DE | SportsNet One" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",DE | SportsNet One
+http://offshore.lat:25461/marichu8/K35MV9pTHK/245396
+#EXTINF:-1 tvg-id="" tvg-name="DE | GolTV" tvg-logo="http://offshore.lat:8001/images/12f1605d2c82633d876c65e6226f43f5.jpg" group-title="DEPORTES",DE | GolTV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248165
+#EXTINF:-1 tvg-id="" tvg-name="DE | Marquee Sports Network" tvg-logo="http://offshore.lat:8001/images/1fa48bb432bba57aaace3af8d257dfe2.png" group-title="DEPORTES",DE | Marquee Sports Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262399
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fox sports Premiun SD" tvg-logo="http://offshore.lat:36995/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",DE | Fox sports Premiun SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263552
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv" tvg-logo="http://offshore.lat:36995/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv
+http://offshore.lat:25461/marichu8/K35MV9pTHK/264507
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 2" tvg-logo="http://offshore.lat:8001/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/264506
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 3" tvg-logo="http://offshore.lat:8001/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv 3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/264505
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv*" tvg-logo="http://offshore.lat:25461/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv*
+http://offshore.lat:25461/marichu8/K35MV9pTHK/267358
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 2*" tvg-logo="http://offshore.lat:25461/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv 2*
+http://offshore.lat:25461/marichu8/K35MV9pTHK/267359
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 3*" tvg-logo="http://offshore.lat:8001/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv 3*
+http://offshore.lat:25461/marichu8/K35MV9pTHK/267360
+#EXTINF:-1 tvg-id="" tvg-name="DE | VTsPOR 3" tvg-logo="https://play-lh.googleusercontent.com/VOGCWbEo_9iSabadZ2n4kq6pT7koYg4GhYUlc6AKV1vXGH81sOHZLYDv7meURh7vxfI" group-title="DEPORTES",DE | VTsPOR 3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/264716
+#EXTINF:-1 tvg-id="" tvg-name="DE | UFC Fightpass" tvg-logo="http://offshore.lat:36995/images/7c2d6bd2b7206e3439f3fc840050ed89.png" group-title="DEPORTES",DE | UFC Fightpass
+http://offshore.lat:25461/marichu8/K35MV9pTHK/267193
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sport" tvg-logo="" group-title="DEPORTES",CR | Tigo Sport
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274657
+#EXTINF:-1 tvg-id="" tvg-name="ES | Toros TV" tvg-logo="http://offshore.lat:8001/images/bbf4b8810e1001939bdf62cc093581b1.jpg" group-title="DEPORTES",ES | Toros TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/308787
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="USA | Bally Sports SoCal" tvg-logo="http://offshore.lat:25461/images/614662e19957ce2cdef1393dd2fd2dd2.jpeg" group-title="DEPORTES",USA | Bally Sports SoCal
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312574
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports West" tvg-logo="http://offshore.lat:25461/images/d784e1dff232fb3d47bf09bc12a45902.jpeg" group-title="DEPORTES",USA | Bally Sports West
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312575
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Sun" tvg-logo="http://offshore.lat:25461/images/7a3aac12806f21ec76975d7602035108.jpeg" group-title="DEPORTES",USA | Bally Sports Sun
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312576
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports South" tvg-logo="http://offshore.lat:25461/images/71bd259150809ea91e6a1ad8b06ebc28.jpeg" group-title="DEPORTES",USA | Bally Sports South
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312577
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Southwest" tvg-logo="http://offshore.lat:25461/images/efbcccbcb920c519165955cd3daa07c9.jpeg" group-title="DEPORTES",USA | Bally Sports Southwest
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312578
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Southeast" tvg-logo="http://offshore.lat:25461/images/71bd259150809ea91e6a1ad8b06ebc28.jpeg" group-title="DEPORTES",USA | Bally Sports Southeast
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312579
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Ohio" tvg-logo="http://offshore.lat:25461/images/e63d19ab1c9db6fd01ac83ce395dbb31.jpeg" group-title="DEPORTES",USA | Bally Sports Ohio
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312580
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Midwest" tvg-logo="http://offshore.lat:25461/images/d25733d9f943075a156327ef88583748.jpeg" group-title="DEPORTES",USA | Bally Sports Midwest
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312581
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Florida" tvg-logo="http://offshore.lat:25461/images/cb3b587aed2060837b5b58ba5f1562db.jpeg" group-title="DEPORTES",USA | Bally Sports Florida
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312582
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Arizona" tvg-logo="http://offshore.lat:8001/images/44f9d604b081e6b55038077630995289.jpeg" group-title="DEPORTES",USA | Bally Sports Arizona
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312583
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports New Orleans" tvg-logo="http://offshore.lat:25461/images/e65ad6bddd1a0b0a825cacda2f05b3c3.jpeg" group-title="DEPORTES",USA | Bally Sports New Orleans
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312584
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Indiana" tvg-logo="http://offshore.lat:25461/images/125b1fbe0d55dc5b8d826156d7bedc1c.jpeg" group-title="DEPORTES",USA | Bally Sports Indiana
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312586
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Oklahoma" tvg-logo="http://offshore.lat:8001/images/1e8fc03f95cac73dea12f035e2cabce7.jpeg" group-title="DEPORTES",USA | Bally Sports Oklahoma
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312587
+#EXTINF:-1 tvg-id="foxsportswisconsin.us" tvg-name="USA | Bally Sports Wisconsin" tvg-logo="http://offshore.lat:25461/images/09b990294fb932693167b7a0558dd47d.jpeg" group-title="DEPORTES",USA | Bally Sports Wisconsin
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312588
+#EXTINF:-1 tvg-id="" tvg-name="HD ES | EUROSPORT 1" tvg-logo="http://offshore.lat:25461/images/6eafa7a2212170ac653297708b3b3787.png" group-title="DEPORTES",HD ES | EUROSPORT 1
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312589
+#EXTINF:-1 tvg-id="" tvg-name="HD ES | EUROSPORT 2" tvg-logo="http://offshore.lat:25461/images/2aec274c3c8fde0e9144b766b2108ce9.png" group-title="DEPORTES",HD ES | EUROSPORT 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/312590
+#EXTINF:-1 tvg-id="" tvg-name="ES | EUDEPORTES 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHNBA7gxcoMtwv9HlYSk0NwIKYVQMK4izANfSbFpFJlVwwkFx&s" group-title="DEPORTES",ES | EUDEPORTES 1 SD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/320882
+#EXTINF:-1 tvg-id="" tvg-name="US | Box Nation" tvg-logo="http://offshore.lat:25461/images/af06fbe5b6acace944b96e3ab3c9e33b.png" group-title="DEPORTES",US | Box Nation
+http://offshore.lat:25461/marichu8/K35MV9pTHK/346526
 
 #INFANTILES
 
@@ -424,6 +900,207 @@ http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140178
 http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140179
 #EXTINF:-1 group-title="INTERNACIONAL",TNT HD
 http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140180
+
+#24 horas
+#EXTINF:-1 tvg-id="" tvg-name="24H Kids | Dragon Ball (M)" tvg-logo="http://offshore.lat:8001/images/58590865b4c94aa6d302fffef4a066ad.png" group-title="CANALES 24/7",24H Kids | Dragon Ball (M)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263166
+#EXTINF:-1 tvg-id="" tvg-name="24H Kids | BOB ESPONJA (M)" tvg-logo="http://offshore.lat:8001/images/3b78c878f553da94fe721581f55f5596.png" group-title="CANALES 24/7",24H Kids | BOB ESPONJA (M)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263168
+#EXTINF:-1 tvg-id="" tvg-name="24H Kids | Hey Arnold" tvg-logo="http://offshore.lat:8001/images/0ea0f58651c7adf69c0f4472dad393e9.png" group-title="CANALES 24/7",24H Kids | Hey Arnold
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263187
+#EXTINF:-1 tvg-id="" tvg-name="24h Kids | Don gato y su Pandilla" tvg-logo="http://offshore.lat:8001/images/299e6f4ba1be6746978a410b5d08da78.png" group-title="CANALES 24/7",24h Kids | Don gato y su Pandilla
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263252
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de Scooby Doo" tvg-logo="https://w7.pngwing.com/pngs/400/858/png-transparent-horse-cattle-dog-scoobydoo-show-horse-mammal-text-thumbnail.png" group-title="CANALES 24/7",24/7 El Show de Scooby Doo
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274252
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los padrinos mágicos" tvg-logo="https://w7.pngwing.com/pngs/325/31/png-transparent-cosmo-timmy-turner-wanda-character-mandark-others-thumbnail.png" group-title="CANALES 24/7",24/7 Los padrinos mágicos
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274253
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dora, la exploradora" tvg-logo="http://offshore.lat:36995/images/1f545a6d49bd6dc815ddd731d0c2a2ad.png" group-title="CANALES 24/7",24/7 Dora, la exploradora
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274254
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de Bugs Bunny" tvg-logo="https://w7.pngwing.com/pngs/428/169/png-transparent-bugs-bunny-elmer-fudd-daffy-duck-looney-tunes-cartoon-bugs-miscellaneous-white-mammal-thumbnail.png" group-title="CANALES 24/7",24/7 El Show de Bugs Bunny
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274255
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chernobyl" tvg-logo="https://w7.pngwing.com/pngs/381/827/png-transparent-chernobyl-folder-icon-thumbnail.png" group-title="CANALES 24/7",24/7 Chernobyl
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274256
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="https://w7.pngwing.com/pngs/752/579/png-transparent-ben-10-alien-force-vilgax-attacks-ben-10-omniverse-ben-10-child-hand-vertebrate-thumbnail.png" group-title="CANALES 24/7",24/7 Ben 10
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pájaro Loco y sus Amigos" tvg-logo="https://w7.pngwing.com/pngs/176/38/png-transparent-woody-woodpecker-sheriff-woody-bugs-bunny-car-pocoyo-driving-vertebrate-cartoon-thumbnail.png" group-title="CANALES 24/7",24/7 El Pájaro Loco y sus Amigos
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274259
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El coche fantástico" tvg-logo="https://w7.pngwing.com/pngs/337/1013/png-transparent-knight-rider-car-kitt-sports-car-david-hasselhoff-tv-show-black-thumbnail.png" group-title="CANALES 24/7",24/7 El coche fantástico
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274260
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las nuevas aventuras de Winnie the Pooh EN" tvg-logo="http://offshore.lat:25461/images/0b0b93ab0684fb6acae5ff3fb1482590.png" group-title="CANALES 24/7",24/7 Las nuevas aventuras de Winnie the Pooh EN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274261
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Arma letal EN" tvg-logo="https://w7.pngwing.com/pngs/895/143/png-transparent-lethal-weapon-desktop-television-lethal-television-label-desktop-wallpaper-thumbnail.png" group-title="CANALES 24/7",24/7 Arma letal EN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274263
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://w7.pngwing.com/pngs/197/867/png-transparent-el-chavo-del-ocho-quico-graphy-chavo-del-8-food-hand-photography-thumbnail.png" group-title="CANALES 24/7",24/7 El Chavo del Ocho
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274264
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Good Doctor" tvg-logo="https://w7.pngwing.com/pngs/621/543/png-transparent-freddie-highmore-the-good-doctor-season-1-norman-bates-television-show-good-doctor-television-face-drama-thumbnail.png" group-title="CANALES 24/7",24/7 The Good Doctor
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274268
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia P. Luche" tvg-logo="http://offshore.lat:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="CANALES 24/7",24/7 La familia P. Luche
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274307
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ¿Quién mató a Sara?" tvg-logo="https://w7.pngwing.com/pngs/809/968/png-transparent-ximena-lamadrid-actress-who-killed-sara-who-kill-sara-sara-mexican-crime-drama-netflix-show-sara-guzman-who-killed-more-thumbnail.png" group-title="CANALES 24/7",24/7 ¿Quién mató a Sara?
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274308
+#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball Z - Saga de Freezer" tvg-logo="http://offshore.lat:36995/images/f40d2bc36df55bb3f0483c6a4cb80357.png" group-title="CANALES 24/7",24H | Dragon Ball Z - Saga de Freezer
+http://offshore.lat:25461/marichu8/K35MV9pTHK/287642
+#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball Super" tvg-logo="http://offshore.lat:8001/images/af1f6c7e49c027dff86a046e0484060b.png" group-title="CANALES 24/7",24H | Dragon Ball Super
+http://offshore.lat:25461/marichu8/K35MV9pTHK/438
+#EXTINF:-1 tvg-id="" tvg-name="24H | Smallville" tvg-logo="http://offshore.lat:8001/images/bd771a80e06982493ac6d021a7cc091b.png" group-title="CANALES 24/7",24H | Smallville
+http://offshore.lat:25461/marichu8/K35MV9pTHK/481
+#EXTINF:-1 tvg-id="" tvg-name="24H | Cinema Disney Pixar" tvg-logo="http://offshore.lat:25461/images/15303d2f3ddd77ea1da844e7bf3ab626.png" group-title="CANALES 24/7",24H | Cinema Disney Pixar
+http://offshore.lat:25461/marichu8/K35MV9pTHK/490
+#EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="CANALES 24/7",24H | Cantinflas
+http://offshore.lat:25461/marichu8/K35MV9pTHK/11526
+#EXTINF:-1 tvg-id="" tvg-name="24H | El Chavo del 8" tvg-logo="http://offshore.lat:25461/images/d895c9fb58c48be87237e29942627ccb.png" group-title="CANALES 24/7",24H | El Chavo del 8
+http://offshore.lat:25461/marichu8/K35MV9pTHK/11527
+#EXTINF:-1 tvg-id="" tvg-name="24H | Chapulin Colorado" tvg-logo="http://offshore.lat:25461/images/289e5a9a58e7bb35cd55443e9e51cf20.png" group-title="CANALES 24/7",24H | Chapulin Colorado
+http://offshore.lat:25461/marichu8/K35MV9pTHK/40829
+#EXTINF:-1 tvg-id="" tvg-name="24H | ALF" tvg-logo="http://offshore.lat:25461/images/90243be3777b51566843b14c96a1ed5f.png" group-title="CANALES 24/7",24H | ALF
+http://offshore.lat:25461/marichu8/K35MV9pTHK/236535
+#EXTINF:-1 tvg-id="" tvg-name="24H | Naruto" tvg-logo="https://w7.pngwing.com/pngs/490/971/png-transparent-naruto-uzumaki-naruto-shipp%C5%ABden-kakashi-hatake-itachi-uchiha-naruto-hand-fictional-character-cartoon-thumbnail.png" group-title="CANALES 24/7",24H | Naruto
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248603
+#EXTINF:-1 tvg-id="" tvg-name="24H | La Pantera Rosa" tvg-logo="http://offshore.lat:25461/images/351755179e8dcea8e2492c44ec2752f2.png" group-title="CANALES 24/7",24H | La Pantera Rosa
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248612
+#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball GT" tvg-logo="https://w7.pngwing.com/pngs/38/645/png-transparent-dragon-ball-gt-son-goku-illustration-dragon-ball-z-dokkan-battle-dragon-ball-xenoverse-goku-gohan-son-hand-vertebrate-fictional-character-thumbnail.png" group-title="CANALES 24/7",24H | Dragon Ball GT
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248616
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los PicaPiedra" tvg-logo="http://offshore.lat:25461/images/b5b3c04a1fe72dcb53b9061a325a8497.png" group-title="CANALES 24/7",24H | Los PicaPiedra
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248638
+#EXTINF:-1 tvg-id="" tvg-name="24H | Mr. Bean" tvg-logo="http://offshore.lat:25461/images/7fbd92d4e196cecf4814db7cabce586e.png" group-title="CANALES 24/7",24H | Mr. Bean
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248673
+#EXTINF:-1 tvg-id="" tvg-name="24H | El Correcaminos" tvg-logo="https://w7.pngwing.com/pngs/659/518/png-transparent-wile-e-coyote-and-the-road-runner-looney-tunes-greater-roadrunner-bugs-miscellaneous-mammal-vertebrate-thumbnail.png" group-title="CANALES 24/7",24H | El Correcaminos
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248674
+#EXTINF:-1 tvg-id="" tvg-name="24H | Chespirito" tvg-logo="http://offshore.lat:25461/images/64d53233e09ffcca0e0a60697784759c.png" group-title="CANALES 24/7",24H | Chespirito
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248684
+#EXTINF:-1 tvg-id="" tvg-name="24H | Games of Thrones" tvg-logo="https://w7.pngwing.com/pngs/656/206/png-transparent-iron-throne-from-game-of-thrones-daenerys-targaryen-game-of-thrones-iron-throne-7-replica-a-game-of-thrones-throne-miscellaneous-game-monument-thumbnail.png" group-title="CANALES 24/7",24H | Games of Thrones
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262945
+#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball" tvg-logo="http://offshore.lat:25461/images/ad121e9a7b3a265f8bce7449bc494601.png" group-title="CANALES 24/7",24H | Dragon Ball
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263253
+#EXTINF:-1 tvg-id="" tvg-name="24H | Batman" tvg-logo="http://offshore.lat:36995/images/1b6b5873e09da5b5dde162e7ff4922ab.png" group-title="CANALES 24/7",24H | Batman
+http://offshore.lat:25461/marichu8/K35MV9pTHK/233790
+#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball Z" tvg-logo="http://offshore.lat:36995/images/2d24ba762c297b3c81d77cf2bff92048.png" group-title="CANALES 24/7",24H | Dragon Ball Z
+http://offshore.lat:25461/marichu8/K35MV9pTHK/217685
+#EXTINF:-1 tvg-id="" tvg-name="24H | Dinosaurios" tvg-logo="http://offshore.lat:36995/images/7c5777cb095ac03fcae15c3a4fdc13f3.png" group-title="CANALES 24/7",24H | Dinosaurios
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208584
+#EXTINF:-1 tvg-id="" tvg-name="24H | Reino Infantil" tvg-logo="http://offshore.lat:36995/images/1e54022e9137aeb9f972f25c7df64748.png" group-title="CANALES 24/7",24H | Reino Infantil
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208583
+#EXTINF:-1 tvg-id="" tvg-name="24H | Bob Esponja" tvg-logo="http://offshore.lat:36995/images/005d85f02b9454b3c5c71790427af71e.png" group-title="CANALES 24/7",24H | Bob Esponja
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208582
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pokémon" tvg-logo="http://offshore.lat:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="CANALES 24/7",24H | Pokémon
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208207
+#EXTINF:-1 tvg-id="" tvg-name="24H | Plim Plim" tvg-logo="http://offshore.lat:36995/images/a17f85be1b6b82fa33f5ac149952ca73.png" group-title="CANALES 24/7",24H | Plim Plim
+http://offshore.lat:25461/marichu8/K35MV9pTHK/207821
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Picapiedra" tvg-logo="http://offshore.lat:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="CANALES 24/7",24H | Los Picapiedra
+http://offshore.lat:25461/marichu8/K35MV9pTHK/203853
+#EXTINF:-1 tvg-id="" tvg-name="24H | Coraje - El Perro Cobarde" tvg-logo="http://offshore.lat:36995/images/33f3023c477b45b9de38eb4e55125adc.png" group-title="CANALES 24/7",24H | Coraje - El Perro Cobarde
+http://offshore.lat:25461/marichu8/K35MV9pTHK/203851
+#EXTINF:-1 tvg-id="" tvg-name="24H | Minimalitos" tvg-logo="http://offshore.lat:36995/images/5b2069782f3b6d550999353b3bd7bc26.png" group-title="CANALES 24/7",24H | Minimalitos
+http://offshore.lat:25461/marichu8/K35MV9pTHK/203847
+#EXTINF:-1 tvg-id="" tvg-name="24H | Paw Patrol" tvg-logo="http://offshore.lat:36995/images/1a494d485026a8e0275f199645ba4ec2.png" group-title="CANALES 24/7",24H | Paw Patrol
+http://offshore.lat:25461/marichu8/K35MV9pTHK/203599
+#EXTINF:-1 tvg-id="" tvg-name="24H | Blaze y los Monster Machines" tvg-logo="http://offshore.lat:8001/images/15b5cab0e9b11de85659be679366d769.png" group-title="CANALES 24/7",24H | Blaze y los Monster Machines
+http://offshore.lat:25461/marichu8/K35MV9pTHK/202913
+#EXTINF:-1 tvg-id="" tvg-name="24H | La casa de papel" tvg-logo="http://offshore.lat:8001/images/a7dfa80c8fcf8f47d7c7a8198ac7efb6.png" group-title="CANALES 24/7",24H | La casa de papel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274029
+#EXTINF:-1 tvg-id="" tvg-name="24H | Harry Potter" tvg-logo="http://offshore.lat:36995/images/21f695169f37e6bed16b4359a5232dad.png" group-title="CANALES 24/7",24H | Harry Potter
+http://offshore.lat:25461/marichu8/K35MV9pTHK/241042
+#EXTINF:-1 tvg-id="" tvg-name="24H | Rocky" tvg-logo="http://offshore.lat:8001/images/bcf04d29eb96c4bbdd091e62ff41b0f1.png" group-title="CANALES 24/7",24H | Rocky
+http://offshore.lat:25461/marichu8/K35MV9pTHK/239663
+#EXTINF:-1 tvg-id="" tvg-name="24H | Moisés y los Diez Mandamientos" tvg-logo="http://offshore.lat:36995/images/284d810be0f787f9f27e3d57ed6c50ac.png" group-title="CANALES 24/7",24H | Moisés y los Diez Mandamientos
+http://offshore.lat:25461/marichu8/K35MV9pTHK/237112
+#EXTINF:-1 tvg-id="" tvg-name="24H | Jessica Jones" tvg-logo="http://offshore.lat:36995/images/5abc80787df1f70ca1bbe94997b23709.png" group-title="CANALES 24/7",24H | Jessica Jones
+http://offshore.lat:25461/marichu8/K35MV9pTHK/234424
+#EXTINF:-1 tvg-id="" tvg-name="24h | Disney Movies" tvg-logo="http://offshore.lat:36995/images/a42a5e759bd8e7924a831dbd00746685.png" group-title="CANALES 24/7",24h | Disney Movies
+http://offshore.lat:25461/marichu8/K35MV9pTHK/230605
+#EXTINF:-1 tvg-id="" tvg-name="24H | Cinema Universe" tvg-logo="http://offshore.lat:36995/images/d98a1ab8a8cced81275e6972c39147b6.png" group-title="CANALES 24/7",24H | Cinema Universe
+http://offshore.lat:25461/marichu8/K35MV9pTHK/230604
+#EXTINF:-1 tvg-id="" tvg-name="24H | The Walking Dead" tvg-logo="http://offshore.lat:36995/images/11f62427024c15f0240e9e9649be9c3d.png" group-title="CANALES 24/7",24H | The Walking Dead
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208202
+#EXTINF:-1 tvg-id="" tvg-name="24H | Peliculas Infantiles" tvg-logo="http://offshore.lat:36995/images/7d7355ebf772fd472493a6fa4cf00dbf.png" group-title="CANALES 24/7",24H | Peliculas Infantiles
+http://offshore.lat:25461/marichu8/K35MV9pTHK/202426
+#EXTINF:-1 tvg-id="" tvg-name="24H | DRAKKE Y JOSH 2" tvg-logo="http://offshore.lat:25461/images/af9655950b2c3574e33735702475f7e4.png" group-title="CANALES 24/7",24H | DRAKKE Y JOSH 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274028
+#EXTINF:-1 tvg-id="" tvg-name="24H | El principe del Rap" tvg-logo="http://offshore.lat:36995/images/f09531d92c523f9daaacb869d2528e6f.png" group-title="CANALES 24/7",24H | El principe del Rap
+http://offshore.lat:25461/marichu8/K35MV9pTHK/273906
+#EXTINF:-1 tvg-id="" tvg-name="24H | La Familia P. Luche" tvg-logo="http://offshore.lat:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="CANALES 24/7",24H | La Familia P. Luche
+http://offshore.lat:25461/marichu8/K35MV9pTHK/241071
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los 3 Chiflados" tvg-logo="http://offshore.lat:36995/images/c1dfb18fdca80cf476e30aa145ea12dc.png" group-title="CANALES 24/7",24H | Los 3 Chiflados
+http://offshore.lat:25461/marichu8/K35MV9pTHK/230607
+#EXTINF:-1 tvg-id="" tvg-name="24H | Mr Bean" tvg-logo="http://offshore.lat:25461/images/888d2951b408b8be7fba6120187ccad8.png" group-title="CANALES 24/7",24H | Mr Bean
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208602
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Simpson *" tvg-logo="http://offshore.lat:8001/images/851041972c97d09bc5796d523ab7ae23.jpg" group-title="CANALES 24/7",24H | Los Simpson *
+http://offshore.lat:25461/marichu8/K35MV9pTHK/291793
+#EXTINF:-1 tvg-id="" tvg-name="24H | Luisito Minidocumental" tvg-logo="http://offshore.lat:36995/images/eba8d9fe4bd32c0d17026eeaef5fc372.jpg" group-title="CANALES 24/7",24H | Luisito Minidocumental
+http://offshore.lat:25461/marichu8/K35MV9pTHK/292102
+#EXTINF:-1 tvg-id="" tvg-name="24H | Oxlacx Tops" tvg-logo="" group-title="CANALES 24/7",24H | Oxlacx Tops
+http://offshore.lat:25461/marichu8/K35MV9pTHK/292103
+#EXTINF:-1 tvg-id="" tvg-name="24H | Fútbol Para Fans" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Fútbol Para Fans
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282923
+#EXTINF:-1 tvg-id="" tvg-name="24H | Minuto Para Ganar" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Minuto Para Ganar
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282924
+#EXTINF:-1 tvg-id="" tvg-name="24H | Estrellas de Acción" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Estrellas de Acción
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282930
+#EXTINF:-1 tvg-id="" tvg-name="24H | Babyfirst" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Babyfirst
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282935
+#EXTINF:-1 tvg-id="" tvg-name="24H | Archivos Forenses" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Archivos Forenses
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282942
+#EXTINF:-1 tvg-id="" tvg-name="24H | Barney" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Barney
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282947
+#EXTINF:-1 tvg-id="" tvg-name="24H | All Elite Wrestling" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | All Elite Wrestling
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282949
+#EXTINF:-1 tvg-id="" tvg-name="24H | Historias de Ultratumba" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Historias de Ultratumba
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282950
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS 1-5" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",24/7 LOS SIMPSONS 1-5
+http://offshore.lat:25461/marichu8/K35MV9pTHK/294010
+#EXTINF:-1 tvg-id="" tvg-name="247 LOS SIMPSONS 6-11" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",247 LOS SIMPSONS 6-11
+http://offshore.lat:25461/marichu8/K35MV9pTHK/294011
+#EXTINF:-1 tvg-id="" tvg-name="247 LOS SIMPSONS 12-17" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",247 LOS SIMPSONS 12-17
+http://offshore.lat:25461/marichu8/K35MV9pTHK/294012
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS 18-21" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",24/7 LOS SIMPSONS 18-21
+http://offshore.lat:25461/marichu8/K35MV9pTHK/294013
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS 27-30" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",24/7 LOS SIMPSONS 27-30
+http://offshore.lat:25461/marichu8/K35MV9pTHK/294014
+#EXTINF:-1 tvg-id="" tvg-name="24H | Humor es los comediantes" tvg-logo="http://offshore.lat:25461/images/cbb0a1f81fc9f4ce9b26c84c057e2a46.jpg" group-title="CANALES 24/7",24H | Humor es los comediantes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/296950
+#EXTINF:-1 tvg-id="" tvg-name="24H | Cero en Conducta" tvg-logo="http://offshore.lat:25461/images/f7580d491de94917ee68e9a5d9be5e10.jpg" group-title="CANALES 24/7",24H | Cero en Conducta
+http://offshore.lat:25461/marichu8/K35MV9pTHK/296951
+#EXTINF:-1 tvg-id="" tvg-name="24H | Gasparin y sus amigos" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Gasparin y sus amigos
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297283
+#EXTINF:-1 tvg-id="" tvg-name="24H | Gravity Falls" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Gravity Falls
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297284
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los Caballeros del Zodiaco" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Los Caballeros del Zodiaco
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297286
+#EXTINF:-1 tvg-id="" tvg-name="24H | Mi Bella Genio" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Mi Bella Genio
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297287
+#EXTINF:-1 tvg-id="" tvg-name="24H | Cinema Disney Pixar" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Cinema Disney Pixar
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297289
+#EXTINF:-1 tvg-id="" tvg-name="24H | Peppa Pig" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Peppa Pig
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297290
+#EXTINF:-1 tvg-id="" tvg-name="24H | The Big Bang Theory" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | The Big Bang Theory
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297288
+#EXTINF:-1 tvg-id="" tvg-name="24H | Looney Tunes" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Looney Tunes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297291
+#EXTINF:-1 tvg-id="" tvg-name="24H | Daniel el Travieso" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Daniel el Travieso
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297292
+#EXTINF:-1 tvg-id="" tvg-name="24H | Malcom el de en medio" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Malcom el de en medio
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297293
+#EXTINF:-1 tvg-id="" tvg-name="24H | DreamWorks" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | DreamWorks
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297294
+#EXTINF:-1 tvg-id="" tvg-name="24H | FBI" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | FBI
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297297
+#EXTINF:-1 tvg-id="" tvg-name="24H | Caso Cerrado" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Caso Cerrado
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297298
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pantera Rosa" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Pantera Rosa
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297299
+#EXTINF:-1 tvg-id="" tvg-name="24H | Peliculas Lego" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Peliculas Lego
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297300
+#EXTINF:-1 tvg-id="" tvg-name="24H | El Asombroso Mundo de Gumball" tvg-logo="http://offshore.lat:8001/images/97dca9269956213a18dc5c41f5114c10.png" group-title="CANALES 24/7",24H | El Asombroso Mundo de Gumball
+http://offshore.lat:25461/marichu8/K35MV9pTHK/298850
+#EXTINF:-1 tvg-id="" tvg-name="24H | El Chavo Animado" tvg-logo="http://offshore.lat:8001/images/6d55e3ef085c5c7b474381a8d217c425.jpg" group-title="CANALES 24/7",24H | El Chavo Animado
+http://offshore.lat:25461/marichu8/K35MV9pTHK/306166
+#EXTINF:-1 tvg-id="" tvg-name="24H | Pocoyo" tvg-logo="http://offshore.lat:25461/images/f2f6acfb2dee7374c53f76ae25b94d02.jpg" group-title="CANALES 24/7",24H | Pocoyo
+http://offshore.lat:25461/marichu8/K35MV9pTHK/318964
+#EXTINF:-1 tvg-id="" tvg-name="24H | El chavo del 8*" tvg-logo="http://offshore.lat:25461/images/344e8e5b423f7c51b919b34ee28b5b52.png" group-title="CANALES 24/7",24H | El chavo del 8*
+http://offshore.lat:25461/marichu8/K35MV9pTHK/322686
+#EXTINF:-1 tvg-id="" tvg-name="24H | Futurama" tvg-logo="http://offshore.lat:25461/images/4697fe0060f8af20fec80f12585ca820.png" group-title="CANALES 24/7",24H | Futurama
+http://offshore.lat:25461/marichu8/K35MV9pTHK/346235
+
 
 #ADULTOS
 
