@@ -18,6 +18,17 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
 https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 #EXTINF:-1 group-title="ROKU",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="ROKU",AR | TyC Sports Argentina
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262180
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1" group-title="ROKU",AR | ESPN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1246
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" group-title="ROKU",AR | ESPN 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262403
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="FHD | Cartoon Network"  group-title="ROKU",FHD | Cartoon Network
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263286
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="FHD | Disney Channel" group-title="ROKU",FHD | Disney Channel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263301
+
 
 #EXTINF:-1  group-title="ARGENTINA",AMERICA TV
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45132
@@ -307,12 +318,6 @@ http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140323
 http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140324
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 HD MEX
 http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140325
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 1" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",US | YU_DeportesN OP 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/272000
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 2" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",US | YU_DeportesN OP 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/326799
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 3" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",US | YU_DeportesN OP 3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/326800
 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN OP 1" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",TUDN OP 1
 http://offshore.lat:25461/marichu8/K35MV9pTHK/311893
 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN OP 2" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",TUDN OP 2
@@ -335,8 +340,6 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/1329
 http://offshore.lat:25461/marichu8/K35MV9pTHK/285169
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium SD" tvg-logo="http://offshore.lat:25461/images/1e7721d7b42e20a697250798b3b9feca.png" group-title="DEPORTES",Fox Sports Premium SD
 http://offshore.lat:25461/marichu8/K35MV9pTHK/293129
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="US | Fox Deportes" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | Fox Deportes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/9632
 #EXTINF:-1 tvg-id="foxsports.mx" tvg-name="HD | Fox Sports 1 MX" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",HD | Fox Sports 1 MX
 http://offshore.lat:25461/marichu8/K35MV9pTHK/27981
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="HD | Fox Sports 2 MX" tvg-logo="http://offshore.lat:36995/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",HD | Fox Sports 2 MX
@@ -353,8 +356,6 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/1323
 http://offshore.lat:25461/marichu8/K35MV9pTHK/292943
 #EXTINF:-1 tvg-id="" tvg-name="LA | ESPN Deportes" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",LA | ESPN Deportes
 http://offshore.lat:25461/marichu8/K35MV9pTHK/295699
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US | ESPN DEPORTES HD" tvg-logo="http://offshore.lat:25461/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",US | ESPN DEPORTES HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262177
 #EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="Espn Plus" tvg-logo="http://offshore.lat:36995/images/e589823b440afa607e617e72f0e69878.png" group-title="DEPORTES",Espn Plus
 http://offshore.lat:25461/marichu8/K35MV9pTHK/1322
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="HD  | ESPN MX" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",HD  | ESPN MX
@@ -475,24 +476,16 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/1336
 http://offshore.lat:25461/marichu8/K35MV9pTHK/1337
 #EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="LA | BEIN SPORTS Ñ" tvg-logo="http://offshore.lat:8001/images/f4c30553cdbd562e64a278cc7c709126.png" group-title="DEPORTES",LA | BEIN SPORTS Ñ
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244576
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="US | BEIN SPORTS Ñ" tvg-logo="http://offshore.lat:8001/images/f4c30553cdbd562e64a278cc7c709126.png" group-title="DEPORTES",US | BEIN SPORTS Ñ
-http://offshore.lat:25461/marichu8/K35MV9pTHK/40963
 #EXTINF:-1 tvg-id="" tvg-name="LA | Bein sports Ñ *" tvg-logo="http://offshore.lat:36995/images/f4c30553cdbd562e64a278cc7c709126.png" group-title="DEPORTES",LA | Bein sports Ñ *
 http://offshore.lat:25461/marichu8/K35MV9pTHK/258965
 #EXTINF:-1 tvg-id="" tvg-name="DE | beIN SPORTS XTRA en español" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="DEPORTES",DE | beIN SPORTS XTRA en español
 http://offshore.lat:25461/marichu8/K35MV9pTHK/283272
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US | Bein Sports USA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",US | Bein Sports USA HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1227
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="US | BEIN SPORTS LA LIGA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",US | BEIN SPORTS LA LIGA
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1253
 #EXTINF:-1 tvg-id="" tvg-name="ES | BEIN LA LIGA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",ES | BEIN LA LIGA
 http://offshore.lat:25461/marichu8/K35MV9pTHK/1212
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="DE | Bein Sports 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",DE | Bein Sports 1
 http://offshore.lat:25461/marichu8/K35MV9pTHK/33967
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="DE | Bein Sports 5" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",DE | Bein Sports 5
 http://offshore.lat:25461/marichu8/K35MV9pTHK/208212
-#EXTINF:-1 tvg-id="" tvg-name="US | Bein Sports Ñ HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",US | Bein Sports Ñ HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/258964
 #EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA TV BAR" tvg-logo="http://offshore.lat:8001/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="DEPORTES",ES: LA LIGA TV BAR
 http://offshore.lat:25461/marichu8/K35MV9pTHK/1210
 #EXTINF:-1 tvg-id="" tvg-name="DE | Movistar Deportes" tvg-logo="http://offshore.lat:25461/images/964f9997484e3c12e13a367d1921c3aa.png" group-title="DEPORTES",DE | Movistar Deportes
@@ -547,150 +540,10 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/296662
 http://offshore.lat:25461/marichu8/K35MV9pTHK/285272
 #EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar Formula 1 (DAZN op2)" tvg-logo="http://offshore.lat:25461/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES",F1 | Movistar Formula 1 (DAZN op2)
 http://offshore.lat:25461/marichu8/K35MV9pTHK/260370
-#EXTINF:-1 tvg-id="goltv.us" tvg-name="US | GOLTV ENG" tvg-logo="http://offshore.lat:8001/images/12f1605d2c82633d876c65e6226f43f5.jpg" group-title="DEPORTES",US | GOLTV ENG
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1299
-#EXTINF:-1 tvg-id="plutotvkids.us" tvg-name="US | GOAL TV ESP" tvg-logo="http://offshore.lat:8001/images/12f1605d2c82633d876c65e6226f43f5.jpg" group-title="DEPORTES",US | GOAL TV ESP
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1334
 #EXTINF:-1 tvg-id="" tvg-name="UY | VTV" tvg-logo="http://offshore.lat:8001/images/ad03b20507ea6770b351cac42f2630df.png" group-title="DEPORTES",UY | VTV
 http://offshore.lat:25461/marichu8/K35MV9pTHK/1354
 #EXTINF:-1 tvg-id="" tvg-name="UY | VTV HD" tvg-logo="http://offshore.lat:25461/images/ad03b20507ea6770b351cac42f2630df.png" group-title="DEPORTES",UY | VTV HD
 http://offshore.lat:25461/marichu8/K35MV9pTHK/1355
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US  | TENNIS CHANEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKEDr4hvyZRcA_SgGtlYJtVQn25C3prTfuBnWTTpwWuw52FQo&s" group-title="DEPORTES",US  | TENNIS CHANEL
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1261
-#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="US | UFC TV" tvg-logo="http://offshore.lat:36995/images/bb90a56d757a97915b6fe12a486451fa.jpg" group-title="DEPORTES",US | UFC TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1262
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US | ESPN" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",US | ESPN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1269
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US | ESPN News" tvg-logo="http://offshore.lat:25461/images/e5fead9fe7ce6d37f7a407fb46a87ae5.png" group-title="DEPORTES",US | ESPN News
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1270
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U" tvg-logo="http://offshore.lat:36995/images/500b1f7cdad583f9d07c87427babe201.png" group-title="DEPORTES",US | ESPN U
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1271
-#EXTINF:-1 tvg-id="" tvg-name="US LA | Espn +" tvg-logo="http://offshore.lat:8001/images/e589823b440afa607e617e72f0e69878.png" group-title="DEPORTES",US LA | Espn +
-http://offshore.lat:25461/marichu8/K35MV9pTHK/240774
-#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="US | Fight Network" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGF3AbKOnMKFw/company-logo_200_200/0?e=2159024400&v=beta&t=s5TI6p82ni-QS6E-xmziuEjkBC_DpXyVJAkOBlkkMfg" group-title="DEPORTES",US | Fight Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1272
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US | Fox Sports 1" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",US | Fox Sports 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1274
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2" tvg-logo="http://offshore.lat:25461/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="DEPORTES",US | Fox Sports 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1275
-#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | Fox Soccer Plus" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | Fox Soccer Plus
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1276
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Arizona" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports Arizona
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232357
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports North" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports North
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232359
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports San Diego" tvg-logo="http://offshore.lat:8001/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports San Diego
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232361
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports South
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232362
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South East" tvg-logo="http://offshore.lat:8001/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports South East
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232363
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Sun" tvg-logo="http://offshore.lat:8001/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports Sun
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232365
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports West" tvg-logo="http://offshore.lat:8001/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX Sports West
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232366
-#EXTINF:-1 tvg-id="" tvg-name="US | GINX eSports" tvg-logo="http://offshore.lat:25461/images/7dd1602146f9f863e7c11e8f3dde6345.jpg" group-title="DEPORTES",US | GINX eSports
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1277
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US | Golf Channel" tvg-logo="http://offshore.lat:36995/images/ddca5f1d34e4252780e5cd2cbb8d8be3.png" group-title="DEPORTES",US | Golf Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1278
-#EXTINF:-1 tvg-id="plutotvkids.us" tvg-name="US | LongHorn Network" tvg-logo="http://offshore.lat:36995/images/3112974c314d75a365bb1b5e0e7ba415.jpg" group-title="DEPORTES",US | LongHorn Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1279
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US | MLB Network" tvg-logo="http://offshore.lat:8001/images/491ccc167374a98762b5a5c2cd6fe3fe.png" group-title="DEPORTES",US | MLB Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1280
-#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US | MSG" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/compositions/T121A70PA4057PT17X31Y34D11646780FS7247Cx000000/views/1,width=650,height=650,appearanceId=70.jpg" group-title="DEPORTES",US | MSG
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1281
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US | MSNBC" tvg-logo="http://offshore.lat:8001/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | MSNBC
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1283
-#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US | NBCSN" tvg-logo="http://offshore.lat:8001/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBCSN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1309
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US | NFL Network" tvg-logo="http://offshore.lat:8001/images/45c466aa2042c9fbcc75d02e6b7b2f6a.png" group-title="DEPORTES",US | NFL Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1286
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="US | NHL Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsf3F59vP7XsKRa3TPayXZQ_zLArqGLSOIOOnI2hRJoooY-XlI&s" group-title="DEPORTES",US | NHL Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1287
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US | Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ_iU-N3Jmi-DPnL2n1RnAF4E62bHtLGBreoW9nUKKldRXbx5F&s" group-title="DEPORTES",US | Outdoor Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1289
-#EXTINF:-1 tvg-id="" tvg-name="US | SNY" tvg-logo="http://offshore.lat:36995/images/bcb4aa344918c92a8aa03659507fff14.png" group-title="DEPORTES",US | SNY
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1294
-#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US | Yes Network" tvg-logo="http://offshore.lat:8001/images/7ba73fcf05dcc6eb87b3d86da9034f16.jpg" group-title="DEPORTES",US | Yes Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1296
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="US | WWE Network" tvg-logo="http://offshore.lat:25461/images/1994e3b934d8b35006fbab8b268db069.png" group-title="DEPORTES",US | WWE Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1466
-#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US | NBC Sports Bay Area" tvg-logo="http://offshore.lat:8001/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Bay Area
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232368
-#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US | NBC Sports Boston" tvg-logo="http://offshore.lat:25461/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Boston
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232369
-#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="US | NBC Sports California" tvg-logo="http://offshore.lat:8001/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports California
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232370
-#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="US | NBC Sports Philadelphia" tvg-logo="http://offshore.lat:36995/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Philadelphia
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232373
-#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="US | NBC Sports Washington" tvg-logo="http://offshore.lat:25461/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Washington
-http://offshore.lat:25461/marichu8/K35MV9pTHK/232374
-#EXTINF:-1 tvg-id="" tvg-name="US | World Fishing Network" tvg-logo="http://offshore.lat:8001/images/e3d897a974742c51c9ea660124e58814.png" group-title="DEPORTES",US | World Fishing Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/236447
-#EXTINF:-1 tvg-id="" tvg-name="US | TVG" tvg-logo="http://offshore.lat:8001/images/246f008b372bce0dcab6c10d4779a786.png" group-title="DEPORTES",US | TVG
-http://offshore.lat:25461/marichu8/K35MV9pTHK/254187
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX 35 Orlando" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | FOX 35 Orlando
-http://offshore.lat:25461/marichu8/K35MV9pTHK/265417
-#EXTINF:-1 tvg-id="" tvg-name="US | Red Bull TV" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv" group-title="DEPORTES",US | Red Bull TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266007
-#EXTINF:-1 tvg-id="" tvg-name="US | ESPN 2" tvg-logo="http://offshore.lat:36995/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",US | ESPN 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266771
-#EXTINF:-1 tvg-id="" tvg-name="US | Fox Sports Wisconsin" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",US | Fox Sports Wisconsin
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266864
-#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports Florida" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports Florida
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266903
-#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports Great Lakes" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports Great Lakes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266904
-#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports Kansas City" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports Kansas City
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266906
-#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports New Orleans" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports New Orleans
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266908
-#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports SOCAL" tvg-logo="http://offshore.lat:8001/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports SOCAL
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266913
-#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports SUN" tvg-logo="http://offshore.lat:25461/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports SUN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266917
-#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports San Diego" tvg-logo="http://offshore.lat:8001/images/3dc6d3d6b74a49bb8bf164f4bb402e11.jpg" group-title="DEPORTES",US | Bally Sports San Diego
-http://offshore.lat:25461/marichu8/K35MV9pTHK/308367
-#EXTINF:-1 tvg-id="" tvg-name="USA | Motor trend" tvg-logo="http://offshore.lat:36995/images/8cc2ab17fd7a6bf849a1de3187e6284c.jpg" group-title="DEPORTES",USA | Motor trend
-http://offshore.lat:25461/marichu8/K35MV9pTHK/267474
-#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US | NBC Sports Bay Area op2" tvg-logo="http://offshore.lat:36995/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Bay Area op2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/283355
-#EXTINF:-1 tvg-id="" tvg-name="US | Sports Time Ohio" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQFbfETX-ztHLA/company-logo_200_200/0/1519871049682?e=2159024400&v=beta&t=r_v61rO8LrABSih2W1XGzQoRRNEs9kfkOeY3iUo5UWU" group-title="DEPORTES",US | Sports Time Ohio
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263624
-#EXTINF:-1 tvg-id="" tvg-name="US | AT&T SportsNet Rocky Mountain HD" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",US | AT&T SportsNet Rocky Mountain HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263625
-#EXTINF:-1 tvg-id="" tvg-name="US | AT&T Sportsnet SouthWest" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",US | AT&T Sportsnet SouthWest
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263626
-#EXTINF:-1 tvg-id="" tvg-name="US | AT&T SPORTSNET Pittsburgh" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",US | AT&T SPORTSNET Pittsburgh
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263627
-#EXTINF:-1 tvg-id="" tvg-name="US | MASN (Mid-Atlantic Sports Network)" tvg-logo="http://offshore.lat:36995/images/a4a02f279a9b32513a2e7a0a1b8db6f0.jpg" group-title="DEPORTES",US | MASN (Mid-Atlantic Sports Network)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263628
-#EXTINF:-1 tvg-id="" tvg-name="DE | SportsNet 360" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",DE | SportsNet 360
-http://offshore.lat:25461/marichu8/K35MV9pTHK/245394
-#EXTINF:-1 tvg-id="" tvg-name="DE | SportsNet One" tvg-logo="https://staging.wtccommunications.ca/sites/default/files/2020-02/Sportsnet%20World%202019.png" group-title="DEPORTES",DE | SportsNet One
-http://offshore.lat:25461/marichu8/K35MV9pTHK/245396
-#EXTINF:-1 tvg-id="" tvg-name="DE | GolTV" tvg-logo="http://offshore.lat:8001/images/12f1605d2c82633d876c65e6226f43f5.jpg" group-title="DEPORTES",DE | GolTV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/248165
-#EXTINF:-1 tvg-id="" tvg-name="DE | Marquee Sports Network" tvg-logo="http://offshore.lat:8001/images/1fa48bb432bba57aaace3af8d257dfe2.png" group-title="DEPORTES",DE | Marquee Sports Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262399
-#EXTINF:-1 tvg-id="" tvg-name="DE | Fox sports Premiun SD" tvg-logo="http://offshore.lat:36995/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",DE | Fox sports Premiun SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263552
-#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv" tvg-logo="http://offshore.lat:36995/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv
-http://offshore.lat:25461/marichu8/K35MV9pTHK/264507
-#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 2" tvg-logo="http://offshore.lat:8001/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/264506
-#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 3" tvg-logo="http://offshore.lat:8001/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv 3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/264505
-#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv*" tvg-logo="http://offshore.lat:25461/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/267358
-#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 2*" tvg-logo="http://offshore.lat:25461/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv 2*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/267359
-#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 3*" tvg-logo="http://offshore.lat:8001/images/43c36900b0aa86ded24077870df74926.jpg" group-title="DEPORTES",BR | Sportv 3*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/267360
-#EXTINF:-1 tvg-id="" tvg-name="DE | VTsPOR 3" tvg-logo="https://play-lh.googleusercontent.com/VOGCWbEo_9iSabadZ2n4kq6pT7koYg4GhYUlc6AKV1vXGH81sOHZLYDv7meURh7vxfI" group-title="DEPORTES",DE | VTsPOR 3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/264716
-#EXTINF:-1 tvg-id="" tvg-name="DE | UFC Fightpass" tvg-logo="http://offshore.lat:36995/images/7c2d6bd2b7206e3439f3fc840050ed89.png" group-title="DEPORTES",DE | UFC Fightpass
-http://offshore.lat:25461/marichu8/K35MV9pTHK/267193
 #EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sport" tvg-logo="" group-title="DEPORTES",CR | Tigo Sport
 http://offshore.lat:25461/marichu8/K35MV9pTHK/274657
 #EXTINF:-1 tvg-id="" tvg-name="ES | Toros TV" tvg-logo="http://offshore.lat:8001/images/bbf4b8810e1001939bdf62cc093581b1.jpg" group-title="DEPORTES",ES | Toros TV
@@ -729,8 +582,6 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/312589
 http://offshore.lat:25461/marichu8/K35MV9pTHK/312590
 #EXTINF:-1 tvg-id="" tvg-name="ES | EUDEPORTES 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHNBA7gxcoMtwv9HlYSk0NwIKYVQMK4izANfSbFpFJlVwwkFx&s" group-title="DEPORTES",ES | EUDEPORTES 1 SD
 http://offshore.lat:25461/marichu8/K35MV9pTHK/320882
-#EXTINF:-1 tvg-id="" tvg-name="US | Box Nation" tvg-logo="http://offshore.lat:25461/images/af06fbe5b6acace944b96e3ab3c9e33b.png" group-title="DEPORTES",US | Box Nation
-http://offshore.lat:25461/marichu8/K35MV9pTHK/346526
 #EXTINF:-1 tvg-id="" tvg-name="ARG| Es.pn 1 ARG UHD" tvg-logo="s:1:/images/94cef52b653c8cdb2badc018ae65c555.png" group-title="DEPORTES",ARG| Es.pn 1 ARG UHD
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/99753
 #EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN Premium UHD" tvg-logo="s:1:/images/94cef52b653c8cdb2badc018ae65c555.png" group-title="DEPORTES",ARG| ESPN Premium UHD
