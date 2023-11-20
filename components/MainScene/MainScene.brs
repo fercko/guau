@@ -80,9 +80,7 @@ sub setChannel()
 		end for
 		content = m.list.content.getChild(m.list.currFocusSection).getChild(itemSelected)
 	end if
-
-	'Probably would be good to make content = content.clone(true) but for now it works like this
-	content.streamFormat = "hls"
+	content.streamFormat = "hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2"
 
 	if m.video.content <> invalid and m.video.content.url = content.url return
 
