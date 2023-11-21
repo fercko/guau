@@ -1,1325 +1,94 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ROKU",EL TRECE
+#ARGENTINA
+#EXTINF:-1 group-title="ARGENTINA",EL TRECE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
-#EXTINF:-1 group-title="ROKU",TELEFE
+#EXTINF:-1 group-title="ARGENTINA",TELEFE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
-#EXTINF:-1 group-title="ROKU",TN Todo Noticias
+#EXTINF:-1 group-title="ARGENTINA",TN Todo Noticias
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
-#EXTINF:-1 group-title="ROKU",LN+
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
-#EXTINF:-1 group-title="ROKU",Cronica
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
-#EXTINF:-1 group-title="ROKU",C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
-#EXTINF:-1 group-title="ROKU",Discovery Kids
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
-#EXTINF:-1 group-title="ROKU",TELEFE CORDOBA
-https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
-#EXTINF:-1 group-title="ROKU",TV PUBLICA
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 group-title="ROKU",AR | TyC Sports Argentina
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262180
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1" group-title="ROKU",AR | ESPN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1246
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" group-title="ROKU",AR | ESPN 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262403
-#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="FHD | Cartoon Network"  group-title="ROKU",FHD | Cartoon Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263286
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="FHD | Disney Channel" group-title="ROKU",FHD | Disney Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263301
-
-
-#EXTINF:-1  group-title="ARGENTINA",AMERICA TV
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45132
-#EXTINF:-1 group-title="ARGENTINA",AMERICA TV 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
-#EXTINF:-1  group-title="ARGENTINA",EL NUEVE
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45133
-#EXTINF:-1  group-title="ARGENTINA",EL TRECE HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45134
-#EXTINF:-1 group-title="ARGENTINA",EL TRECE 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
-#EXTINF:-1  group-title="ARGENTINA", TELEFE
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45135
-#EXTINF:-1 group-title="ARGENTINA",Telefe 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
-#EXTINF:-1  group-title="ARGENTINA", TELEFE INTERNACIONAL HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45136
-#EXTINF:-1  group-title="ARGENTINA", Television Publica
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45137
-#EXTINF:-1  group-title="ARGENTINA", TN NOTICIAS
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45138
-#EXTINF:-1 group-title="ARGENTINA",TN Todo Noticias 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
-#EXTINF:-1 group-title="ARGENTINA",TN Todo Noticias YOUTUBE
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0051
-#EXTINF:-1 group-title="ARGENTINA", C5N HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45139
-#EXTINF:-1 group-title="ARGENTINA",C5N 2
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
-#EXTINF:-1 group-title="ARGENTINA", CANAL 26
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45140
-#EXTINF:-1 group-title="ARGENTINA",Canal 26 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0077
 #EXTINF:-1 group-title="ARGENTINA",LN+
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
-#EXTINF:-1 group-title="ARGENTINA",LN+ 2
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45141
-#EXTINF:-1 group-title="ARGENTINA",LN+ 3
-https://www.youtube.com/c/LaNacionMas/live
-#EXTINF:-1 group-title="ARGENTINA", Magazine HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45142
-#EXTINF:-1 group-title="ARGENTINA", AMERICA TV
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45150
-#EXTINF:-1 group-title="ARGENTINA",CRONICA
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45151
-#EXTINF:-1 group-title="ARGENTINA",Cronica 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0068
-#EXTINF:-1 group-title="ARGENTINA",Cronica YOUTUBE
+#EXTINF:-1 group-title="ARGENTINA",Cronica
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
-#EXTINF:-1 group-title="ARGENTINA",Canal 9
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45152
+#EXTINF:-1 group-title="ARGENTINA",C5N
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
+#EXTINF:-1 group-title="ARGENTINA",TELEFE CORDOBA
+https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:-1 group-title="ARGENTINA",TV PUBLICA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="ARGENTINA",EL NUEVE
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45133
+#EXTINF:-1 group-title="ARGENTINA", CANAL 26
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45140
 #EXTINF:-1 group-title="ARGENTINA",A24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
-#EXTINF:-1 group-title="ARGENTINA",AR | TV PUBLICA
-http://offshore.lat:25461/marichu8/K35MV9pTHK/491
-#EXTINF:-1 group-title="ARGENTINA",AR | TELEFE
-http://offshore.lat:25461/marichu8/K35MV9pTHK/492
-#EXTINF:-1 group-title="ARGENTINA",AR | AMERICA TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/494
-#EXTINF:-1 group-title="ARGENTINA",AR | EL NUEVE
-http://offshore.lat:25461/marichu8/K35MV9pTHK/495
-#EXTINF:-1 group-title="ARGENTINA",AR | EL TRECE
-http://offshore.lat:25461/marichu8/K35MV9pTHK/496
-#EXTINF:-1 group-title="ARGENTINA",AR | TELEFE SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/498
-#EXTINF:-1 group-title="ARGENTINA",AR | TV PUBLICA*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/499
-#EXTINF:-1 group-title="ARGENTINA",AR | A24
-http://offshore.lat:25461/marichu8/K35MV9pTHK/501
-#EXTINF:-1 group-title="ARGENTINA",AR | C5N
-http://offshore.lat:25461/marichu8/K35MV9pTHK/503
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal-26-HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/505
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal de Noticias 24/7
-http://offshore.lat:25461/marichu8/K35MV9pTHK/511
-#EXTINF:-1 group-title="ARGENTINA",AR | Cine AR
-http://offshore.lat:25461/marichu8/K35MV9pTHK/512
-#EXTINF:-1 group-title="ARGENTINA",AR | El Nueve *
-http://offshore.lat:25461/marichu8/K35MV9pTHK/516
-#EXTINF:-1 group-title="ARGENTINA",AR | El Trece HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/517
-#EXTINF:-1 group-title="ARGENTINA",AR | Garage TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/518
-#EXTINF:-1 group-title="ARGENTINA",AR | Paka Paka
-http://offshore.lat:25461/marichu8/K35MV9pTHK/520
-#EXTINF:-1 group-title="ARGENTINA",AR | TN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/522
-#EXTINF:-1 group-title="ARGENTINA",AR | El Trece HD op2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/240910
-#EXTINF:-1 group-title="ARGENTINA",AR | El Trece HD op3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/240911
-#EXTINF:-1 group-title="ARGENTINA",AR | El Trece Op3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/240912
-#EXTINF:-1 group-title="ARGENTINA",AR | America TV *
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263318
-#EXTINF:-1 group-title="ARGENTINA",AR | El Nueve SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/265945
-#EXTINF:-1 group-title="ARGENTINA",AR | Telefe SD*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/265947
-#EXTINF:-1 group-title="ARGENTINA",AR | El trece SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/265950
-#EXTINF:-1 group-title="ARGENTINA",AR | CRONICA TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324798
-#EXTINF:-1 tvg-id="" tvg-name="ARG| America 24 UHD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUPmGMKv7KiRekLhJatFbc1rI9bAv97oxdkwG7EN4qddSBiriC8wrrS_2Q7olJG_Tg.png" group-title="ARGENTINA",ARG| America 24 UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99742
-#EXTINF:-1 tvg-id="" tvg-name="ARG| America TV ARG UHD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUDKXu0HoXGao9N9I3XfKzQAPHoxfGKHZHwZlln70jex52UwiSjBRwA5fPf4xv1fFL7NcC5UxY6tjNxHi3d2rf9fEv3cdrH0or_nP5hpCrcFg.png" group-title="ARGENTINA",ARG| America TV ARG UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99743
-#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N UHD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjd3C5VTwi_-KmC21epa3umf07UMgWtiU-XW9QGDY8_EwUCAbg2GvhJck9eiMC4pyz.png" group-title="ARGENTINA",ARG| C5N UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99745
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Canal 26 UHD" tvg-logo="s:1:/images/qw9Sd5JnDX2uSQDrGmMcuhw2i-DYsG_lHZmiOnMFfNzXf1Lnhz-X48_7IQbM51El.png" group-title="ARGENTINA",ARG| Canal 26 UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99747
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Cronica TV ARG UHD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7tPEyePrpAh3LuR4DZ3FyJmF3MIaSuZJU2wnwJ8TZH72KegX9VmmK_KLNMlT5OxF6.png" group-title="ARGENTINA",ARG| Cronica TV ARG UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99749
-#EXTINF:-1 tvg-id="" tvg-name="ARG| DeporTV ARG UHD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUPmGMKv7KiRekLhJatFbc10KlcAUIvC42I5-jSll2o5bUdzSfl7wK6kNF6vnkevoYUe80rloqWqsNnHrfT_frU.png" group-title="ARGENTINA",ARG| DeporTV ARG UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99750
-#EXTINF:-1 tvg-id="" tvg-name="ARG| El Trece ARG UHD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZI_YxnzgLIEXzoEp4tfZHXRwuU70ll6ZLsT11SHdQ_LKCDn8LBzDkdy11mZQo83fp.png" group-title="ARGENTINA",ARG| El Trece ARG UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99751
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Telefe UHD" tvg-logo="s:1:/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGf68gwmToZoCHKhRnuerOq2pJoElKwx3By6DwLTOFxVsTOn_opvYpndcRTTbve9afY.png" group-title="ARGENTINA",ARG| Telefe UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99762
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TN UHD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjmoWdkLY6zi54kJvMp6lyPuIItUElpCXdCdcmIQIIs81j1MgTFNghGT0msD3WwUit3BenCPOB9rmB2b6a3cVTdNK0qOoiXtqWSliu203EU6E.png" group-title="ARGENTINA",ARG| TN UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99764
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TV Publica ARG UHD" tvg-logo="s:1:/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png" group-title="ARGENTINA",ARG| TV Publica ARG UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99765
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TNT Sports UHD" tvg-logo="s:1:/images/qw9Sd5JnDX2uSQDrGmMcujHnLkXlmYqCqEWLZDRecguQ8HmN0EYXh0DmSl3OLX-E.png" group-title="ARGENTINA",ARG| TNT Sports UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99766
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Volver TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo-volver-2016.gif/150px-Logo-volver-2016.gif" group-title="ARGENTINA",ARG| Volver TV UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99768
-#EXTINF:-1 tvg-id="EPN2HAA" tvg-name="ARG| Es.pn 2 ARG UHD" tvg-logo="s:1:/images/8f57ffeae61e395debe84b05cadefadf.png" group-title="ARGENTINA",ARG| Es.pn 2 ARG UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/105823
-#EXTINF:-1 tvg-id="" tvg-name="ARG| La Nacion + ARG UHD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUPmGMKv7KiRekLhJatFbc1yyTu18qf-jaA_6_oVNYm_A.png" group-title="ARGENTINA",ARG| La Nacion + ARG UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/124621
-
 
 #DEPORTES
-
-#EXTINF:-1 tvg-name="ARG| TYC Sports Play (EXCLUSIVO) UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyl8niC330_hqwXO1pWuysLM_fgWaXD_gHtNcH3Ujx0wEYyLcNIzYJsRoCCRPWJwCIKeY&usqp=CAU" group-title="DEPORTES",ARG| TYC Sports Play (EXCLUSIVO) UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/239293
-#EXTINF:-1 tvg-id="LIGCAHD" tvg-name="TNT Sports ARG (EXCLUSIVO) UHD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="DEPORTES",TNT Sports ARG (EXCLUSIVO) UHD 
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/243048
-#EXTINF:-1 tvg-name="ARG| TYC Sports (EVENTO) UHD" tvg-logo="" group-title="DEPORTES",ARG| TYC Sports (EVENTO) UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/373851
-#EXTINF:-1 group-title="DEPORTES",AR | DirectV Sports SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/294584
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Sports ARG (EXCLUSIVO) UHD " tvg-logo="https://conax-msp-us-west-1.s3.us-west-1.amazonaws.com/public/wfm/fac3acb9-504f-47f2-aec1-afbcd8fa4178/cc342ec7-2edb-4b6c-ba3b-9303d3b9aaa8.png" group-title="DEPORTES",ESPN 3 Sports ARG (EXCLUSIVO) UHD 
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/375373
-#EXTINF:-1  group-title="DEPORTES",Deportv HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45153
-#EXTINF:-1 group-title="DEPORTES",DEPORTV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0065
-#EXTINF:-1 group-title="DEPORTES",DEPORTV YOUTUBE
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0066
-#EXTINF:-1 group-title="DEPORTES",TNT Sport
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
-#EXTINF:-1 group-title="DEPORTES",TNT Sport 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
-#EXTINF:-1  group-title="DEPORTES",ESPN - ARG
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43741
-#EXTINF:-1  group-title="DEPORTES",ESPN
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43740
-#EXTINF:-1  group-title="DEPORTES",Espn 2
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45154
-#EXTINF:-1  group-title="DEPORTES",ESPN 2 - ARG
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43744
-#EXTINF:-1  group-title="DEPORTES",ESPN 2 - MEXICO
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43745
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 OP2
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43742
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 4K
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43743
-#EXTINF:-1  group-title="DEPORTES",Espn 3
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45155
-#EXTINF:-1  group-title="DEPORTES",ESPN 3 - ARG
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43748
-#EXTINF:-1  group-title="DEPORTES",ESPN 3 - MEXICO
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43749
-#EXTINF:-1  group-title="DEPORTES",ESPN 4K
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43753
-#EXTINF:-1  group-title="DEPORTES",ESPN EXTRA HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43755
-#EXTINF:-1  group-title="DEPORTES",ESPN PREMIUM HD
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/43758
+#EXTINF:-1 group-title="DEPORTES",TyC Sports
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262179
 #EXTINF:-1 group-title="DEPORTES",ESPN
-http://tv.com.vc:80/msm/msm/955174
-#EXTINF:-1 group-title="DEPORTES",ESPN  +
-http://tv.com.vc:80/msm/msm/955175
+http://factoryplay.online:8080/Albachiquis/Chiquis2036/99753
 #EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://tv.com.vc:80/msm/msm/955176
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262176
 #EXTINF:-1 group-title="DEPORTES",ESPN 3
-http://tv.com.vc:80/msm/msm/955177
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1250
 #EXTINF:-1 group-title="DEPORTES",ESPN 4
-http://tv.com.vc:80/msm/msm/955178
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://tv.com.vc:80/msm/msm/955179
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS HD - ARG
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46476
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2 HD - ARG
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46477
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 3 HD - ARG
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46478
-#EXTINF:-1 group-title="DEPORTES",Dazn F1 FHD - España
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/297
-#EXTINF:-1 group-title="DEPORTES",Dazn F1 4K - España
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/303
-#EXTINF:-1 group-title="DEPORTES",Dazn 1 FHD - España
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/305
-#EXTINF:-1 group-title="DEPORTES",Dazn 1 HD - España
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/310
-#EXTINF:-1 group-title="DEPORTES",Dazn 2 FHD - España
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/311
-#EXTINF:-1 group-title="DEPORTES",DAZN 2 
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/112205
-#EXTINF:-1 group-title="DEPORTES",Dazn 3 HD - España
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/320
-#EXTINF:-1 group-title="DEPORTES",Dazn 4 FHD - España
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/323
+http://offshore.lat:25461/marichu8/K35MV9pTHK/296664
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium UHD
+http://factoryplay.online:8080/Albachiquis/Chiquis2036/99755
+#EXTINF:-1 group-title="DEPORTES",TNT Sports
+http://factoryplay.online:8080/Albachiquis/Chiquis2036/243048
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
+http://offshore.lat:25461/marichu8/K35MV9pTHK/292978
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1237
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1239
 #EXTINF:-1 group-title="DEPORTES",NBA - España
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/31816
-#EXTINF:-1 group-title="DEPORTES",SKY SPORTS | Formula 1
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46845
-#EXTINF:-1 group-title="DEPORTES",SKY SPORTS | MOTOGP
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46846
-#EXTINF:-1 group-title="DEPORTES",SKY SPORTS | NBA
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46839
-#EXTINF:-1 group-title="DEPORTES",SKY SPORTS | GOLF
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46841
-#EXTINF:-1 group-title="DEPORTES",SKY SPORTS | LA LIGA
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46840
-#EXTINF:-1 group-title="DEPORTES",SKY SPORTS | Liga Alemana
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46842
-#EXTINF:-1 group-title="DEPORTES",SKY SPORTS | PREMIER LEAGUE
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46843
-#EXTINF:-1 group-title="DEPORTES",SKY SPORTS | PREMIER LEAGUE
-http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/46844
-#EXTINF:-1 group-title="DEPORTES",Fox Sport 3
-http://tv.com.vc:80/msm/msm/955183
-#EXTINF:-1 group-title="DEPORTES",FOX Sports 2
-http://tv.com.vc:80/msm/msm/955184
-#EXTINF:-1 group-title="DEPORTES",Claro Sports 1 SD
-http://tv.com.vc:80/msm/msm/955157
-#EXTINF:-1 group-title="DEPORTES",Latin America Sport
-http://tv.com.vc:80/msm/msm/955202
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126374
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126376
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126381
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126382
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 LQ R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126383
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 LQ R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126384
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 MX HD (1080p)
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126385
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS MX R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126387
-#EXTINF:-1 group-title="DEPORTES",MX: FOX SPORTS MX HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126388
-#EXTINF:-1,Fox Sports Premium HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126389
-#EXTINF:-1 group-title="DEPORTES",FIGHT NETWORK 77
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140191
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140196
-#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS ESP
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140198
-#EXTINF:-1 group-title="DEPORTES",NFL HD 77
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140200
-#EXTINF:-1 group-title="DEPORTES",GOL TV 77 US
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140205
-#EXTINF:-1 group-title="DEPORTES",ESPN + HD MX
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140218
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 ARG
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140316
-#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM ARG
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140317
-#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140318
-#EXTINF:-1 group-title="DEPORTES",ESPN2 US
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140320
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS HD MEX
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140323
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 HD MEX
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140324
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 HD MEX
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140325
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN OP 1" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",TUDN OP 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/311893
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN OP 2" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",TUDN OP 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/245567
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN OP 3" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="DEPORTES",TUDN OP 3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/326801
-#EXTINF:-1 tvg-id="" tvg-name="ZONA TUDN" tvg-logo="http://offshore.lat:25461/images/38182eb8d6cd01c0071139a6592af16c.jpeg" group-title="DEPORTES",ZONA TUDN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/300924
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="http://offshore.lat:25461/images/722373644d182b9eee9a832786b39170.png" group-title="DEPORTES",AZTECA DEPORTES
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324799
-#EXTINF:-1 tvg-id="" tvg-name="ES | F1 Formula 1" tvg-logo="http://offshore.lat:25461/images/9915c85ca678b136bfe5b5ef0a01e02c.png" group-title="DEPORTES",ES | F1 Formula 1
+#EXTINF:-1 group-title="DEPORTES",F1 - España
 http://offshore.lat:25461/marichu8/K35MV9pTHK/295663
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox Sports" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="DEPORTES",Fox Sports
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1324
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="Fox Sports 2" tvg-logo="http://offshore.lat:8001/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",Fox Sports 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1325
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://offshore.lat:8001/images/b038eac2a97032ca255e8f5638bf07e5.png" group-title="DEPORTES",Fox Sports 3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1329
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="http://offshore.lat:25461/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",Fox Sports Premium
-http://offshore.lat:25461/marichu8/K35MV9pTHK/285169
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium SD" tvg-logo="http://offshore.lat:25461/images/1e7721d7b42e20a697250798b3b9feca.png" group-title="DEPORTES",Fox Sports Premium SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/293129
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="HD | Fox Sports 1 MX" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",HD | Fox Sports 1 MX
-http://offshore.lat:25461/marichu8/K35MV9pTHK/27981
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="HD | Fox Sports 2 MX" tvg-logo="http://offshore.lat:36995/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",HD | Fox Sports 2 MX
-http://offshore.lat:25461/marichu8/K35MV9pTHK/27982
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="HD | Fox Sports 3 MX" tvg-logo="http://offshore.lat:36995/images/b038eac2a97032ca255e8f5638bf07e5.png" group-title="DEPORTES",HD | Fox Sports 3 MX
-http://offshore.lat:25461/marichu8/K35MV9pTHK/27983
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="Espn" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",Espn
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262192
-#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="Espn 2" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",Espn 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1328
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="Espn 3" tvg-logo="http://offshore.lat:8001/images/fb9205b3640fde6f9af34bdf05b0fdc3.png" group-title="DEPORTES",Espn 3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1323
-#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN Deportes" tvg-logo="http://offshore.lat:8001/images/74a703e74ad90c7cbf4001ad6899dea0.png" group-title="DEPORTES",DE | ESPN Deportes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/292943
-#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN Deportes" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",LA | ESPN Deportes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/295699
-#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="Espn Plus" tvg-logo="http://offshore.lat:36995/images/e589823b440afa607e617e72f0e69878.png" group-title="DEPORTES",Espn Plus
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1322
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="HD  | ESPN MX" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",HD  | ESPN MX
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262191
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="HD  | ESPN 2 MX" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",HD  | ESPN 2 MX
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262174
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="HD  | ESPN 3 MX" tvg-logo="http://offshore.lat:8001/images/fb9205b3640fde6f9af34bdf05b0fdc3.png" group-title="DEPORTES",HD  | ESPN 3 MX
-http://offshore.lat:25461/marichu8/K35MV9pTHK/27980
-#EXTINF:-1 tvg-id="" tvg-name="HD | Claro Sports" tvg-logo="http://offshore.lat:8001/images/0dc2077d5ade80a969d758e12021da87.png" group-title="DEPORTES",HD | Claro Sports
-http://offshore.lat:25461/marichu8/K35MV9pTHK/264122
-#EXTINF:-1 tvg-id="" tvg-name="DE | Trending SE3" tvg-logo="http://offshore.lat:8001/images/d9dba30cec85e5a46410b45006c7c405.png" group-title="DEPORTES",DE | Trending SE3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/229849
-#EXTINF:-1 tvg-id="" tvg-name="Deportes | Afizzionados HD" tvg-logo="http://offshore.lat:8001/images/585551cc605087b3412533635a7655f3.png" group-title="DEPORTES",Deportes | Afizzionados HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/244539
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Deportes | Afizzionados 2 HD" tvg-logo="http://offshore.lat:8001/images/585551cc605087b3412533635a7655f3.png" group-title="DEPORTES",Deportes | Afizzionados 2 HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/269758
-#EXTINF:-1 tvg-id="" tvg-name="DE | Trending SE16 España" tvg-logo="http://offshore.lat:8001/images/d9dba30cec85e5a46410b45006c7c405.png" group-title="DEPORTES",DE | Trending SE16 España
-http://offshore.lat:25461/marichu8/K35MV9pTHK/226533
-#EXTINF:-1 tvg-id="" tvg-name="DE | Trending SE21 Inglesa" tvg-logo="http://offshore.lat:25461/images/d9dba30cec85e5a46410b45006c7c405.png" group-title="DEPORTES",DE | Trending SE21 Inglesa
-http://offshore.lat:25461/marichu8/K35MV9pTHK/226534
-#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="TVC Deportes" tvg-logo="http://offshore.lat:8001/images/15a0bda8c666b36f5e587d0b75be692e.png" group-title="DEPORTES",TVC Deportes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/18704
-#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="Adrenalina" tvg-logo="http://offshore.lat:25461/images/0d0a5d5378cb671b0c084375dc1c8d06.jpg" group-title="DEPORTES",Adrenalina
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1335
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports SD" tvg-logo="http://offshore.lat:25461/images/0dc2077d5ade80a969d758e12021da87.png" group-title="DEPORTES",Claro Sports SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1462
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sport HD" tvg-logo="http://offshore.lat:25461/images/0dc2077d5ade80a969d758e12021da87.png" group-title="DEPORTES",Claro Sport HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1461
-#EXTINF:-1 tvg-id="" tvg-name="El Garage" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0018/2274/brand.gif?itok=sH1UGnPO" group-title="DEPORTES",El Garage
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1320
-#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="Golf Channel" tvg-logo="http://offshore.lat:25461/images/ddca5f1d34e4252780e5cd2cbb8d8be3.png" group-title="DEPORTES",Golf Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1321
-#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="AyM Sports" tvg-logo="http://offshore.lat:8001/images/0d7882248f84ffad5f184079cfc1fd2d.png" group-title="DEPORTES",AyM Sports
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1330
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 SD Arg" tvg-logo="http://offshore.lat:25461/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",AR | FOX SPORTS 1 SD Arg
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1234
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1  Arg" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",AR | FOX SPORTS 1  Arg
-http://offshore.lat:25461/marichu8/K35MV9pTHK/292978
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD Arg" tvg-logo="http://offshore.lat:8001/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",AR | FOX SPORTS 2 SD Arg
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1236
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD Arg" tvg-logo="http://offshore.lat:25461/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",AR | FOX SPORTS 2 HD Arg
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1237
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD Arg" tvg-logo="http://offshore.lat:8001/images/b038eac2a97032ca255e8f5638bf07e5.png" group-title="DEPORTES",AR | FOX SPORTS 3 SD Arg
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1238
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3* Arg" tvg-logo="http://offshore.lat:36995/images/b038eac2a97032ca255e8f5638bf07e5.png" group-title="DEPORTES",AR | FOX SPORTS 3* Arg
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1239
-#EXTINF:-1 tvg-id="" tvg-name="DE | Fox sports Premiun HD Ligero" tvg-logo="http://offshore.lat:36995/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",DE | Fox sports Premiun HD Ligero
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262188
-#EXTINF:-1 tvg-id="" tvg-name="DE | Fox Sports Premium 1080" tvg-logo="http://offshore.lat:25461/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",DE | Fox Sports Premium 1080
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262272
-#EXTINF:-1 tvg-id="" tvg-name="AR | DirectV Sports **" tvg-logo="http://offshore.lat:25461/images/18f6aff9afb17570d96fb7cf520765e8.jpg" group-title="DEPORTES",AR | DirectV Sports **
-http://offshore.lat:25461/marichu8/K35MV9pTHK/294582
-#EXTINF:-1 tvg-id="" tvg-name="AR | DirectV Sports *" tvg-logo="http://offshore.lat:25461/images/18f6aff9afb17570d96fb7cf520765e8.jpg" group-title="DEPORTES",AR | DirectV Sports *
-http://offshore.lat:25461/marichu8/K35MV9pTHK/294583
-#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS 1 HD" tvg-logo="http://offshore.lat:25461/images/9940ac3540ec15e3e63bf9610931627b.png" group-title="DEPORTES",AR | DTV SPORTS 1 HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/267392
-#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORT 2" tvg-logo="http://offshore.lat:8001/images/127824a2ea4c43ebd3702a89ea5761ef.png" group-title="DEPORTES",AR | DTV SPORT 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1243
-#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS +" tvg-logo="http://offshore.lat:8001/images/127824a2ea4c43ebd3702a89ea5761ef.png" group-title="DEPORTES",AR | DTV SPORTS +
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1244
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 *" tvg-logo="http://offshore.lat:36995/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",AR | ESPN 1 *
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263376
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN *SD" tvg-logo="http://offshore.lat:25461/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",AR | ESPN *SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263377
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1" tvg-logo="http://offshore.lat:36995/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",AR | ESPN 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1246
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="http://offshore.lat:25461/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",AR | ESPN 1 HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262270
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",AR | ESPN 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262403
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",AR | ESPN 2 HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262176
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 3 Arg" tvg-logo="http://offshore.lat:25461/images/fb9205b3640fde6f9af34bdf05b0fdc3.png" group-title="DEPORTES",AR | ESPN 3 Arg
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1250
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 4" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",AR | ESPN 4
-http://offshore.lat:25461/marichu8/K35MV9pTHK/296664
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN EXTRA" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",AR | ESPN EXTRA
-http://offshore.lat:25461/marichu8/K35MV9pTHK/296663
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS" tvg-logo="http://offshore.lat:25461/images/5d9bfc16e724d61b5bfd822a9861e630.png" group-title="DEPORTES",AR | TNT SPORTS
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1259
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT Sports*" tvg-logo="http://offshore.lat:25461/images/5d9bfc16e724d61b5bfd822a9861e630.png" group-title="DEPORTES",AR | TNT Sports*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/35754
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS PREMIUM FHD" tvg-logo="http://offshore.lat:8001/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="DEPORTES",AR | FOX SPORTS PREMIUM FHD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262271
-#EXTINF:-1 tvg-id="" tvg-name="AR | TyC Sports" tvg-logo="http://offshore.lat:25461/images/76567423925bcfbce1f36c3f27ae8444.png" group-title="DEPORTES",AR | TyC Sports
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262179
-#EXTINF:-1 tvg-id="" tvg-name="AR | TyC Sports Argentina" tvg-logo="http://offshore.lat:36995/images/76567423925bcfbce1f36c3f27ae8444.png" group-title="DEPORTES",AR | TyC Sports Argentina
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262180
-#EXTINF:-1 tvg-id="" tvg-name="DE | TYC" tvg-logo="http://offshore.lat:25461/images/698b5e254af6858ea88637b768cd13e0.jpg" group-title="DEPORTES",DE | TYC
-http://offshore.lat:25461/marichu8/K35MV9pTHK/277940
-#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN  1 SUR FHD" tvg-logo="http://offshore.lat:8001/images/ba23c8a68d18ab3c5453d9422c3e7d96.png" group-title="DEPORTES",DE | ESPN  1 SUR FHD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/244639
-#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN  2 SUR FHD" tvg-logo="http://offshore.lat:8001/images/7b69fb58de1147098509430d0f498d6f.png" group-title="DEPORTES",DE | ESPN  2 SUR FHD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262175
-#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN 3 SUR FHD" tvg-logo="http://offshore.lat:36995/images/fb9205b3640fde6f9af34bdf05b0fdc3.png" group-title="DEPORTES",DE | ESPN 3 SUR FHD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/244641
-#EXTINF:-1 tvg-id="" tvg-name="DE | TyC Sports SD" tvg-logo="http://offshore.lat:25461/images/76567423925bcfbce1f36c3f27ae8444.png" group-title="DEPORTES",DE | TyC Sports SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/245370
-#EXTINF:-1 tvg-id="" tvg-name="DE | TNT Sports SD" tvg-logo="http://offshore.lat:8001/images/5d9bfc16e724d61b5bfd822a9861e630.png" group-title="DEPORTES",DE | TNT Sports SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/259249
-#EXTINF:-1 tvg-id="" tvg-name="CH | CDO Premium SD" tvg-logo="http://offshore.lat:25461/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="DEPORTES",CH | CDO Premium SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/261280
-#EXTINF:-1 tvg-id="Chile - CDO Básico" tvg-name="CH | CDO Basico" tvg-logo="http://offshore.lat:8001/images/380cb2174b0ae74336785310cad70193.png" group-title="DEPORTES",CH | CDO Basico
-http://offshore.lat:25461/marichu8/K35MV9pTHK/241050
-#EXTINF:-1 tvg-id="Chile - CDO Premium" tvg-name="CH | CDO PREMIUM" tvg-logo="http://offshore.lat:25461/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="DEPORTES",CH | CDO PREMIUM
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1231
-#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 1" tvg-logo="http://offshore.lat:8001/images/fb13c77db78f745a60cdc612f79a7ea3.png" group-title="DEPORTES",CH | FOX SPORTS 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1240
-#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 2" tvg-logo="http://offshore.lat:8001/images/c17468d8adc62c6c061fcd4d31e54a0a.png" group-title="DEPORTES",CH | FOX SPORTS 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1241
-#EXTINF:-1 tvg-id="" tvg-name="CH | TENETE DEPORTES (Solo Eventos)" tvg-logo="http://offshore.lat:8001/images/5d9bfc16e724d61b5bfd822a9861e630.png" group-title="DEPORTES",CH | TENETE DEPORTES (Solo Eventos)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/271950
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports Op3" tvg-logo="http://offshore.lat:25461/images/509a418e24de822fa42d205f7f92a46d.png" group-title="DEPORTES",CO | Win Sports Op3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1265
-#EXTINF:-1 tvg-id="" tvg-name="PE | GOL PERU" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_mze_2cz9a53r1alrxN2V_hj6D6QNbbAuRIg=s900-c-k-c0xffffffff-no-rj-mo" group-title="DEPORTES",PE | GOL PERU
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1336
-#EXTINF:-1 tvg-id="" tvg-name="PE | MOVISTAR DEPORTES" tvg-logo="http://offshore.lat:8001/images/964f9997484e3c12e13a367d1921c3aa.png" group-title="DEPORTES",PE | MOVISTAR DEPORTES
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1337
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="LA | BEIN SPORTS Ñ" tvg-logo="http://offshore.lat:8001/images/f4c30553cdbd562e64a278cc7c709126.png" group-title="DEPORTES",LA | BEIN SPORTS Ñ
-http://offshore.lat:25461/marichu8/K35MV9pTHK/244576
-#EXTINF:-1 tvg-id="" tvg-name="LA | Bein sports Ñ *" tvg-logo="http://offshore.lat:36995/images/f4c30553cdbd562e64a278cc7c709126.png" group-title="DEPORTES",LA | Bein sports Ñ *
-http://offshore.lat:25461/marichu8/K35MV9pTHK/258965
-#EXTINF:-1 tvg-id="" tvg-name="DE | beIN SPORTS XTRA en español" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="DEPORTES",DE | beIN SPORTS XTRA en español
-http://offshore.lat:25461/marichu8/K35MV9pTHK/283272
-#EXTINF:-1 tvg-id="" tvg-name="ES | BEIN LA LIGA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",ES | BEIN LA LIGA
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1212
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="DE | Bein Sports 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",DE | Bein Sports 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/33967
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="DE | Bein Sports 5" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES",DE | Bein Sports 5
-http://offshore.lat:25461/marichu8/K35MV9pTHK/208212
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA TV BAR" tvg-logo="http://offshore.lat:8001/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="DEPORTES",ES: LA LIGA TV BAR
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1210
-#EXTINF:-1 tvg-id="" tvg-name="DE | Movistar Deportes" tvg-logo="http://offshore.lat:25461/images/964f9997484e3c12e13a367d1921c3aa.png" group-title="DEPORTES",DE | Movistar Deportes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/226526
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LIGA DE CAMPEONES" tvg-logo="http://offshore.lat:25461/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="DEPORTES",ES | M. LIGA DE CAMPEONES
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1264
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="http://offshore.lat:25461/images/964f9997484e3c12e13a367d1921c3aa.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1222
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar La Liga 1" tvg-logo="http://offshore.lat:8001/images/7aa20cb4acef9d04a95f7abc73b8410f.png" group-title="DEPORTES",ES | Movistar La Liga 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/226493
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar la Liga 2" tvg-logo="http://offshore.lat:25461/images/7aa20cb4acef9d04a95f7abc73b8410f.png" group-title="DEPORTES",ES | Movistar la Liga 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/226494
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA MULTI 1 HD" tvg-logo="http://offshore.lat:25461/images/7aa20cb4acef9d04a95f7abc73b8410f.png" group-title="DEPORTES",ES | MOVISTAR LA LIGA MULTI 1 HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1213
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://offshore.lat:36995/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262190
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 1 HD" tvg-logo="http://offshore.lat:25461/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES 1 HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262193
-#EXTINF:-1 tvg-id="" tvg-name="ES | #VAMOS HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og=s900-c-k-c0xffffffff-no-rj-mo" group-title="DEPORTES",ES | #VAMOS HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1218
-#EXTINF:-1 tvg-id="" tvg-name="ES | Real Madrid TV" tvg-logo="http://offshore.lat:36995/images/b1dbab92df90ba52649baddc26520e37.png" group-title="DEPORTES",ES | Real Madrid TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1467
-#EXTINF:-1 tvg-id="" tvg-name="ES | EUROSPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHNBA7gxcoMtwv9HlYSk0NwIKYVQMK4izANfSbFpFJlVwwkFx&s" group-title="DEPORTES",ES | EUROSPORT 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1207
-#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar F1 (DAZN)" tvg-logo="http://offshore.lat:25461/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES",F1 | Movistar F1 (DAZN)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1255
-#EXTINF:-1 tvg-id="" tvg-name="ES | GOLF HD" tvg-logo="http://offshore.lat:8001/images/9f6300b215db8911a0c2f41c864804c2.png" group-title="DEPORTES",ES | GOLF HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1219
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR GOLF HD" tvg-logo="http://offshore.lat:8001/images/30fc34b1cd9991364fc57ca216638911.png" group-title="DEPORTES",ES | MOVISTAR GOLF HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1220
-#EXTINF:-1 tvg-id="" tvg-name="ES | BARÇA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdk8OB6ryqByIqfV1RkM31UiR600YmFxq_J1i_U82EIVqbAPx&s" group-title="DEPORTES",ES | BARÇA TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1221
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://offshore.lat:36995/images/fd8da11c7ec868432a1863e13d3548eb.jpg" group-title="DEPORTES",ES: EUROSPORT 2 HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/259511
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA HD" tvg-logo="http://offshore.lat:25461/images/7aa20cb4acef9d04a95f7abc73b8410f.png" group-title="DEPORTES",ES | MOVISTAR LA LIGA HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/277239
-#EXTINF:-1 tvg-id="" tvg-name="ES | GOL TV " tvg-logo="https://play-lh.googleusercontent.com/kjSMryvBomB-V_pXTAebLDI1cUbUItiA4Jh1PqSXshK7k3jLbd4ustP2HqOCSrlDREw=w220-rw" group-title="DEPORTES",ES | GOL TV 
-http://offshore.lat:25461/marichu8/K35MV9pTHK/279223
-#EXTINF:-1 tvg-id="" tvg-name="ES | Teledeporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdMlb7dkRDxvi8bxgNmNj2Ois1ZlbOH6vdvJ32NIFaeruqR4-Lmc0t7oV9wOON70s8xE&usqp=CAU" group-title="DEPORTES",ES | Teledeporte
-http://offshore.lat:25461/marichu8/K35MV9pTHK/279224
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/279225
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/279226
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN 3
-http://offshore.lat:25461/marichu8/K35MV9pTHK/279227
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN 4
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297430
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga" tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES",ES | DAZN LaLiga
-http://offshore.lat:25461/marichu8/K35MV9pTHK/296662
-#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar Formula 1 (DAZN)" tvg-logo="https://yt3.ggpht.com/PVF4vIcVEtapRrU5SnmbKwK4hTy7n6x_Sfas6ruR_62ZbF2sc5ydQQ0IBPTHvphxcgdBgMcuc_M=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",F1 | Movistar Formula 1 (DAZN)
+#EXTINF:-1 group-title="DEPORTES",Dazn F1 FHD - España
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/297
+#EXTINF:-1 group-title="DEPORTES",Formula 1 (DAZN)
 http://offshore.lat:25461/marichu8/K35MV9pTHK/285272
-#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar Formula 1 (DAZN op2)" tvg-logo="http://offshore.lat:25461/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES",F1 | Movistar Formula 1 (DAZN op2)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/260370
-#EXTINF:-1 tvg-id="" tvg-name="UY | VTV" tvg-logo="http://offshore.lat:8001/images/ad03b20507ea6770b351cac42f2630df.png" group-title="DEPORTES",UY | VTV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1354
-#EXTINF:-1 tvg-id="" tvg-name="UY | VTV HD" tvg-logo="http://offshore.lat:25461/images/ad03b20507ea6770b351cac42f2630df.png" group-title="DEPORTES",UY | VTV HD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1355
-#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sport" tvg-logo="" group-title="DEPORTES",CR | Tigo Sport
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274657
-#EXTINF:-1 tvg-id="" tvg-name="ES | Toros TV" tvg-logo="http://offshore.lat:8001/images/bbf4b8810e1001939bdf62cc093581b1.jpg" group-title="DEPORTES",ES | Toros TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/308787
-#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="USA | Bally Sports SoCal" tvg-logo="http://offshore.lat:25461/images/614662e19957ce2cdef1393dd2fd2dd2.jpeg" group-title="DEPORTES",USA | Bally Sports SoCal
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312574
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports West" tvg-logo="http://offshore.lat:25461/images/d784e1dff232fb3d47bf09bc12a45902.jpeg" group-title="DEPORTES",USA | Bally Sports West
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312575
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Sun" tvg-logo="http://offshore.lat:25461/images/7a3aac12806f21ec76975d7602035108.jpeg" group-title="DEPORTES",USA | Bally Sports Sun
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312576
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports South" tvg-logo="http://offshore.lat:25461/images/71bd259150809ea91e6a1ad8b06ebc28.jpeg" group-title="DEPORTES",USA | Bally Sports South
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312577
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Southwest" tvg-logo="http://offshore.lat:25461/images/efbcccbcb920c519165955cd3daa07c9.jpeg" group-title="DEPORTES",USA | Bally Sports Southwest
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312578
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Southeast" tvg-logo="http://offshore.lat:25461/images/71bd259150809ea91e6a1ad8b06ebc28.jpeg" group-title="DEPORTES",USA | Bally Sports Southeast
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312579
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Ohio" tvg-logo="http://offshore.lat:25461/images/e63d19ab1c9db6fd01ac83ce395dbb31.jpeg" group-title="DEPORTES",USA | Bally Sports Ohio
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312580
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Midwest" tvg-logo="http://offshore.lat:25461/images/d25733d9f943075a156327ef88583748.jpeg" group-title="DEPORTES",USA | Bally Sports Midwest
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312581
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Florida" tvg-logo="http://offshore.lat:25461/images/cb3b587aed2060837b5b58ba5f1562db.jpeg" group-title="DEPORTES",USA | Bally Sports Florida
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312582
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Arizona" tvg-logo="http://offshore.lat:8001/images/44f9d604b081e6b55038077630995289.jpeg" group-title="DEPORTES",USA | Bally Sports Arizona
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312583
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports New Orleans" tvg-logo="http://offshore.lat:25461/images/e65ad6bddd1a0b0a825cacda2f05b3c3.jpeg" group-title="DEPORTES",USA | Bally Sports New Orleans
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312584
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Indiana" tvg-logo="http://offshore.lat:25461/images/125b1fbe0d55dc5b8d826156d7bedc1c.jpeg" group-title="DEPORTES",USA | Bally Sports Indiana
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312586
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Oklahoma" tvg-logo="http://offshore.lat:8001/images/1e8fc03f95cac73dea12f035e2cabce7.jpeg" group-title="DEPORTES",USA | Bally Sports Oklahoma
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312587
-#EXTINF:-1 tvg-id="foxsportswisconsin.us" tvg-name="USA | Bally Sports Wisconsin" tvg-logo="http://offshore.lat:25461/images/09b990294fb932693167b7a0558dd47d.jpeg" group-title="DEPORTES",USA | Bally Sports Wisconsin
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312588
-#EXTINF:-1 tvg-id="" tvg-name="HD ES | EUROSPORT 1" tvg-logo="http://offshore.lat:25461/images/6eafa7a2212170ac653297708b3b3787.png" group-title="DEPORTES",HD ES | EUROSPORT 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312589
-#EXTINF:-1 tvg-id="" tvg-name="HD ES | EUROSPORT 2" tvg-logo="http://offshore.lat:25461/images/2aec274c3c8fde0e9144b766b2108ce9.png" group-title="DEPORTES",HD ES | EUROSPORT 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/312590
-#EXTINF:-1 tvg-id="" tvg-name="ES | EUDEPORTES 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHNBA7gxcoMtwv9HlYSk0NwIKYVQMK4izANfSbFpFJlVwwkFx&s" group-title="DEPORTES",ES | EUDEPORTES 1 SD
-http://offshore.lat:25461/marichu8/K35MV9pTHK/320882
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Es.pn 1 ARG UHD" tvg-logo="s:1:/images/94cef52b653c8cdb2badc018ae65c555.png" group-title="DEPORTES",ARG| Es.pn 1 ARG UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99753
-#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN Premium UHD" tvg-logo="s:1:/images/94cef52b653c8cdb2badc018ae65c555.png" group-title="DEPORTES",ARG| ESPN Premium UHD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/99755
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="DEPORTES",DAZN LIGA 1 HD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/238194
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2. " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png" group-title="DEPORTES",DAZN MOVISTAR 2. 
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/238195
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 3 FHD   " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png" group-title="DEPORTES",DAZN MOVISTAR 3 FHD   
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/238196
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 4 FHD.  " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png" group-title="DEPORTES",DAZN MOVISTAR 4 FHD.  
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/238197
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR  F1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="DEPORTES",DAZN MOVISTAR  F1
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/253223
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1  " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="DEPORTES",DAZN MOVISTAR 1
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/253225
+#EXTINF:-1 group-title="DEPORTES",Claro Sport HD
+http://offshore.lat:25461/marichu8/K35MV9pTHK/1461
 #EXTINF:-1 tvg-id="" tvg-name="My Padel TV UHD" tvg-logo="" group-title="DEPORTES",My Padel TV UHD
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/375242
 
 #INFANTILES
-
-#EXTINF:-1 group-title="INFANTILES",Cartoon Network
-http://tv.com.vc:80/msm/msm/955144
-#EXTINF:-1 group-title="INFANTILES",Discovery Kids
-http://tv.com.vc:80/msm/msm/955166
-#EXTINF:-1 group-title="INFANTILES",Disney
-http://tv.com.vc:80/msm/msm/955168
-#EXTINF:-1 group-title="INFANTILES",Disney JR
-http://tv.com.vc:80/msm/msm/955169
-#EXTINF:-1 group-title="INFANTILES",ES: DISNEY JUNIOR 2
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/59933
-#EXTINF:-1 group-title="INFANTILES",Nick Jr
-http://tv.com.vc:80/msm/msm/955217
-#EXTINF:-1 group-title="INFANTILES",Nick Jr 2
-http://tv.com.vc:80/msm/msm/955218
-#EXTINF:-1 group-title="INFANTILES",Nickelodeon
-http://tv.com.vc:80/msm/msm/955219
-#EXTINF:-1 group-title="INFANTILES",Tooncast
-http://tv.com.vc:80/msm/msm/955255
-#EXTINF:-1 group-title="INFANTILES",Tooncast-CH16
-http://tv.com.vc:80/msm/msm/955256
-#EXTINF:-1 group-title="INFANTILES",CARTOONITO MX
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140141
-#EXTINF:-1 group-title="INFANTILES",CARTOON NETWORK
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140142
-#EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140143
-#EXTINF:-1 group-title="INFANTILES",DISNEY JR HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140144
-#EXTINF:-1 group-title="INFANTILES",DISCOVERY KIDS MX HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140145
-#EXTINF:-1 group-title="INFANTILES",NICK JUNIOR HD MX
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140146
-#EXTINF:-1 group-title="INFANTILES",Baby First
-http://offshore.lat:25461/marichu8/K35MV9pTHK/151
-#EXTINF:-1 group-title="INFANTILES",Baby Tv
-http://offshore.lat:25461/marichu8/K35MV9pTHK/140
 #EXTINF:-1 group-title="INFANTILES",Boomerang
-http://offshore.lat:25461/marichu8/K35MV9pTHK/149
-#EXTINF:-1 group-title="INFANTILES",Cartoon Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/147
-#EXTINF:-1 group-title="INFANTILES",Disney Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/144
-#EXTINF:-1 group-title="INFANTILES",Discovery Kids
-http://offshore.lat:25461/marichu8/K35MV9pTHK/141
-#EXTINF:-1 group-title="INFANTILES",Disney Junior
-http://offshore.lat:25461/marichu8/K35MV9pTHK/142
-#EXTINF:-1 group-title="INFANTILES",Nick
-http://offshore.lat:25461/marichu8/K35MV9pTHK/146
-#EXTINF:-1 group-title="INFANTILES",Nick 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/152
-#EXTINF:-1 group-title="INFANTILES",Nick Junior
-http://offshore.lat:25461/marichu8/K35MV9pTHK/143
-#EXTINF:-1 group-title="INFANTILES",NickToons
-http://offshore.lat:25461/marichu8/K35MV9pTHK/145
-#EXTINF:-1 group-title="INFANTILES",Tooncast
-http://offshore.lat:25461/marichu8/K35MV9pTHK/150
-#EXTINF:-1 group-title="INFANTILES",AR | Baby TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/244263
-#EXTINF:-1 group-title="INFANTILES",AR | Boomerang
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244264
-#EXTINF:-1 group-title="INFANTILES",AR | Cartoon Network
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244265
-#EXTINF:-1 group-title="INFANTILES",AR | Discovery Kids
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244266
-#EXTINF:-1 group-title="INFANTILES",AR | Disney Channel
+#EXTINF:-1 group-title="INFANTILES",Disney Channel
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244267
-#EXTINF:-1 group-title="INFANTILES",AR | Disney Junior
+#EXTINF:-1 group-title="INFANTILES",Disney Junior
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244268
-#EXTINF:-1 group-title="INFANTILES",AR | Nickelodeon
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244271
-#EXTINF:-1 group-title="INFANTILES",AR | Tooncast
+#EXTINF:-1 group-title="INFANTILES",Tooncast
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244272
-#EXTINF:-1 group-title="INFANTILES",AR | Baby First
-http://offshore.lat:25461/marichu8/K35MV9pTHK/265008
-#EXTINF:-1 group-title="INFANTILES",AR | Baby TV 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/265009
-
-
-#CINE
-#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="MX | HBO Family" tvg-logo="http://offshore.lat:8001/images/f15064022b5a80935c1fbd0d56613831.png" group-title="CINE",MX | HBO Family
-http://offshore.lat:25461/marichu8/K35MV9pTHK/132
-#EXTINF:-1 tvg-id="hbo.co" tvg-name="MX | HBO" tvg-logo="http://offshore.lat:25461/images/a6e4a9db864869243bb13335800d9731.png" group-title="CINE",MX | HBO
-http://offshore.lat:25461/marichu8/K35MV9pTHK/133
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="MX | HBO 2" tvg-logo="http://offshore.lat:25461/images/df847c5f6ecb4a9754b33c7f5826851b.png" group-title="CINE",MX | HBO 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/134
-#EXTINF:-1 tvg-id="hboplus.co" tvg-name="MX | HBO Plus" tvg-logo="http://offshore.lat:25461/images/0d5ebf742635daff1e66fef5139587aa.png" group-title="CINE",MX | HBO Plus
-http://offshore.lat:25461/marichu8/K35MV9pTHK/135
-#EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="MX | HBO Signature" tvg-logo="http://offshore.lat:8001/images/7ad54b36f94452ea968572728fd1c69c.png" group-title="CINE",MX | HBO Signature
-http://offshore.lat:25461/marichu8/K35MV9pTHK/136
-#EXTINF:-1 tvg-id="max.mx" tvg-name="MX | HBO Mundi" tvg-logo="http://offshore.lat:8001/images/3b8ecde721cc40972f257ece4ea0f949.png" group-title="CINE",MX | HBO Mundi
-http://offshore.lat:25461/marichu8/K35MV9pTHK/137
-#EXTINF:-1 tvg-id="maxup.mx" tvg-name="MX | HBO POP" tvg-logo="http://offshore.lat:25461/images/a7bfd79f3bfb3168d2d63c619e0df41f.png" group-title="CINE",MX | HBO POP
-http://offshore.lat:25461/marichu8/K35MV9pTHK/139
-#EXTINF:-1 tvg-id="maxprime.mx" tvg-name="MX | HBO Xtreme" tvg-logo="http://offshore.lat:25461/images/900dd963f8e44644f41124ad808e641a.png" group-title="CINE",MX | HBO Xtreme
-http://offshore.lat:25461/marichu8/K35MV9pTHK/1464
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Saw X El juego del miedo (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Saw X El juego del miedo (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324849
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Sonido de Libertad (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Sonido de Libertad (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324845
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Los indestructibles 4 (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Los indestructibles 4 (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324851
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (El exorcista: Creyente (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (El exorcista: Creyente (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324842
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Contrarreloj (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Contrarreloj (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324844
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Misión: Imposible - Sentencia mortal parte uno)" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Misión: Imposible - Sentencia mortal parte uno)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324846
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (La monja II)" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (La monja II)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324843
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Megalodón 2 El gran abismo (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Megalodón 2 El gran abismo (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324848
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Guardianes de la Galaxia: Volumen 3 (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Guardianes de la Galaxia: Volumen 3 (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324847
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Fast & Furious X (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Fast & Furious X (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324850
-#EXTINF:-1 tvg-id="" tvg-name="MX | Universal Comedy" tvg-logo="http://offshore.lat:8001/images/6846a19d325a85c2469b21214ea28906.png" group-title="CINE",MX | Universal Comedy
-http://offshore.lat:25461/marichu8/K35MV9pTHK/278167
-#EXTINF:-1 tvg-id="" tvg-name="MX | Universal Cinema" tvg-logo="http://offshore.lat:8001/images/973b74d19122634b9b63664c9b27841e.png" group-title="CINE",MX | Universal Cinema
-http://offshore.lat:25461/marichu8/K35MV9pTHK/278168
-#EXTINF:-1 tvg-id="" tvg-name="MX | Universal Crime" tvg-logo="http://offshore.lat:8001/images/63a914b13cd3dda67a1d6dab98279732.png" group-title="CINE",MX | Universal Crime
-http://offshore.lat:25461/marichu8/K35MV9pTHK/278169
-#EXTINF:-1 tvg-id="" tvg-name="MX | Universal Reality" tvg-logo="http://offshore.lat:8001/images/5866f34933d242e8389ef9311a175681.png" group-title="CINE",MX | Universal Reality
-http://offshore.lat:25461/marichu8/K35MV9pTHK/278170
-#EXTINF:-1 tvg-id="" tvg-name="MX | Universal Premiere" tvg-logo="http://offshore.lat:8001/images/d0c5b4492efb89c388be3a620341466e.png" group-title="CINE",MX | Universal Premiere
-http://offshore.lat:25461/marichu8/K35MV9pTHK/278171
-#EXTINF:-1 tvg-id="amchd.mx" tvg-name="MX | AMC" tvg-logo="http://offshore.lat:8001/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="CINE",MX | AMC
-http://offshore.lat:25461/marichu8/K35MV9pTHK/124
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="MX | Cinecanal" tvg-logo="http://offshore.lat:8001/images/0a64a2818e4cafe47cfc0a1687c32fe7.png" group-title="CINE",MX | Cinecanal
-http://offshore.lat:25461/marichu8/K35MV9pTHK/120
-#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX | Cinemax" tvg-logo="http://offshore.lat:8001/images/1429e7a678f1fdbaeab949d19884e26b.png" group-title="CINE",MX | Cinemax
-http://offshore.lat:25461/marichu8/K35MV9pTHK/128
-#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX | Golden" tvg-logo="http://offshore.lat:8001/images/4239155985365aa76dd1affd80561dd2.png" group-title="CINE",MX | Golden
-http://offshore.lat:25461/marichu8/K35MV9pTHK/129
-#EXTINF:-1 tvg-id="" tvg-name="MX | Golden*" tvg-logo="http://offshore.lat:8001/images/91c0421d42d66b1bd5ddbbac7dc837af.png" group-title="CINE",MX | Golden*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/288160
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="MX | Golden Edge" tvg-logo="http://offshore.lat:36995/images/1857602f9a39e89e788271d7598830a1.png" group-title="CINE",MX | Golden Edge
-http://offshore.lat:25461/marichu8/K35MV9pTHK/130
-#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="MX | Golden Plus" tvg-logo="http://offshore.lat:25461/images/e997117886067bb207c8e35bad4d861b.png" group-title="CINE",MX | Golden Plus
-http://offshore.lat:25461/marichu8/K35MV9pTHK/122
-#EXTINF:-1 tvg-id="" tvg-name="MX | Golden plus*" tvg-logo="http://offshore.lat:36995/images/e8bcf85f59f8fcb98855168eb41f3bd7.jpg" group-title="CINE",MX | Golden plus*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/288159
-#EXTINF:-1 tvg-id="" tvg-name="MX | Morbido" tvg-logo="http://offshore.lat:8001/images/59079f0824011301860d71e5785ac3a0.png" group-title="CINE",MX | Morbido
-http://offshore.lat:25461/marichu8/K35MV9pTHK/127
-#EXTINF:-1 tvg-id="space.mx" tvg-name="MX | Space" tvg-logo="http://offshore.lat:36995/images/70fae6a0b602eafc43bba02c4078e623.png" group-title="CINE",MX | Space
-http://offshore.lat:25461/marichu8/K35MV9pTHK/125
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX | TNT" tvg-logo="http://offshore.lat:8001/images/38d61f61a07c2ca90d0d1a66e894d559.png" group-title="CINE",MX | TNT
-http://offshore.lat:25461/marichu8/K35MV9pTHK/121
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT Series" tvg-logo="http://offshore.lat:8001/images/454f1c0e5e8ea8259ef5280e079c163a.png" group-title="CINE",MX | TNT Series
-http://offshore.lat:25461/marichu8/K35MV9pTHK/113
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT Series 2" tvg-logo="http://offshore.lat:8001/images/454f1c0e5e8ea8259ef5280e079c163a.png" group-title="CINE",MX | TNT Series 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/239679
-#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX | Az Cinema" tvg-logo="http://offshore.lat:36995/images/c4573eb59307080455539d764921a316.png" group-title="CINE",MX | Az Cinema
-http://offshore.lat:25461/marichu8/K35MV9pTHK/119
-#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="MX | De Pelicula" tvg-logo="http://offshore.lat:8001/images/8d22f9d0faa09e473d4aed442b7d6316.png" group-title="CINE",MX | De Pelicula
-http://offshore.lat:25461/marichu8/K35MV9pTHK/131
-#EXTINF:-1 tvg-id="depeliculaclasico.mx" tvg-name="MX | De Pelicula Clasico" tvg-logo="http://offshore.lat:25461/images/c092b240e55a2c66b39eabe9a9a05eca.png" group-title="CINE",MX | De Pelicula Clasico
-http://offshore.lat:25461/marichu8/K35MV9pTHK/245528
-#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="MX | De Pelicula Plus" tvg-logo="http://offshore.lat:8001/images/8d22f9d0faa09e473d4aed442b7d6316.png" group-title="CINE",MX | De Pelicula Plus
-http://offshore.lat:25461/marichu8/K35MV9pTHK/123
-#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="MX | Cine Latino" tvg-logo="http://offshore.lat:8001/images/0fc2a5a7d9f2526a34bc4c295b6ba74c.png" group-title="CINE",MX | Cine Latino
-http://offshore.lat:25461/marichu8/K35MV9pTHK/20451
-#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="MX | Cinema Dinamita" tvg-logo="http://offshore.lat:8001/images/9e7ab8e4f3a2c628b46469188c52c958.png" group-title="CINE",MX | Cinema Dinamita
-http://offshore.lat:25461/marichu8/K35MV9pTHK/264237
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos 01" tvg-logo="http://offshore.lat:8001/images/290b322e4c6fc126f0e40a6dd7db8c18.png" group-title="CINE",Estrenos 01
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301262
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 01" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 01
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301265
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 02" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 02
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301266
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 03" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 03
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301267
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 04" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 04
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301268
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 05" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 05
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301269
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 06" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 06
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301270
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 07" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 07
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301271
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="http://offshore.lat:8001/images/1e0885447752083808209cfac1762b08.png" group-title="CINE",Netflix 10
-http://offshore.lat:25461/marichu8/K35MV9pTHK/302080
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 11" tvg-logo="http://offshore.lat:8001/images/1e0885447752083808209cfac1762b08.png" group-title="CINE",Netflix 11
-http://offshore.lat:25461/marichu8/K35MV9pTHK/302081
-#EXTINF:-1 tvg-id="" tvg-name="Top Cine" tvg-logo="http://offshore.lat:8001/images/aa830a29fca82369e337b5baca0ef245.jpeg" group-title="CINE",Top Cine
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301272
 
 #INTERNACIONAL
-
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INTERNACIONAL HD" tvg-logo="http://fanc.tmsimg.com/assets/s90321_ll_h3_aa.png" group-title="INTERNACIONAL",ANTENA 3 INTERNACIONAL HD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/377550
-#EXTINF:-1 group-title="INTERNACIONAL",ANIMAL PLANET
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140126
-#EXTINF:-1 group-title="INTERNACIONAL",Animal Planet
-http://tv.com.vc:80/msm/msm/955097
-#EXTINF:-1 group-title="INTERNACIONAL",Animal Planet HD
-http://tv.com.vc:80/msm/msm/955098
-#EXTINF:-1 group-title="INTERNACIONAL",BBC World
-http://tv.com.vc:80/msm/msm/955107
-#EXTINF:-1 group-title="INTERNACIONAL",CineCanal
-http://tv.com.vc:80/msm/msm/955151
-#EXTINF:-1 group-title="INTERNACIONAL",CINECANAL HD
-http://tv.com.vc:80/msm/msm/955152
-#EXTINF:-1 group-title="INTERNACIONAL",CINECANAL HD
-http://tv.com.vc:80/msm/msm/955153
-#EXTINF:-1 group-title="INTERNACIONAL",CineMax
-http://tv.com.vc:80/msm/msm/955154
-#EXTINF:-1 group-title="INTERNACIONAL",Claro Cinema
-http://tv.com.vc:80/msm/msm/955155
-#EXTINF:-1 group-title="INTERNACIONAL",Discovery Channel
-http://tv.com.vc:80/msm/msm/955164
-#EXTINF:-1 group-title="INTERNACIONAL",Discovery Home & Health
-http://tv.com.vc:80/msm/msm/955165
-#EXTINF:-1 group-title="INTERNACIONAL",Discovery Turbo
-http://tv.com.vc:80/msm/msm/955167
-#EXTINF:-1 group-title="INTERNACIONAL",Golden
-http://tv.com.vc:80/msm/msm/955188
-#EXTINF:-1 group-title="INTERNACIONAL",Golden-CH56
-http://tv.com.vc:80/msm/msm/955189
-#EXTINF:-1 group-title="INTERNACIONAL",H2
-http://tv.com.vc:80/msm/msm/955192
-#EXTINF:-1 group-title="INTERNACIONAL",HCH- HON
-http://tv.com.vc:80/msm/msm/955193
-#EXTINF:-1 group-title="INTERNACIONAL",History Channel
-http://tv.com.vc:80/msm/msm/955194
-#EXTINF:-1 group-title="INTERNACIONAL",History Channel 2
-http://tv.com.vc:80/msm/msm/955195
-#EXTINF:-1 group-title="INTERNACIONAL",History HD
-http://tv.com.vc:80/msm/msm/955196
-#EXTINF:-1 group-title="INTERNACIONAL",ISAT
-http://tv.com.vc:80/msm/msm/955199
-#EXTINF:-1 group-title="INTERNACIONAL",Las Estrellas
-http://tv.com.vc:80/msm/msm/955201
-#EXTINF:-1 group-title="INTERNACIONAL",National Geographic
-http://tv.com.vc:80/msm/msm/955214
-#EXTINF:-1 group-title="INTERNACIONAL",SONY
-http://tv.com.vc:80/msm/msm/955227
-#EXTINF:-1 group-title="INTERNACIONAL",SONY ᴴᴰ
-http://tv.com.vc:80/msm/msm/955228
-#EXTINF:-1 group-title="INTERNACIONAL",Sony Movies HD
-http://tv.com.vc:80/msm/msm/955229
-#EXTINF:-1 group-title="INTERNACIONAL",SPACE
-http://tv.com.vc:80/msm/msm/955230
-#EXTINF:-1 group-title="INTERNACIONAL",SPACE HD
-http://tv.com.vc:80/msm/msm/955231
-#EXTINF:-1 group-title="INTERNACIONAL",STAR CHANNEL
-http://tv.com.vc:80/msm/msm/955232
-#EXTINF:-1 group-title="INTERNACIONAL",STAR CHANNEL HD
-http://tv.com.vc:80/msm/msm/955233
-#EXTINF:-1 group-title="INTERNACIONAL",STAR CHANNEL HD
-http://tv.com.vc:80/msm/msm/955234
-#EXTINF:-1 group-title="INTERNACIONAL",Studio Universal
-http://tv.com.vc:80/msm/msm/955235
-#EXTINF:-1 group-title="INTERNACIONAL",Studio Universal HD
-http://tv.com.vc:80/msm/msm/955236
-#EXTINF:-1 group-title="INTERNACIONAL",TNT
-http://tv.com.vc:80/msm/msm/955252
-#EXTINF:-1 group-title="INTERNACIONAL",TNT Novelas
-http://tv.com.vc:80/msm/msm/955253
-#EXTINF:-1 group-title="INTERNACIONAL",TNT Series
-http://tv.com.vc:80/msm/msm/955254
-#EXTINF:-1 group-title="INTERNACIONAL",Universal
-http://tv.com.vc:80/msm/msm/955264
-#EXTINF:-1 group-title="INTERNACIONAL",Warner
-http://tv.com.vc:80/msm/msm/955268
-#EXTINF:-1 group-title="INTERNACIONAL",WARNER HD
-http://tv.com.vc:80/msm/msm/955269
-#EXTINF:-1 group-title="INTERNACIONAL",WARNER 2 HD
-http://tv.com.vc:80/msm/msm/955270
-#EXTINF:-1 group-title="INTERNACIONAL",HBO + HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126307
-#EXTINF:-1 group-title="INTERNACIONAL",HBO 2 HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126308
-#EXTINF:-1 group-title="INTERNACIONAL",HBO FAMILY HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126309
-#EXTINF:-1 group-title="INTERNACIONAL",HBO POP R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126310
-#EXTINF:-1 group-title="INTERNACIONAL",HBO SIGNATURE HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126311
-#EXTINF:-1 group-title="INTERNACIONAL",HBO XTREME FHD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126312
-#EXTINF:-1 group-title="INTERNACIONAL",HBO XTREME HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126313
-#EXTINF:-1 group-title="INTERNACIONAL",HBO HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126316
-#EXTINF:-1 group-title="INTERNACIONAL",LAT | HBO MUNDI HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126317
-#EXTINF:-1 group-title="INTERNACIONAL",ES: FOX
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/59928
-#EXTINF:-1 group-title="INTERNACIONAL",ES: FOX LIFE
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/59927
-#EXTINF:-1 group-title="INTERNACIONAL",TNT HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126397
-#EXTINF:-1 group-title="INTERNACIONAL",TNT SERIES HD R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126399
-#EXTINF:-1 group-title="INTERNACIONAL",TNT SERIES LQ R
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/126400
-#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY HOME & HEALTH
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140127
-#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY WORLD ESP
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140128
-#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY MX HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140129
-#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY TURBO
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140130
-#EXTINF:-1 group-title="INTERNACIONAL",DISCOVERY THEATER
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140131
-#EXTINF:-1 group-title="INTERNACIONAL",INVESTIGATION DISCOVERY
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140132
-#EXTINF:-1 group-title="INTERNACIONAL",HISTORY 2 MX HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140133
-#EXTINF:-1 group-title="INTERNACIONAL",HISTORY EN ESPANOL
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140134
-#EXTINF:-1 group-title="INTERNACIONAL",NATIONAL GEOGRAPHIC WILD ESP HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140135
-#EXTINF:-1 group-title="INTERNACIONAL",CINECANAL HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140151
-#EXTINF:-1 group-title="INTERNACIONAL",SYFY ENG
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140154
-#EXTINF:-1 group-title="INTERNACIONAL",PARAMOUNT NETWORK ESP
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140155
-#EXTINF:-1 group-title="INTERNACIONAL",SONY CHANNEL LAT
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140156
-#EXTINF:-1 group-title="INTERNACIONAL",SPACE MEXICO
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140157
-#EXTINF:-1 group-title="INTERNACIONAL",CINEMAX HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140158
-#EXTINF:-1 group-title="INTERNACIONAL",STUDIO UNIVERSAL HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140159
-#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140160
-#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL COMEDY
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140161
-#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL CINEMA
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140162
-#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL PREMIER LATINO
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140163
-#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL CRIMEN
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140164
-#EXTINF:-1 group-title="INTERNACIONAL",UNIVERSAL REALITY Latino
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140165
-#EXTINF:-1 group-title="INTERNACIONAL",FX HD mx
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140169
-#EXTINF:-1 group-title="INTERNACIONAL",FILM&ARTS
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140170
-#EXTINF:-1 group-title="INTERNACIONAL",GOLDEN EDGE
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140171
-#EXTINF:-1 group-title="INTERNACIONAL",HBO MX
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140173
-#EXTINF:-1 group-title="INTERNACIONAL",HBO 2 HD Latino
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140174
-#EXTINF:-1 group-title="INTERNACIONAL",HBO PLUS
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140175
-#EXTINF:-1 group-title="INTERNACIONAL",HBO POP
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140176
-#EXTINF:-1 group-title="INTERNACIONAL",HBO SIGNATURE
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140177
-#EXTINF:-1 group-title="INTERNACIONAL",HBO MUNDI
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140178
-#EXTINF:-1 group-title="INTERNACIONAL",HBO EXTREME Dual
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140179
-#EXTINF:-1 group-title="INTERNACIONAL",TNT HD
-http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140180
-
-#24 horas
-#EXTINF:-1 tvg-id="" tvg-name="24H Kids | Dragon Ball (M)" tvg-logo="http://offshore.lat:8001/images/58590865b4c94aa6d302fffef4a066ad.png" group-title="CANALES 24/7",24H Kids | Dragon Ball (M)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263166
-#EXTINF:-1 tvg-id="" tvg-name="24H Kids | BOB ESPONJA (M)" tvg-logo="http://offshore.lat:8001/images/3b78c878f553da94fe721581f55f5596.png" group-title="CANALES 24/7",24H Kids | BOB ESPONJA (M)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263168
-#EXTINF:-1 tvg-id="" tvg-name="24H Kids | Hey Arnold" tvg-logo="http://offshore.lat:8001/images/0ea0f58651c7adf69c0f4472dad393e9.png" group-title="CANALES 24/7",24H Kids | Hey Arnold
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263187
-#EXTINF:-1 tvg-id="" tvg-name="24h Kids | Don gato y su Pandilla" tvg-logo="http://offshore.lat:8001/images/299e6f4ba1be6746978a410b5d08da78.png" group-title="CANALES 24/7",24h Kids | Don gato y su Pandilla
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263252
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de Scooby Doo" tvg-logo="https://w7.pngwing.com/pngs/400/858/png-transparent-horse-cattle-dog-scoobydoo-show-horse-mammal-text-thumbnail.png" group-title="CANALES 24/7",24/7 El Show de Scooby Doo
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274252
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los padrinos mágicos" tvg-logo="https://w7.pngwing.com/pngs/325/31/png-transparent-cosmo-timmy-turner-wanda-character-mandark-others-thumbnail.png" group-title="CANALES 24/7",24/7 Los padrinos mágicos
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274253
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dora, la exploradora" tvg-logo="http://offshore.lat:36995/images/1f545a6d49bd6dc815ddd731d0c2a2ad.png" group-title="CANALES 24/7",24/7 Dora, la exploradora
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274254
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de Bugs Bunny" tvg-logo="https://w7.pngwing.com/pngs/428/169/png-transparent-bugs-bunny-elmer-fudd-daffy-duck-looney-tunes-cartoon-bugs-miscellaneous-white-mammal-thumbnail.png" group-title="CANALES 24/7",24/7 El Show de Bugs Bunny
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274255
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chernobyl" tvg-logo="https://w7.pngwing.com/pngs/381/827/png-transparent-chernobyl-folder-icon-thumbnail.png" group-title="CANALES 24/7",24/7 Chernobyl
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274256
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="https://w7.pngwing.com/pngs/752/579/png-transparent-ben-10-alien-force-vilgax-attacks-ben-10-omniverse-ben-10-child-hand-vertebrate-thumbnail.png" group-title="CANALES 24/7",24/7 Ben 10
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274258
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pájaro Loco y sus Amigos" tvg-logo="https://w7.pngwing.com/pngs/176/38/png-transparent-woody-woodpecker-sheriff-woody-bugs-bunny-car-pocoyo-driving-vertebrate-cartoon-thumbnail.png" group-title="CANALES 24/7",24/7 El Pájaro Loco y sus Amigos
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274259
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El coche fantástico" tvg-logo="https://w7.pngwing.com/pngs/337/1013/png-transparent-knight-rider-car-kitt-sports-car-david-hasselhoff-tv-show-black-thumbnail.png" group-title="CANALES 24/7",24/7 El coche fantástico
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274260
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las nuevas aventuras de Winnie the Pooh EN" tvg-logo="http://offshore.lat:25461/images/0b0b93ab0684fb6acae5ff3fb1482590.png" group-title="CANALES 24/7",24/7 Las nuevas aventuras de Winnie the Pooh EN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274261
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Arma letal EN" tvg-logo="https://w7.pngwing.com/pngs/895/143/png-transparent-lethal-weapon-desktop-television-lethal-television-label-desktop-wallpaper-thumbnail.png" group-title="CANALES 24/7",24/7 Arma letal EN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274263
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://w7.pngwing.com/pngs/197/867/png-transparent-el-chavo-del-ocho-quico-graphy-chavo-del-8-food-hand-photography-thumbnail.png" group-title="CANALES 24/7",24/7 El Chavo del Ocho
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274264
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Good Doctor" tvg-logo="https://w7.pngwing.com/pngs/621/543/png-transparent-freddie-highmore-the-good-doctor-season-1-norman-bates-television-show-good-doctor-television-face-drama-thumbnail.png" group-title="CANALES 24/7",24/7 The Good Doctor
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274268
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia P. Luche" tvg-logo="http://offshore.lat:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="CANALES 24/7",24/7 La familia P. Luche
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274307
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ¿Quién mató a Sara?" tvg-logo="https://w7.pngwing.com/pngs/809/968/png-transparent-ximena-lamadrid-actress-who-killed-sara-who-kill-sara-sara-mexican-crime-drama-netflix-show-sara-guzman-who-killed-more-thumbnail.png" group-title="CANALES 24/7",24/7 ¿Quién mató a Sara?
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274308
-#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball Z - Saga de Freezer" tvg-logo="http://offshore.lat:36995/images/f40d2bc36df55bb3f0483c6a4cb80357.png" group-title="CANALES 24/7",24H | Dragon Ball Z - Saga de Freezer
-http://offshore.lat:25461/marichu8/K35MV9pTHK/287642
-#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball Super" tvg-logo="http://offshore.lat:8001/images/af1f6c7e49c027dff86a046e0484060b.png" group-title="CANALES 24/7",24H | Dragon Ball Super
-http://offshore.lat:25461/marichu8/K35MV9pTHK/438
-#EXTINF:-1 tvg-id="" tvg-name="24H | Smallville" tvg-logo="http://offshore.lat:8001/images/bd771a80e06982493ac6d021a7cc091b.png" group-title="CANALES 24/7",24H | Smallville
-http://offshore.lat:25461/marichu8/K35MV9pTHK/481
-#EXTINF:-1 tvg-id="" tvg-name="24H | Cinema Disney Pixar" tvg-logo="http://offshore.lat:25461/images/15303d2f3ddd77ea1da844e7bf3ab626.png" group-title="CANALES 24/7",24H | Cinema Disney Pixar
-http://offshore.lat:25461/marichu8/K35MV9pTHK/490
-#EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="CANALES 24/7",24H | Cantinflas
-http://offshore.lat:25461/marichu8/K35MV9pTHK/11526
-#EXTINF:-1 tvg-id="" tvg-name="24H | El Chavo del 8" tvg-logo="http://offshore.lat:25461/images/d895c9fb58c48be87237e29942627ccb.png" group-title="CANALES 24/7",24H | El Chavo del 8
-http://offshore.lat:25461/marichu8/K35MV9pTHK/11527
-#EXTINF:-1 tvg-id="" tvg-name="24H | Chapulin Colorado" tvg-logo="http://offshore.lat:25461/images/289e5a9a58e7bb35cd55443e9e51cf20.png" group-title="CANALES 24/7",24H | Chapulin Colorado
-http://offshore.lat:25461/marichu8/K35MV9pTHK/40829
-#EXTINF:-1 tvg-id="" tvg-name="24H | ALF" tvg-logo="http://offshore.lat:25461/images/90243be3777b51566843b14c96a1ed5f.png" group-title="CANALES 24/7",24H | ALF
-http://offshore.lat:25461/marichu8/K35MV9pTHK/236535
-#EXTINF:-1 tvg-id="" tvg-name="24H | Naruto" tvg-logo="https://w7.pngwing.com/pngs/490/971/png-transparent-naruto-uzumaki-naruto-shipp%C5%ABden-kakashi-hatake-itachi-uchiha-naruto-hand-fictional-character-cartoon-thumbnail.png" group-title="CANALES 24/7",24H | Naruto
-http://offshore.lat:25461/marichu8/K35MV9pTHK/248603
-#EXTINF:-1 tvg-id="" tvg-name="24H | La Pantera Rosa" tvg-logo="http://offshore.lat:25461/images/351755179e8dcea8e2492c44ec2752f2.png" group-title="CANALES 24/7",24H | La Pantera Rosa
-http://offshore.lat:25461/marichu8/K35MV9pTHK/248612
-#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball GT" tvg-logo="https://w7.pngwing.com/pngs/38/645/png-transparent-dragon-ball-gt-son-goku-illustration-dragon-ball-z-dokkan-battle-dragon-ball-xenoverse-goku-gohan-son-hand-vertebrate-fictional-character-thumbnail.png" group-title="CANALES 24/7",24H | Dragon Ball GT
-http://offshore.lat:25461/marichu8/K35MV9pTHK/248616
-#EXTINF:-1 tvg-id="" tvg-name="24H | Los PicaPiedra" tvg-logo="http://offshore.lat:25461/images/b5b3c04a1fe72dcb53b9061a325a8497.png" group-title="CANALES 24/7",24H | Los PicaPiedra
-http://offshore.lat:25461/marichu8/K35MV9pTHK/248638
-#EXTINF:-1 tvg-id="" tvg-name="24H | Mr. Bean" tvg-logo="http://offshore.lat:25461/images/7fbd92d4e196cecf4814db7cabce586e.png" group-title="CANALES 24/7",24H | Mr. Bean
-http://offshore.lat:25461/marichu8/K35MV9pTHK/248673
-#EXTINF:-1 tvg-id="" tvg-name="24H | El Correcaminos" tvg-logo="https://w7.pngwing.com/pngs/659/518/png-transparent-wile-e-coyote-and-the-road-runner-looney-tunes-greater-roadrunner-bugs-miscellaneous-mammal-vertebrate-thumbnail.png" group-title="CANALES 24/7",24H | El Correcaminos
-http://offshore.lat:25461/marichu8/K35MV9pTHK/248674
-#EXTINF:-1 tvg-id="" tvg-name="24H | Chespirito" tvg-logo="http://offshore.lat:25461/images/64d53233e09ffcca0e0a60697784759c.png" group-title="CANALES 24/7",24H | Chespirito
-http://offshore.lat:25461/marichu8/K35MV9pTHK/248684
-#EXTINF:-1 tvg-id="" tvg-name="24H | Games of Thrones" tvg-logo="https://w7.pngwing.com/pngs/656/206/png-transparent-iron-throne-from-game-of-thrones-daenerys-targaryen-game-of-thrones-iron-throne-7-replica-a-game-of-thrones-throne-miscellaneous-game-monument-thumbnail.png" group-title="CANALES 24/7",24H | Games of Thrones
-http://offshore.lat:25461/marichu8/K35MV9pTHK/262945
-#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball" tvg-logo="http://offshore.lat:25461/images/ad121e9a7b3a265f8bce7449bc494601.png" group-title="CANALES 24/7",24H | Dragon Ball
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263253
-#EXTINF:-1 tvg-id="" tvg-name="24H | Batman" tvg-logo="http://offshore.lat:36995/images/1b6b5873e09da5b5dde162e7ff4922ab.png" group-title="CANALES 24/7",24H | Batman
-http://offshore.lat:25461/marichu8/K35MV9pTHK/233790
-#EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball Z" tvg-logo="http://offshore.lat:36995/images/2d24ba762c297b3c81d77cf2bff92048.png" group-title="CANALES 24/7",24H | Dragon Ball Z
-http://offshore.lat:25461/marichu8/K35MV9pTHK/217685
-#EXTINF:-1 tvg-id="" tvg-name="24H | Dinosaurios" tvg-logo="http://offshore.lat:36995/images/7c5777cb095ac03fcae15c3a4fdc13f3.png" group-title="CANALES 24/7",24H | Dinosaurios
-http://offshore.lat:25461/marichu8/K35MV9pTHK/208584
-#EXTINF:-1 tvg-id="" tvg-name="24H | Reino Infantil" tvg-logo="http://offshore.lat:36995/images/1e54022e9137aeb9f972f25c7df64748.png" group-title="CANALES 24/7",24H | Reino Infantil
-http://offshore.lat:25461/marichu8/K35MV9pTHK/208583
-#EXTINF:-1 tvg-id="" tvg-name="24H | Bob Esponja" tvg-logo="http://offshore.lat:36995/images/005d85f02b9454b3c5c71790427af71e.png" group-title="CANALES 24/7",24H | Bob Esponja
-http://offshore.lat:25461/marichu8/K35MV9pTHK/208582
-#EXTINF:-1 tvg-id="" tvg-name="24H | Pokémon" tvg-logo="http://offshore.lat:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="CANALES 24/7",24H | Pokémon
-http://offshore.lat:25461/marichu8/K35MV9pTHK/208207
-#EXTINF:-1 tvg-id="" tvg-name="24H | Plim Plim" tvg-logo="http://offshore.lat:36995/images/a17f85be1b6b82fa33f5ac149952ca73.png" group-title="CANALES 24/7",24H | Plim Plim
-http://offshore.lat:25461/marichu8/K35MV9pTHK/207821
-#EXTINF:-1 tvg-id="" tvg-name="24H | Los Picapiedra" tvg-logo="http://offshore.lat:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="CANALES 24/7",24H | Los Picapiedra
-http://offshore.lat:25461/marichu8/K35MV9pTHK/203853
-#EXTINF:-1 tvg-id="" tvg-name="24H | Coraje - El Perro Cobarde" tvg-logo="http://offshore.lat:36995/images/33f3023c477b45b9de38eb4e55125adc.png" group-title="CANALES 24/7",24H | Coraje - El Perro Cobarde
-http://offshore.lat:25461/marichu8/K35MV9pTHK/203851
-#EXTINF:-1 tvg-id="" tvg-name="24H | Minimalitos" tvg-logo="http://offshore.lat:36995/images/5b2069782f3b6d550999353b3bd7bc26.png" group-title="CANALES 24/7",24H | Minimalitos
-http://offshore.lat:25461/marichu8/K35MV9pTHK/203847
-#EXTINF:-1 tvg-id="" tvg-name="24H | Paw Patrol" tvg-logo="http://offshore.lat:36995/images/1a494d485026a8e0275f199645ba4ec2.png" group-title="CANALES 24/7",24H | Paw Patrol
-http://offshore.lat:25461/marichu8/K35MV9pTHK/203599
-#EXTINF:-1 tvg-id="" tvg-name="24H | Blaze y los Monster Machines" tvg-logo="http://offshore.lat:8001/images/15b5cab0e9b11de85659be679366d769.png" group-title="CANALES 24/7",24H | Blaze y los Monster Machines
-http://offshore.lat:25461/marichu8/K35MV9pTHK/202913
-#EXTINF:-1 tvg-id="" tvg-name="24H | La casa de papel" tvg-logo="http://offshore.lat:8001/images/a7dfa80c8fcf8f47d7c7a8198ac7efb6.png" group-title="CANALES 24/7",24H | La casa de papel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274029
-#EXTINF:-1 tvg-id="" tvg-name="24H | Harry Potter" tvg-logo="http://offshore.lat:36995/images/21f695169f37e6bed16b4359a5232dad.png" group-title="CANALES 24/7",24H | Harry Potter
-http://offshore.lat:25461/marichu8/K35MV9pTHK/241042
-#EXTINF:-1 tvg-id="" tvg-name="24H | Rocky" tvg-logo="http://offshore.lat:8001/images/bcf04d29eb96c4bbdd091e62ff41b0f1.png" group-title="CANALES 24/7",24H | Rocky
-http://offshore.lat:25461/marichu8/K35MV9pTHK/239663
-#EXTINF:-1 tvg-id="" tvg-name="24H | Moisés y los Diez Mandamientos" tvg-logo="http://offshore.lat:36995/images/284d810be0f787f9f27e3d57ed6c50ac.png" group-title="CANALES 24/7",24H | Moisés y los Diez Mandamientos
-http://offshore.lat:25461/marichu8/K35MV9pTHK/237112
-#EXTINF:-1 tvg-id="" tvg-name="24H | Jessica Jones" tvg-logo="http://offshore.lat:36995/images/5abc80787df1f70ca1bbe94997b23709.png" group-title="CANALES 24/7",24H | Jessica Jones
-http://offshore.lat:25461/marichu8/K35MV9pTHK/234424
-#EXTINF:-1 tvg-id="" tvg-name="24h | Disney Movies" tvg-logo="http://offshore.lat:36995/images/a42a5e759bd8e7924a831dbd00746685.png" group-title="CANALES 24/7",24h | Disney Movies
-http://offshore.lat:25461/marichu8/K35MV9pTHK/230605
-#EXTINF:-1 tvg-id="" tvg-name="24H | Cinema Universe" tvg-logo="http://offshore.lat:36995/images/d98a1ab8a8cced81275e6972c39147b6.png" group-title="CANALES 24/7",24H | Cinema Universe
-http://offshore.lat:25461/marichu8/K35MV9pTHK/230604
-#EXTINF:-1 tvg-id="" tvg-name="24H | The Walking Dead" tvg-logo="http://offshore.lat:36995/images/11f62427024c15f0240e9e9649be9c3d.png" group-title="CANALES 24/7",24H | The Walking Dead
-http://offshore.lat:25461/marichu8/K35MV9pTHK/208202
-#EXTINF:-1 tvg-id="" tvg-name="24H | Peliculas Infantiles" tvg-logo="http://offshore.lat:36995/images/7d7355ebf772fd472493a6fa4cf00dbf.png" group-title="CANALES 24/7",24H | Peliculas Infantiles
-http://offshore.lat:25461/marichu8/K35MV9pTHK/202426
-#EXTINF:-1 tvg-id="" tvg-name="24H | DRAKKE Y JOSH 2" tvg-logo="http://offshore.lat:25461/images/af9655950b2c3574e33735702475f7e4.png" group-title="CANALES 24/7",24H | DRAKKE Y JOSH 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/274028
-#EXTINF:-1 tvg-id="" tvg-name="24H | El principe del Rap" tvg-logo="http://offshore.lat:36995/images/f09531d92c523f9daaacb869d2528e6f.png" group-title="CANALES 24/7",24H | El principe del Rap
-http://offshore.lat:25461/marichu8/K35MV9pTHK/273906
-#EXTINF:-1 tvg-id="" tvg-name="24H | La Familia P. Luche" tvg-logo="http://offshore.lat:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="CANALES 24/7",24H | La Familia P. Luche
-http://offshore.lat:25461/marichu8/K35MV9pTHK/241071
-#EXTINF:-1 tvg-id="" tvg-name="24H | Los 3 Chiflados" tvg-logo="http://offshore.lat:36995/images/c1dfb18fdca80cf476e30aa145ea12dc.png" group-title="CANALES 24/7",24H | Los 3 Chiflados
-http://offshore.lat:25461/marichu8/K35MV9pTHK/230607
-#EXTINF:-1 tvg-id="" tvg-name="24H | Mr Bean" tvg-logo="http://offshore.lat:25461/images/888d2951b408b8be7fba6120187ccad8.png" group-title="CANALES 24/7",24H | Mr Bean
-http://offshore.lat:25461/marichu8/K35MV9pTHK/208602
-#EXTINF:-1 tvg-id="" tvg-name="24H | Los Simpson *" tvg-logo="http://offshore.lat:8001/images/851041972c97d09bc5796d523ab7ae23.jpg" group-title="CANALES 24/7",24H | Los Simpson *
-http://offshore.lat:25461/marichu8/K35MV9pTHK/291793
-#EXTINF:-1 tvg-id="" tvg-name="24H | Luisito Minidocumental" tvg-logo="http://offshore.lat:36995/images/eba8d9fe4bd32c0d17026eeaef5fc372.jpg" group-title="CANALES 24/7",24H | Luisito Minidocumental
-http://offshore.lat:25461/marichu8/K35MV9pTHK/292102
-#EXTINF:-1 tvg-id="" tvg-name="24H | Oxlacx Tops" tvg-logo="" group-title="CANALES 24/7",24H | Oxlacx Tops
-http://offshore.lat:25461/marichu8/K35MV9pTHK/292103
-#EXTINF:-1 tvg-id="" tvg-name="24H | Fútbol Para Fans" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Fútbol Para Fans
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282923
-#EXTINF:-1 tvg-id="" tvg-name="24H | Minuto Para Ganar" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Minuto Para Ganar
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282924
-#EXTINF:-1 tvg-id="" tvg-name="24H | Estrellas de Acción" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Estrellas de Acción
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282930
-#EXTINF:-1 tvg-id="" tvg-name="24H | Babyfirst" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Babyfirst
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282935
-#EXTINF:-1 tvg-id="" tvg-name="24H | Archivos Forenses" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Archivos Forenses
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282942
-#EXTINF:-1 tvg-id="" tvg-name="24H | Barney" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Barney
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282947
-#EXTINF:-1 tvg-id="" tvg-name="24H | All Elite Wrestling" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | All Elite Wrestling
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282949
-#EXTINF:-1 tvg-id="" tvg-name="24H | Historias de Ultratumba" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CANALES 24/7",24H | Historias de Ultratumba
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282950
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS 1-5" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",24/7 LOS SIMPSONS 1-5
-http://offshore.lat:25461/marichu8/K35MV9pTHK/294010
-#EXTINF:-1 tvg-id="" tvg-name="247 LOS SIMPSONS 6-11" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",247 LOS SIMPSONS 6-11
-http://offshore.lat:25461/marichu8/K35MV9pTHK/294011
-#EXTINF:-1 tvg-id="" tvg-name="247 LOS SIMPSONS 12-17" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",247 LOS SIMPSONS 12-17
-http://offshore.lat:25461/marichu8/K35MV9pTHK/294012
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS 18-21" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",24/7 LOS SIMPSONS 18-21
-http://offshore.lat:25461/marichu8/K35MV9pTHK/294013
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS 27-30" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="CANALES 24/7",24/7 LOS SIMPSONS 27-30
-http://offshore.lat:25461/marichu8/K35MV9pTHK/294014
-#EXTINF:-1 tvg-id="" tvg-name="24H | Humor es los comediantes" tvg-logo="http://offshore.lat:25461/images/cbb0a1f81fc9f4ce9b26c84c057e2a46.jpg" group-title="CANALES 24/7",24H | Humor es los comediantes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/296950
-#EXTINF:-1 tvg-id="" tvg-name="24H | Cero en Conducta" tvg-logo="http://offshore.lat:25461/images/f7580d491de94917ee68e9a5d9be5e10.jpg" group-title="CANALES 24/7",24H | Cero en Conducta
-http://offshore.lat:25461/marichu8/K35MV9pTHK/296951
-#EXTINF:-1 tvg-id="" tvg-name="24H | Gasparin y sus amigos" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Gasparin y sus amigos
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297283
-#EXTINF:-1 tvg-id="" tvg-name="24H | Gravity Falls" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Gravity Falls
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297284
-#EXTINF:-1 tvg-id="" tvg-name="24H | Los Caballeros del Zodiaco" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Los Caballeros del Zodiaco
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297286
-#EXTINF:-1 tvg-id="" tvg-name="24H | Mi Bella Genio" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Mi Bella Genio
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297287
-#EXTINF:-1 tvg-id="" tvg-name="24H | Cinema Disney Pixar" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Cinema Disney Pixar
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297289
-#EXTINF:-1 tvg-id="" tvg-name="24H | Peppa Pig" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Peppa Pig
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297290
-#EXTINF:-1 tvg-id="" tvg-name="24H | The Big Bang Theory" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | The Big Bang Theory
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297288
-#EXTINF:-1 tvg-id="" tvg-name="24H | Looney Tunes" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Looney Tunes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297291
-#EXTINF:-1 tvg-id="" tvg-name="24H | Daniel el Travieso" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Daniel el Travieso
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297292
-#EXTINF:-1 tvg-id="" tvg-name="24H | Malcom el de en medio" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Malcom el de en medio
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297293
-#EXTINF:-1 tvg-id="" tvg-name="24H | DreamWorks" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | DreamWorks
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297294
-#EXTINF:-1 tvg-id="" tvg-name="24H | FBI" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | FBI
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297297
-#EXTINF:-1 tvg-id="" tvg-name="24H | Caso Cerrado" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Caso Cerrado
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297298
-#EXTINF:-1 tvg-id="" tvg-name="24H | Pantera Rosa" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Pantera Rosa
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297299
-#EXTINF:-1 tvg-id="" tvg-name="24H | Peliculas Lego" tvg-logo="http://offshore.lat:25461/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CANALES 24/7",24H | Peliculas Lego
-http://offshore.lat:25461/marichu8/K35MV9pTHK/297300
-#EXTINF:-1 tvg-id="" tvg-name="24H | El Asombroso Mundo de Gumball" tvg-logo="http://offshore.lat:8001/images/97dca9269956213a18dc5c41f5114c10.png" group-title="CANALES 24/7",24H | El Asombroso Mundo de Gumball
-http://offshore.lat:25461/marichu8/K35MV9pTHK/298850
-#EXTINF:-1 tvg-id="" tvg-name="24H | El Chavo Animado" tvg-logo="http://offshore.lat:8001/images/6d55e3ef085c5c7b474381a8d217c425.jpg" group-title="CANALES 24/7",24H | El Chavo Animado
-http://offshore.lat:25461/marichu8/K35MV9pTHK/306166
-#EXTINF:-1 tvg-id="" tvg-name="24H | Pocoyo" tvg-logo="http://offshore.lat:25461/images/f2f6acfb2dee7374c53f76ae25b94d02.jpg" group-title="CANALES 24/7",24H | Pocoyo
-http://offshore.lat:25461/marichu8/K35MV9pTHK/318964
-#EXTINF:-1 tvg-id="" tvg-name="24H | El chavo del 8*" tvg-logo="http://offshore.lat:25461/images/344e8e5b423f7c51b919b34ee28b5b52.png" group-title="CANALES 24/7",24H | El chavo del 8*
-http://offshore.lat:25461/marichu8/K35MV9pTHK/322686
-#EXTINF:-1 tvg-id="" tvg-name="24H | Futurama" tvg-logo="http://offshore.lat:25461/images/4697fe0060f8af20fec80f12585ca820.png" group-title="CANALES 24/7",24H | Futurama
-http://offshore.lat:25461/marichu8/K35MV9pTHK/346235
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CASO CERRADO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAEK1MXja5WBcUZcK-6y7mOQyH021Cmd7E6Zo7Uu5IZ82pSdShdLiZdb8QYbFwV2s7mzc&usqp=CAU" group-title="CANALES 24/7",24/7: CASO CERRADO
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/103844
-
-
-#PLUTOTV
-
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Acción" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comedia" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Comedia
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282885
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Terror
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282886
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Viajes" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Viajes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282887
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Drama
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282888
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cocina" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cocina
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282889
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Deportes" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Deportes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282890
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Novelas
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282891
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Series
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282892
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Anime
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282893
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Reality" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Reality
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282894
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investiga" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Investiga
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282895
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Misterios
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282897
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Estelar
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282898
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Hogar" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Hogar
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282899
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV  Competencias" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV  Competencias
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282900
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Velocidad" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Velocidad
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282902
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Familia" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Familia
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282903
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Romance" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Romance
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282905
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animales" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Animales
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282906
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Ciencia" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Ciencia
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282907
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Latinas" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Series Latinas
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282908
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Naturaleza" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Naturaleza
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282909
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Aventura" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Aventura
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282910
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Suspenso" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Suspenso
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282911
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Historia" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Historia
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282914
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Retro" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Series Retro
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282916
-#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",MTV Classic
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282917
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV  Nuestro Cine" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV  Nuestro Cine
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282919
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Vida Real
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282920
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animé Acción" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Animé Acción
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282927
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Humor" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Humor
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282929
-#EXTINF:-1 tvg-id="" tvg-name="MTV Ridiculousness" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",MTV Ridiculousness
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282931
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Peleas" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Peleas
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282932
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Sci-Fi" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Sci-Fi
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282946
-#EXTINF:-1 tvg-id="" tvg-name="MTV Pluto TV" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",MTV Pluto TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282962
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmstream" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Filmstream
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282965
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV E-Sports" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV E-Sports
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282968
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ Presenta" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Paramount+ Presenta
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282974
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retro Cartoons" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Retro Cartoons
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282975
-#EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",MTV Biggest Pop
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282976
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Héroes" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Anime Héroes
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282980
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clásico" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Cine Clásico
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282981
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Recetas" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",Pluto TV Recetas
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282982
-#EXTINF:-1 tvg-id="" tvg-name="MTV Shore" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTOTV - LATINO",MTV Shore
-http://offshore.lat:25461/marichu8/K35MV9pTHK/282996
-
-#FULL HD
-
-#EXTINF:-1 tvg-id="azteca13.mx" tvg-name="FHD | Azteca 13" tvg-logo="http://offshore.lat:8001/images/ec28d705801481e5beb86b361da4753c.png" group-title="CANALES FHD",FHD | Azteca 13
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263448
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Azteca Uno menos -1" tvg-logo="http://offshore.lat:8001/images/7dc9a697c2d66152eee70d7a5dcd38b8.jpeg" group-title="CANALES FHD",FHD | Azteca Uno menos -1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301429
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Azteca Uno menos -2hr" tvg-logo="http://offshore.lat:8001/images/c307ed35a7e0da45f030de15b457b5a3.jpeg" group-title="CANALES FHD",FHD | Azteca Uno menos -2hr
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301435
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="FHD | Las Estrellas" tvg-logo="http://offshore.lat:25461/images/c71fe5b7b2e1cb007535c952aa993c82.png" group-title="CANALES FHD",FHD | Las Estrellas
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263287
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="FHD | Las Estrellas -2" tvg-logo="http://offshore.lat:8001/images/c71fe5b7b2e1cb007535c952aa993c82.png" group-title="CANALES FHD",FHD | Las Estrellas -2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263524
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="FHD | Canal 5" tvg-logo="http://offshore.lat:25461/images/19ad9e3327cc96425f2424f11918acf2.png" group-title="CANALES FHD",FHD | Canal 5
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263434
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="FHD | Azteca 7" tvg-logo="http://offshore.lat:8001/images/af54c1b77a4b34a39179b39dba0c1579.png" group-title="CANALES FHD",FHD | Azteca 7
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263435
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="FHD | Imagen Tv" tvg-logo="http://offshore.lat:8001/images/94993d63d73addcc1d1a32dc3100bd07.png" group-title="CANALES FHD",FHD | Imagen Tv
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263439
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="FHD | FORO TV" tvg-logo="http://offshore.lat:8001/images/8768018dbed34f01a6afee7f43e958ea.png" group-title="CANALES FHD",FHD | FORO TV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263443
-#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="FHD | Canal Once" tvg-logo="http://offshore.lat:25461/images/f3d78bb40aaa54bb7e97f17fa98201dd.png" group-title="CANALES FHD",FHD | Canal Once
-http://offshore.lat:25461/marichu8/K35MV9pTHK/264121
 #EXTINF:-1 tvg-id="fox.mx" tvg-name="FHD | Star" tvg-logo="http://offshore.lat:8001/images/8ff953dd97c4405234a04291dee39e0b.jpeg" group-title="CANALES FHD",FHD | Star
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301432
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="FHD | Multimedios Plus" tvg-logo="http://offshore.lat:25461/images/1679091c5a880faf6fb5e6087eb1b2dc.jpeg" group-title="CANALES FHD",FHD | Multimedios Plus
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301431
 #EXTINF:-1 tvg-id="axn.mx" tvg-name="FHD | AXN" tvg-logo="http://offshore.lat:36995/images/767fe1317328ade9bfcf8936153c887a.png" group-title="CANALES FHD",FHD | AXN
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263277
-#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="FHD | A&E" tvg-logo="http://offshore.lat:25461/images/3dbdd5967ecf1a9be6608d390828c015.png" group-title="CANALES FHD",FHD | A&E
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263279
 #EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="FHD | Comedy Central" tvg-logo="http://offshore.lat:8001/images/7a90ecf5662cee955ab246c2bb39b2a1.png" group-title="CANALES FHD",FHD | Comedy Central
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263450
 #EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="FHD | E! Entertaiment" tvg-logo="http://offshore.lat:25461/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="CANALES FHD",FHD | E! Entertaiment
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263298
-#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="FHD | El Gourmet" tvg-logo="http://offshore.lat:25461/images/b30679b0c94d8e4a5bf177ca652f63f7.png" group-title="CANALES FHD",FHD | El Gourmet
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263444
-#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="FHD | Food Network" tvg-logo="http://offshore.lat:36995/images/7643c19130ba9e572ea6ce7ef8fe17d2.png" group-title="CANALES FHD",FHD | Food Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263445
 #EXTINF:-1 tvg-id="fx.mx" tvg-name="FHD | FX" tvg-logo="http://offshore.lat:8001/images/a5562e4547a39fcaa6ed5235a1923b56.png" group-title="CANALES FHD",FHD | FX
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263442
-#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="FHD | Lifetime" tvg-logo="http://offshore.lat:25461/images/bb3a83a2f09e3be97df666b727ce5f3a.png" group-title="CANALES FHD",FHD | Lifetime
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263440
 #EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="FHD | Sony" tvg-logo="http://offshore.lat:25461/images/7334fa93b1ca52c9c0d26ee59cada4b4.png" group-title="CANALES FHD",FHD | Sony
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263347
-#EXTINF:-1 tvg-id="tbs.mx" tvg-name="FHD | TBS" tvg-logo="http://offshore.lat:25461/images/11fc105dd70d87df8ba94f1fef6f79a4.png" group-title="CANALES FHD",FHD | TBS
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263451
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="FHD | Unicable" tvg-logo="http://offshore.lat:8001/images/ba098b8ef3a43cc97c8e1b101c3e6e69.png" group-title="CANALES FHD",FHD | Unicable
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263278
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="FHD | Distrito Comedia" tvg-logo="http://offshore.lat:36995/images/7a90ecf5662cee955ab246c2bb39b2a1.png" group-title="CANALES FHD",FHD | Distrito Comedia
-http://offshore.lat:25461/marichu8/K35MV9pTHK/266813
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Telemundo Internacional" tvg-logo="http://offshore.lat:25461/images/0aee5f4dd69f98059208b7c450b3a605.jpg" group-title="CANALES FHD",FHD | Telemundo Internacional
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301425
-#EXTINF:-1 tvg-id="" tvg-name="FHD | TLC" tvg-logo="http://offshore.lat:8001/images/017a544acb713ac3b4c46402c94a07fc.jpeg" group-title="CANALES FHD",FHD | TLC
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301426
-#EXTINF:-1 tvg-id="trutv.mx" tvg-name="FHD | TruTV" tvg-logo="http://offshore.lat:8001/images/01ec1b1590e682852c06b872cf46c30b.jpeg" group-title="CANALES FHD",FHD | TruTV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301427
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="FHD | Bitme" tvg-logo="http://offshore.lat:8001/images/f67169dfbf72c4ca285e9ee12e3e9ac5.jpeg" group-title="CANALES FHD",FHD | Bitme
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301430
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="FHD | Discovery Channel" tvg-logo="http://offshore.lat:36995/images/ffdc5ff5eca339b0a34e23f54f12d28c.png" group-title="CANALES FHD",FHD | Discovery Channel
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263294
 #EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="FHD | Animal Planet" tvg-logo="http://offshore.lat:25461/images/5e5eab8ff59dbc806a151fe6255b76fc.png" group-title="CANALES FHD",FHD | Animal Planet
@@ -1344,28 +113,6 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/301433
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263293
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="FHD | National Geographic" tvg-logo="http://offshore.lat:36995/images/c9ac57e5a641756778160612169d4005.png" group-title="CANALES FHD",FHD | National Geographic
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263296
-#EXTINF:-1 tvg-id="canal1.co" tvg-name="FHD | Canal Uno Colombia" tvg-logo="http://offshore.lat:36995/images/4aca111ae9896884730b74e8305ef7b1.png" group-title="CANALES FHD",FHD | Canal Uno Colombia
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263503
-#EXTINF:-1 tvg-id="pasiones.co" tvg-name="FHD | Pasiones" tvg-logo="http://offshore.lat:8001/images/40e685603a0d89585dd0325da7ee6ef4.png" group-title="CANALES FHD",FHD | Pasiones
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263522
-#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="FHD | Cartoon Network" tvg-logo="http://offshore.lat:25461/images/4fea3689172d681e5220a51714d76b4d.png" group-title="CANALES FHD",FHD | Cartoon Network
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263286
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="FHD | Disney Channel" tvg-logo="http://offshore.lat:36995/images/93860a352b4e2dfa3496f8d250e7682b.png" group-title="CANALES FHD",FHD | Disney Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263301
-#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="FHD | Disney jr" tvg-logo="http://offshore.lat:8001/images/307ff8770ea486ca1c7da260f53483d3.jpeg" group-title="CANALES FHD",FHD | Disney jr
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301444
-#EXTINF:-1 tvg-id="nick2.mx" tvg-name="FHD | TeenNick" tvg-logo="http://offshore.lat:8001/images/ddac9ca4caddd786e455359afc3c0ac0.jpeg" group-title="CANALES FHD",FHD | TeenNick
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301436
-#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="FHD | Cartoonito" tvg-logo="http://offshore.lat:8001/images/4fbb3c4d49e2255c024b3d454518f988.jpeg" group-title="CANALES FHD",FHD | Cartoonito
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301437
-#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="FHD | Discovery Kids" tvg-logo="http://offshore.lat:25461/images/675f05f87980b9af660378ae5e653930.png" group-title="CANALES FHD",FHD | Discovery Kids
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263303
-#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="FHD | Nickelodeon" tvg-logo="http://offshore.lat:8001/images/572d540acd8d2692383acfcec7b8efec.png" group-title="CANALES FHD",FHD | Nickelodeon
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263291
-#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="FHD | Nick Jr" tvg-logo="http://offshore.lat:25461/images/61ebaf00212f1f91d44dba11dcfef512.png" group-title="CANALES FHD",FHD | Nick Jr
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263292
-#EXTINF:-1 tvg-id="amc.mx" tvg-name="FHD | AMC" tvg-logo="http://offshore.lat:36995/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="CANALES FHD",FHD | AMC
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263354
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="FHD | Cinecanal" tvg-logo="http://offshore.lat:36995/images/0a64a2818e4cafe47cfc0a1687c32fe7.png" group-title="CANALES FHD",FHD | Cinecanal
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263281
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="FHD | Cinemax" tvg-logo="http://offshore.lat:25461/images/1429e7a678f1fdbaeab949d19884e26b.png" group-title="CANALES FHD",FHD | Cinemax
@@ -1374,10 +121,6 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/263356
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263340
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="FHD | Golden Edge" tvg-logo="http://offshore.lat:36995/images/fc9749acfc2c1540f18a08701a407f98.png" group-title="CANALES FHD",FHD | Golden Edge
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263341
-#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="FHD | Golden Premier 1" tvg-logo="http://offshore.lat:8001/images/40b8af69bfab7c7518761d3ebff3be0a.jpeg" group-title="CANALES FHD",FHD | Golden Premier 1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301443
-#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="FHD | Golden Premier 2" tvg-logo="http://offshore.lat:8001/images/6b253591eec3914c984f7d010df84250.jpeg" group-title="CANALES FHD",FHD | Golden Premier 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301439
 #EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="FHD | HBO Family" tvg-logo="http://offshore.lat:8001/images/23b3b40dc8ae3565d2002145640f748d.jpeg" group-title="CANALES FHD",FHD | HBO Family
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301434
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="FHD | HBO Plus" tvg-logo="http://offshore.lat:8001/images/025d07370cb9c98aacd83e78e8b3a1a3.jpeg" group-title="CANALES FHD",FHD | HBO Plus
@@ -1408,93 +151,227 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/263283
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263351
 #EXTINF:-1 tvg-id="mtv.mx" tvg-name="FHD | MTV Live" tvg-logo="http://offshore.lat:25461/images/1d5288594747ab7bc87ae79442422726.png" group-title="CANALES FHD",FHD | MTV Live
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263353
-#EXTINF:-1 tvg-id="vh1.mx" tvg-name="FHD | VH1" tvg-logo="http://offshore.lat:25461/images/f206137df2297b6ac4aa1bbc3792068e.png" group-title="CANALES FHD",FHD | VH1
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263352
-#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="FHD | Bandamax" tvg-logo="http://offshore.lat:8001/images/967e1375546a25085abedd96e2601bec.jpeg" group-title="CANALES FHD",FHD | Bandamax
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301438
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="FHD | TUDENE" tvg-logo="http://offshore.lat:25461/images/06c9460347bd5f1229d48626ba513feb.png" group-title="CANALES FHD",FHD | TUDENE
-http://offshore.lat:25461/marichu8/K35MV9pTHK/272088
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FHD | Fox Sports" tvg-logo="http://offshore.lat:25461/images/08bb571993eade318886f494a9679e86.png" group-title="CANALES FHD",FHD | Fox Sports
-http://offshore.lat:25461/marichu8/K35MV9pTHK/276614
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FHD | Fox Sports 2" tvg-logo="http://offshore.lat:25461/images/f4de3a187dbec2f0060fd2f9879a0e97.jpeg" group-title="CANALES FHD",FHD | Fox Sports 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301440
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="FHD | Fox Sports Premium" tvg-logo="http://offshore.lat:25461/images/933e301a1b25760b896a5eadfbcde902.jpeg" group-title="CANALES FHD",FHD | Fox Sports Premium
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301428
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="FHD | ESPN" tvg-logo="http://offshore.lat:8001/images/e748f3c03f7c4088e90a0ccb2588e0ed.jpeg" group-title="CANALES FHD",FHD | ESPN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301441
 
+#CINE
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Saw X El juego del miedo (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Saw X El juego del miedo (2023))
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324849
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Sonido de Libertad (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Sonido de Libertad (2023))
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324845
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Los indestructibles 4 (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Los indestructibles 4 (2023))
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324851
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (El exorcista: Creyente (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (El exorcista: Creyente (2023))
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324842
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Contrarreloj (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Contrarreloj (2023))
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324844
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Misión: Imposible - Sentencia mortal parte uno)" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Misión: Imposible - Sentencia mortal parte uno)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324846
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (La monja II)" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (La monja II)
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324843
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Megalodón 2 El gran abismo (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Megalodón 2 El gran abismo (2023))
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324848
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Guardianes de la Galaxia: Volumen 3 (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Guardianes de la Galaxia: Volumen 3 (2023))
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324847
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Fast & Furious X (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Fast & Furious X (2023))
+http://offshore.lat:25461/marichu8/K35MV9pTHK/324850
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos 01" tvg-logo="http://offshore.lat:8001/images/290b322e4c6fc126f0e40a6dd7db8c18.png" group-title="CINE",Estrenos 01
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301262
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 01" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 01
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301265
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 02" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 02
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301266
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 03" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 03
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301267
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 04" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 04
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301268
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 05" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 05
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301269
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 06" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 06
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301270
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 07" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 07
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301271
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="http://offshore.lat:8001/images/1e0885447752083808209cfac1762b08.png" group-title="CINE",Netflix 10
+http://offshore.lat:25461/marichu8/K35MV9pTHK/302080
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 11" tvg-logo="http://offshore.lat:8001/images/1e0885447752083808209cfac1762b08.png" group-title="CINE",Netflix 11
+http://offshore.lat:25461/marichu8/K35MV9pTHK/302081
+#EXTINF:-1 tvg-id="" tvg-name="Top Cine" tvg-logo="http://offshore.lat:8001/images/aa830a29fca82369e337b5baca0ef245.jpeg" group-title="CINE",Top Cine
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301272
+
+#24 INFANTILES
+#EXTINF:-1 group-title="INFANTILES 24/7",BOB ESPONJA
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263168
+#EXTINF:-1 group-title="INFANTILES 24/7",Hey Arnold
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263187
+#EXTINF:-1 group-title="INFANTILES 24/7",Don gato y su Pandilla
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263252
+#EXTINF:-1 group-title="INFANTILES 24/7",Los padrinos mágicos
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274253
+#EXTINF:-1 group-title="INFANTILES 24/7",Dora, la exploradora
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274254
+#EXTINF:-1 group-title="INFANTILES 24/7",El Show de Bugs Bunny
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274255
+#EXTINF:-1 group-title="INFANTILES 24/7",Gravity Falls
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297284
+#EXTINF:-1 group-title="INFANTILES 24/7",Ben 10
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274258
+#EXTINF:-1 group-title="INFANTILES 24/7",El Show de Scooby Doo
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274252
+#EXTINF:-1 group-title="INFANTILES 24/7",Looney Tunes
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297291
+#EXTINF:-1 group-title="INFANTILES 24/7",Coraje - El Perro Cobarde
+http://offshore.lat:25461/marichu8/K35MV9pTHK/203851
+
+#24 CLASICOS
+#EXTINF:-1 group-title="CLASICOS 24/7",El Pájaro Loco y sus Amigos
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274259
+#EXTINF:-1 group-title="CLASICOS 24/7",El coche fantástico
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274260
+#EXTINF:-1 group-title="CLASICOS 24/7",ALF
+http://offshore.lat:25461/marichu8/K35MV9pTHK/236535
+#EXTINF:-1 group-title="CLASICOS 24/7",La Pantera Rosa
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248612
+#EXTINF:-1 group-title="CLASICOS 24/7",Los PicaPiedra
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248638
+#EXTINF:-1 group-title="CLASICOS 24/7",Mr. Bean
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248673
+#EXTINF:-1 group-title="CLASICOS 24/7",El principe del Rap
+http://offshore.lat:25461/marichu8/K35MV9pTHK/273906
+#EXTINF:-1 group-title="CLASICOS 24/7",Los 3 Chiflados
+http://offshore.lat:25461/marichu8/K35MV9pTHK/230607
+#EXTINF:-1 group-title="CLASICOS 24/7",El Chavo del Ocho
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274264
+#EXTINF:-1 group-title="CLASICOS 24/7",Chapulin Colorado
+http://offshore.lat:25461/marichu8/K35MV9pTHK/40829
+#EXTINF:-1 group-title="CLASICOS 24/7",Chespirito
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248684
+#EXTINF:-1 group-title="CLASICOS 24/7",El Chavo Animado
+http://offshore.lat:25461/marichu8/K35MV9pTHK/306166
+
+#24 SERIES
+#EXTINF:-1 group-title="SERIES 24/7",The Good Doctor
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274268
+#EXTINF:-1 group-title="SERIES 24/7",Games of Thrones
+http://offshore.lat:25461/marichu8/K35MV9pTHK/262945
+#EXTINF:-1 group-title="SERIES 24/7",La casa de papel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/274029
+#EXTINF:-1 group-title="SERIES 24/7",The Walking Dead
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208202
+
+#24 CINE
+#EXTINF:-1 group-title="CINE 24/7",Cinema Marvel Studios
+http://latinoamericatv.vip:8080/Manolo2023/Manolo2023/86338
+#EXTINF:-1 group-title="CINE 24/7",Cinema Disney Pixar
+http://offshore.lat:25461/marichu8/K35MV9pTHK/490
+#EXTINF:-1 group-title="CINE 24/7",Disney Movies
+http://offshore.lat:25461/marichu8/K35MV9pTHK/230605
+#EXTINF:-1 group-title="CINE 24/7",Cinema Universe
+http://offshore.lat:25461/marichu8/K35MV9pTHK/230604
+#EXTINF:-1 group-title="CINE 24/7",Peliculas Infantiles
+http://offshore.lat:25461/marichu8/K35MV9pTHK/202426
+#EXTINF:-1 group-title="CINE 24/7",Cinema Disney Pixar
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297289
+#EXTINF:-1 group-title="CINE 24/7",DreamWorks
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297294
+#EXTINF:-1 group-title="CINE 24/7",TERROR
+http://latinoamericatv.vip:8080/Manolo2023/Manolo2023/99092
+#EXTINF:-1 group-title="CINE 24/7",FAMILIARES
+http://latinoamericatv.vip:8080/Manolo2023/Manolo2023/99093
+
+#24 ANIME
+#EXTINF:-1 group-title="ANIME 24/7",Naruto
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248603
+#EXTINF:-1 group-title="ANIME 24/7",Pokémon
+http://offshore.lat:25461/marichu8/K35MV9pTHK/208207
+#EXTINF:-1 group-title="ANIME 24/7",Los Caballeros del Zodiaco
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297286
+#EXTINF:-1 group-title="ANIME 24/7",Dragon Ball
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263166
+#EXTINF:-1 group-title="ANIME 24/7",Dragon Ball Z
+http://offshore.lat:25461/marichu8/K35MV9pTHK/217685
+#EXTINF:-1 group-title="ANIME 24/7",Dragon Ball Super
+http://offshore.lat:25461/marichu8/K35MV9pTHK/438
+#EXTINF:-1 group-title="ANIME 24/7",Dragon Ball GT
+http://offshore.lat:25461/marichu8/K35MV9pTHK/248616
+
+#24 GENERAL
+#EXTINF:-1 group-title="GENERAL 24/7", Batman
+http://offshore.lat:25461/marichu8/K35MV9pTHK/233790
+#EXTINF:-1 group-title="GENERAL 24/7",Futurama
+http://offshore.lat:25461/marichu8/K35MV9pTHK/346235
+#EXTINF:-1 group-title="GENERAL 24/7",Los Simpson
+http://offshore.lat:25461/marichu8/K35MV9pTHK/291793
+#EXTINF:-1 group-title="GENERAL 24/7",Archivos Forenses
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282942
+#EXTINF:-1 group-title="GENERAL 24/7", Historias de Ultratumba
+http://offshore.lat:25461/marichu8/K35MV9pTHK/282950
+#EXTINF:-1 group-title="GENERAL 24/7",FBI
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297297
+#EXTINF:-1 group-title="GENERAL 24/7",Caso Cerrado
+http://offshore.lat:25461/marichu8/K35MV9pTHK/297298
 
 #ADULTOS
-
-#EXTINF:-1 group-title="ADULTOS",VENUS
-http://tv.com.vc:80/msm/msm/955266
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS HD | HUSTLER" tvg-logo="s:1:/images/ff377f0bb3cfea5df599cd6f96afa6a5.png" group-title="ADULTOS",ADULTOS HD | HUSTLER
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/239169
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS LOCAL | ADULT IPTV ANAL" tvg-logo="s:1:/images/ff377f0bb3cfea5df599cd6f96afa6a5.png" group-title="ADULTOS  ",ADULTOS LOCAL | ADULT IPTV ANAL
+#EXTINF:-1 group-title="ADULTOS",ANAL
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/239179
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-logo="s:1:/images/dc9adf28f6e5d36ca2245a8bd523b426.png" group-title="ADULTOS  ",AdultIPTV.net Big Ass
+#EXTINF:-1 group-title="ADULTOS",Big Ass
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/239476
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-logo="s:1:/images/dc9adf28f6e5d36ca2245a8bd523b426.png" group-title="ADULTOS  ",AdultIPTV.net Big Dick
+#EXTINF:-1 group-title="ADULTOS",Big Dick
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/239477
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-logo="s:1:/images/dc9adf28f6e5d36ca2245a8bd523b426.png" group-title="ADULTOS  ",AdultIPTV.net Blonde
+#EXTINF:-1 group-title="ADULTOS",Blonde
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/239479
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-logo="s:1:/images/dc9adf28f6e5d36ca2245a8bd523b426.png" group-title="ADULTOS  ",AdultIPTV.net Brunette
+#EXTINF:-1 group-title="ADULTOS",Brunette
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/239481
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS 4K 01" tvg-logo="s:1:/images/4c3e46828950fcc83da163c4f3a85530.png" group-title="ADULTOS  ",ADULTS 4K 01
+#EXTINF:-1 group-title="ADULTOS",PORN 4K
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293542
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS 4K 02" tvg-logo="s:1:/images/0ab0236eecd5f9ab5f9b8363e8fb1c9e.png" group-title="ADULTOS  ",ADULTS 4K 02
+#EXTINF:-1 group-title="ADULTOS",PORN 4K 2 
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293546
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© HD BRAZZERS" tvg-logo="s:1:/images/02508067761a47808ec97769f4467489.png" group-title="ADULTOS  ",ADULTS Â© HD BRAZZERS
+#EXTINF:-1 group-title="ADULTOS",HD BRAZZERS
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293547
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS MILFS" tvg-logo="s:1:/images/d5a841d868cd120372bca38758f25436.png" group-title="ADULTOS  ",ADULTS MILFS
+#EXTINF:-1 group-title="ADULTOS",MILFS
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293548
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS COMPILACIONES" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS COMPILACIONES
+#EXTINF:-1 group-title="ADULTOS",COMPILACIONES
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293549
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS BRUNETTE" tvg-logo="s:1:/images/9843fec3c35439bbb81eaf1a678efcc5.png" group-title="ADULTOS  ",ADULTS BRUNETTE
+#EXTINF:-1 group-title="ADULTOS",BRUNETTE
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293550
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© HD PRIVATE TV" tvg-logo="s:1:/images/6bf5b96df46605d3922800fbb5d21dd1.png" group-title="ADULTOS  ",ADULTS Â© HD PRIVATE TV
+#EXTINF:-1 group-title="ADULTOS",HD PRIVATE TV
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293553
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS BIGASS" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS BIGASS
+#EXTINF:-1 group-title="ADULTOS",BIGASS
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293562
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© BLONDE" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© BLONDE
+#EXTINF:-1 group-title="ADULTOS",BLONDE
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293563
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© BLOWJOB" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© BLOWJOB
+#EXTINF:-1 group-title="ADULTOS",BLOWJOB
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293564
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS ORGI" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS ORGI
+#EXTINF:-1 group-title="ADULTOS",ORGI
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293565
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© CUCKOLD" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© CUCKOLD
+#EXTINF:-1 group-title="ADULTOS",CUCKOLD
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293566
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© GANGBAND" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© GANGBAND
+#EXTINF:-1 group-title="ADULTOS",GANGBAND
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293568
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© GAY" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© GAY
+#EXTINF:-1 group-title="ADULTOS",GAY
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293569
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© HARDCORE" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© HARDCORE
+#EXTINF:-1 group-title="ADULTOS",HARDCORE
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293570
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© INTERRACIAL" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© INTERRACIAL
+#EXTINF:-1 group-title="ADULTOS",INTERRACIAL
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293571
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© LATINA" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© LATINA
+#EXTINF:-1 group-title="ADULTOS",LATINA
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293572
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© LESBIAN" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© LESBIAN
+#EXTINF:-1 group-title="ADULTOS",LESBIAN
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293573
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS ANAL" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS ANAL
+#EXTINF:-1 group-title="ADULTOS",ANAL
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293574
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© PORNSTAR" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© PORNSTAR
+#EXTINF:-1 group-title="ADULTOS",PORNSTAR
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293576
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© POV" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© POV
+#EXTINF:-1 group-title="ADULTOS",POV
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293577
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© ROUGH" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© ROUGH
+#EXTINF:-1 group-title="ADULTOS",ROUGH
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293578
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© RUSIA" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© RUSIA
+#EXTINF:-1 group-title="ADULTOS",RUSIA
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293579
-#EXTINF:-1 tvg-id="" tvg-name="ADULTS Â© TEEN" tvg-logo="s:1:/images/b59d80249bc35d1bab9cd0c29f7ea052.png" group-title="ADULTOS  ",ADULTS Â© TEEN
+#EXTINF:-1 group-title="ADULTOS",TEEN
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293580
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXTREME" tvg-logo="s:1:/images/1fc92b5d7a23e66f514060620a06dc3f.png" group-title="ADULTOS  ",XXX - SEXTREME
+#EXTINF:-1 group-title="ADULTOS",XXX - SEXTREME
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/277163
-#EXTINF:-1 tvg-id="" tvg-name="XXX |Teen" tvg-logo="s:1:/images/dc9adf28f6e5d36ca2245a8bd523b426.png" group-title="ADULTOS  ",XXX |Teen
+#EXTINF:-1 group-title="ADULTOS",XXX |Teen
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/277166
-#EXTINF:-1 tvg-id="" tvg-name="XXX |Threesome" tvg-logo="s:1:/images/dc9adf28f6e5d36ca2245a8bd523b426.png" group-title="ADULTOS  ",XXX |Threesome
+#EXTINF:-1 group-title="ADULTOS",XXX |Threesome
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/277167
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOSºº Playboy 4K" tvg-logo="" group-title="ADULTOS  ", Playboy 4K
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/380764
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS-VENUS " tvg-logo="https://static.epg.best/ar/Venus.ar.png" group-title="ADULTOS  ",ADULTOS-VENUS 
+#EXTINF:-1 group-title="ADULTOS",ADULTOS-VENUS 
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/380765
