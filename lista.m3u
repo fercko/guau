@@ -27,10 +27,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
 #DEPORTES
 #EXTINF:-1 group-title="DEPORTES",TyC Sports
 http://offshore.lat:25461/marichu8/K35MV9pTHK/262179
-#EXTINF:-1 group-title="DEPORTES",TyC Sports op2
-http://sysadminhost.net:8080/F18320/518b1d12/8749
-#EXTINF:-1group-title="DEPORTES",TyC Sports Baja calidad
-http://offshore.lat:25461/marichu8/K35MV9pTHK/245370
 #EXTINF:-1 group-title="DEPORTES",ESPN
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/99753
 #EXTINF:-1 group-title="DEPORTES",ESPN 2
@@ -59,7 +55,7 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/297
 http://offshore.lat:25461/marichu8/K35MV9pTHK/285272
 #EXTINF:-1 group-title="DEPORTES",Claro Sport HD
 http://offshore.lat:25461/marichu8/K35MV9pTHK/1461
-#EXTINF:-1 tvg-id="" tvg-name="My Padel TV UHD" tvg-logo="" group-title="DEPORTES",My Padel TV UHD
+#EXTINF:-1 group-title="DEPORTES",My Padel TV UHD
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/375242
 
 #INFANTILES
@@ -79,125 +75,105 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/244271
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244272
 
 #INTERNACIONAL
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="FHD | Las Estrellas" tvg-logo="http://offshore.lat:25461/images/c71fe5b7b2e1cb007535c952aa993c82.png" group-title="CANALES FHD",FHD | Las Estrellas
+#EXTINF:-1 group-title="INTERNACIONAL",Las Estrellas
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263287
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="FHD | Star" tvg-logo="http://offshore.lat:8001/images/8ff953dd97c4405234a04291dee39e0b.jpeg" group-title="CANALES FHD",FHD | Star
+#EXTINF:-1 group-title="INTERNACIONAL",Star
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301432
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="FHD | AXN" tvg-logo="http://offshore.lat:36995/images/767fe1317328ade9bfcf8936153c887a.png" group-title="CANALES FHD",FHD | AXN
+#EXTINF:-1 group-title="INTERNACIONAL",AXN
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263277
-#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="FHD | Comedy Central" tvg-logo="http://offshore.lat:8001/images/7a90ecf5662cee955ab246c2bb39b2a1.png" group-title="CANALES FHD",FHD | Comedy Central
+#EXTINF:-1 group-title="INTERNACIONAL",Comedy Central
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263450
-#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="FHD | E! Entertaiment" tvg-logo="http://offshore.lat:25461/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="CANALES FHD",FHD | E! Entertaiment
+#EXTINF:-1 group-title="INTERNACIONAL",E! Entertaiment
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263298
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="FHD | FX" tvg-logo="http://offshore.lat:8001/images/a5562e4547a39fcaa6ed5235a1923b56.png" group-title="CANALES FHD",FHD | FX
+#EXTINF:-1 group-title="INTERNACIONAL",FX
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263442
-#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="FHD | Sony" tvg-logo="http://offshore.lat:25461/images/7334fa93b1ca52c9c0d26ee59cada4b4.png" group-title="CANALES FHD",FHD | Sony
+#EXTINF:-1 group-title="INTERNACIONAL",Sony
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263347
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="FHD | Discovery Channel" tvg-logo="http://offshore.lat:36995/images/ffdc5ff5eca339b0a34e23f54f12d28c.png" group-title="CANALES FHD",FHD | Discovery Channel
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery Channel
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263294
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="FHD | Animal Planet" tvg-logo="http://offshore.lat:25461/images/5e5eab8ff59dbc806a151fe6255b76fc.png" group-title="CANALES FHD",FHD | Animal Planet
+#EXTINF:-1 group-title="INTERNACIONAL",Animal Planet
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263295
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="FHD | Discovery H&H" tvg-logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png" group-title="CANALES FHD",FHD | Discovery H&H
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery H&H
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263299
-#EXTINF:-1 tvg-id="mexicotravelchannel.mx" tvg-name="FHD | Discovery TLC" tvg-logo="http://offshore.lat:8001/images/724d7b6951745b9faf2972369b04427e.png" group-title="CANALES FHD",FHD | Discovery TLC
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery TLC
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263348
-#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="FHD | Discovery Turbo" tvg-logo="http://offshore.lat:8001/images/a2548b23c20a8ae2e57ffa20b818c410.png" group-title="CANALES FHD",FHD | Discovery Turbo
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery Turbo
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263349
-#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="FHD | Discovery World" tvg-logo="http://offshore.lat:8001/images/f8e35201aead9ad5be348ac80fbdef79.png" group-title="CANALES FHD",FHD | Discovery World
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery World
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263350
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="FHD | Discovery Science" tvg-logo="http://offshore.lat:8001/images/b444b69067ef45b80df37ba028005cd1.png" group-title="CANALES FHD",FHD | Discovery Science
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery Science
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263436
-#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="FHD | Discovery Theater" tvg-logo="http://offshore.lat:36995/images/c0230e2ffc6b3761d6c3997142e077ec.png" group-title="CANALES FHD",FHD | Discovery Theater
+#EXTINF:-1 group-title="INTERNACIONAL",Discovery Theater
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263438
-#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="FHD | History Channel" tvg-logo="http://offshore.lat:36995/images/f8a2603b7249347e92f5b0d2a209d540.png" group-title="CANALES FHD",FHD | History Channel
+#EXTINF:-1 group-title="INTERNACIONAL",History Channel
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263300
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="FHD | History 2" tvg-logo="http://offshore.lat:8001/images/ca2bf3f6b7e18a508253e9521510a4b5.jpeg" group-title="CANALES FHD",FHD | History 2
+#EXTINF:-1 group-title="INTERNACIONAL",History 2
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301433
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="FHD | Investigacion Discovery" tvg-logo="http://offshore.lat:36995/images/1cc80d4dd260f26cbf81c7aa57ffd9ba.png" group-title="CANALES FHD",FHD | Investigacion Discovery
+#EXTINF:-1 group-title="INTERNACIONAL",Investigacion Discovery
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263293
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="FHD | National Geographic" tvg-logo="http://offshore.lat:36995/images/c9ac57e5a641756778160612169d4005.png" group-title="CANALES FHD",FHD | National Geographic
+#EXTINF:-1 group-title="INTERNACIONAL",National Geographic
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263296
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="FHD | Cinecanal" tvg-logo="http://offshore.lat:36995/images/0a64a2818e4cafe47cfc0a1687c32fe7.png" group-title="CANALES FHD",FHD | Cinecanal
+#EXTINF:-1 group-title="INTERNACIONAL",Cinecanal
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263281
-#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="FHD | Cinemax" tvg-logo="http://offshore.lat:25461/images/1429e7a678f1fdbaeab949d19884e26b.png" group-title="CANALES FHD",FHD | Cinemax
+#EXTINF:-1 group-title="INTERNACIONAL",Cinemax
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263356
-#EXTINF:-1 tvg-id="golden.mx" tvg-name="FHD | Golden" tvg-logo="http://offshore.lat:36995/images/4239155985365aa76dd1affd80561dd2.png" group-title="CANALES FHD",FHD | Golden
+#EXTINF:-1 group-title="INTERNACIONAL",Golden
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263340
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="FHD | Golden Edge" tvg-logo="http://offshore.lat:36995/images/fc9749acfc2c1540f18a08701a407f98.png" group-title="CANALES FHD",FHD | Golden Edge
+#EXTINF:-1 group-title="INTERNACIONAL",Golden Edge
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263341
-#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="FHD | HBO Family" tvg-logo="http://offshore.lat:8001/images/23b3b40dc8ae3565d2002145640f748d.jpeg" group-title="CANALES FHD",FHD | HBO Family
+#EXTINF:-1 group-title="INTERNACIONAL",HBO Family
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301434
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="FHD | HBO Plus" tvg-logo="http://offshore.lat:8001/images/025d07370cb9c98aacd83e78e8b3a1a3.jpeg" group-title="CANALES FHD",FHD | HBO Plus
+#EXTINF:-1 group-title="INTERNACIONAL",HBO Plus
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301442
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="FHD | HBO" tvg-logo="http://offshore.lat:8001/images/a6e4a9db864869243bb13335800d9731.png" group-title="CANALES FHD",FHD | HBO
+#EXTINF:-1 group-title="INTERNACIONAL",HBO
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263288
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="FHD | HBO 2" tvg-logo="http://offshore.lat:25461/images/df847c5f6ecb4a9754b33c7f5826851b.png" group-title="CANALES FHD",FHD | HBO 2
+#EXTINF:-1 group-title="INTERNACIONAL",HBO 2
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263289
-#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="FHD | HBO Extreme" tvg-logo="http://offshore.lat:36995/images/60438bd372c157aff27601a54defbfe5.png" group-title="CANALES FHD",FHD | HBO Extreme
+#EXTINF:-1 group-title="INTERNACIONAL",HBO Extreme
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263437
-#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="FHD | HBO Signature" tvg-logo="http://offshore.lat:36995/images/7ad54b36f94452ea968572728fd1c69c.png" group-title="CANALES FHD",FHD | HBO Signature
+#EXTINF:-1 group-title="INTERNACIONAL",HBO Signature
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263449
-#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="FHD | Paramount Channel" tvg-logo="http://offshore.lat:8001/images/6610ae00d0ff30021862c55b95f6020f.png" group-title="CANALES FHD",FHD | Paramount Channel
+#EXTINF:-1 group-title="INTERNACIONAL",Paramount Channel
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263357
-#EXTINF:-1 tvg-id="space.mx" tvg-name="FHD | Space" tvg-logo="http://offshore.lat:8001/images/70fae6a0b602eafc43bba02c4078e623.png" group-title="CANALES FHD",FHD | Space
+#EXTINF:-1 group-title="INTERNACIONAL",Space
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263355
-#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="FHD | Studio Universal" tvg-logo="http://offshore.lat:25461/images/1f2e06860e7d7e541152d3a53df4b9e9.png" group-title="CANALES FHD",FHD | Studio Universal
+#EXTINF:-1 group-title="INTERNACIONAL",Studio Universal
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263284
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="FHD | TNT" tvg-logo="http://offshore.lat:36995/images/38d61f61a07c2ca90d0d1a66e894d559.png" group-title="CANALES FHD",FHD | TNT
+#EXTINF:-1 group-title="INTERNACIONAL",TNT
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263280
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="FHD | TNT Series" tvg-logo="http://offshore.lat:36995/images/454f1c0e5e8ea8259ef5280e079c163a.png" group-title="CANALES FHD",FHD | TNT Series
+#EXTINF:-1 group-title="INTERNACIONAL",TNT Series
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263342
-#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="FHD | Warner Channel" tvg-logo="http://offshore.lat:25461/images/008ff16df19118f47fb78e79661ee442.png" group-title="CANALES FHD",FHD | Warner Channel
+#EXTINF:-1 group-title="INTERNACIONAL",Warner Channel
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263282
-#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="FHD | Universal Channel" tvg-logo="http://offshore.lat:25461/images/a49c61ad9f5101d3e1f856df5d725d20.png" group-title="CANALES FHD",FHD | Universal Channel
+#EXTINF:-1 group-title="INTERNACIONAL",Universal Channel
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263283
-#EXTINF:-1 tvg-id="mtv.mx" tvg-name="FHD | MTV" tvg-logo="http://offshore.lat:8001/images/af5e50b40cca424d0b7a94dd1396e765.png" group-title="CANALES FHD",FHD | MTV
+#EXTINF:-1 group-title="INTERNACIONAL",MTV
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263351
-#EXTINF:-1 tvg-id="mtv.mx" tvg-name="FHD | MTV Live" tvg-logo="http://offshore.lat:25461/images/1d5288594747ab7bc87ae79442422726.png" group-title="CANALES FHD",FHD | MTV Live
+#EXTINF:-1 group-title="INTERNACIONAL",MTV Live
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263353
 
 #CINE
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Saw X El juego del miedo (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Saw X El juego del miedo (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324849
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Sonido de Libertad (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Sonido de Libertad (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324845
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Los indestructibles 4 (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Los indestructibles 4 (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324851
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (El exorcista: Creyente (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (El exorcista: Creyente (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324842
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Contrarreloj (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Contrarreloj (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324844
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Misión: Imposible - Sentencia mortal parte uno)" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Misión: Imposible - Sentencia mortal parte uno)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324846
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (La monja II)" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (La monja II)
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324843
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Megalodón 2 El gran abismo (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Megalodón 2 El gran abismo (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324848
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Guardianes de la Galaxia: Volumen 3 (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Guardianes de la Galaxia: Volumen 3 (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324847
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos (Fast & Furious X (2023))" tvg-logo="http://offshore.lat:25461/images/1070608d12be16ee445548a33f030c7f.png" group-title="CINE",Estrenos (Fast & Furious X (2023))
-http://offshore.lat:25461/marichu8/K35MV9pTHK/324850
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos 01" tvg-logo="http://offshore.lat:8001/images/290b322e4c6fc126f0e40a6dd7db8c18.png" group-title="CINE",Estrenos 01
+#EXTINF:-1 group-title="CINE",Estrenos 01
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301262
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 01" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 01
+#EXTINF:-1 group-title="CINE",Netflix 01
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301265
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 02" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 02
+#EXTINF:-1 group-title="CINE",Netflix 02
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301266
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 03" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 03
+#EXTINF:-1 group-title="CINE",Netflix 03
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301267
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 04" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 04
+#EXTINF:-1 group-title="CINE",Netflix 04
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301268
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 05" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 05
+#EXTINF:-1 group-title="CINE",Netflix 05
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301269
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 06" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 06
+#EXTINF:-1 group-title="CINE",Netflix 06
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301270
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 07" tvg-logo="http://offshore.lat:8001/images/bbfe6a08340cd1063f352548fae929db.png" group-title="CINE",Netflix 07
+#EXTINF:-1 group-title="CINE",Netflix 07
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301271
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="http://offshore.lat:8001/images/1e0885447752083808209cfac1762b08.png" group-title="CINE",Netflix 10
+#EXTINF:-1 group-title="CINE",Netflix 10
 http://offshore.lat:25461/marichu8/K35MV9pTHK/302080
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 11" tvg-logo="http://offshore.lat:8001/images/1e0885447752083808209cfac1762b08.png" group-title="CINE",Netflix 11
+#EXTINF:-1 group-title="CINE",Netflix 11
 http://offshore.lat:25461/marichu8/K35MV9pTHK/302081
-#EXTINF:-1 tvg-id="" tvg-name="Top Cine" tvg-logo="http://offshore.lat:8001/images/aa830a29fca82369e337b5baca0ef245.jpeg" group-title="CINE",Top Cine
+#EXTINF:-1 group-title="CINE",Top Cine
 http://offshore.lat:25461/marichu8/K35MV9pTHK/301272
 
 #24 INFANTILES
@@ -235,8 +211,10 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/236535
 http://offshore.lat:25461/marichu8/K35MV9pTHK/248612
 #EXTINF:-1 group-title="CLASICOS 24/7",Los PicaPiedra
 http://offshore.lat:25461/marichu8/K35MV9pTHK/248638
-#EXTINF:-1 group-title="CLASICOS 24/7",Mr. Bean
+#EXTINF:-1 group-title="CLASICOS 24/7",Mr.Bean
 http://offshore.lat:25461/marichu8/K35MV9pTHK/248673
+#EXTINF:-1 group-title="CLASICOS 24/7",Mr.Bean 2
+http://home-playtv.com:8080/nubetvgt/HYFGE342htd4/177113
 #EXTINF:-1 group-title="CLASICOS 24/7",El principe del Rap
 http://offshore.lat:25461/marichu8/K35MV9pTHK/273906
 #EXTINF:-1 group-title="CLASICOS 24/7",Los 3 Chiflados
@@ -313,40 +291,20 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/297297
 http://offshore.lat:25461/marichu8/K35MV9pTHK/297298
 
 #ADULTOS
-#EXTINF:-1 group-title="ADULTOS",ANAL
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/239179
 #EXTINF:-1 group-title="ADULTOS",Big Ass
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/239476
 #EXTINF:-1 group-title="ADULTOS",Big Dick
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/239477
-#EXTINF:-1 group-title="ADULTOS",Blonde
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/239479
-#EXTINF:-1 group-title="ADULTOS",Brunette
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/239481
 #EXTINF:-1 group-title="ADULTOS",PORN 4K
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293542
-#EXTINF:-1 group-title="ADULTOS",PORN 4K 2 
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/293546
 #EXTINF:-1 group-title="ADULTOS",HD BRAZZERS
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293547
 #EXTINF:-1 group-title="ADULTOS",MILFS
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293548
-#EXTINF:-1 group-title="ADULTOS",COMPILACIONES
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/293549
-#EXTINF:-1 group-title="ADULTOS",BRUNETTE
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/293550
-#EXTINF:-1 group-title="ADULTOS",HD PRIVATE TV
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/293553
 #EXTINF:-1 group-title="ADULTOS",BIGASS
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293562
-#EXTINF:-1 group-title="ADULTOS",BLONDE
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/293563
-#EXTINF:-1 group-title="ADULTOS",BLOWJOB
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/293564
 #EXTINF:-1 group-title="ADULTOS",ORGI
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293565
-#EXTINF:-1 group-title="ADULTOS",CUCKOLD
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/293566
 #EXTINF:-1 group-title="ADULTOS",GANGBAND
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293568
 #EXTINF:-1 group-title="ADULTOS",GAY
@@ -365,17 +323,11 @@ http://factoryplay.online:8080/Albachiquis/Chiquis2036/293574
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293576
 #EXTINF:-1 group-title="ADULTOS",POV
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293577
-#EXTINF:-1 group-title="ADULTOS",ROUGH
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/293578
 #EXTINF:-1 group-title="ADULTOS",RUSIA
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293579
 #EXTINF:-1 group-title="ADULTOS",TEEN
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/293580
 #EXTINF:-1 group-title="ADULTOS",XXX - SEXTREME
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/277163
-#EXTINF:-1 group-title="ADULTOS",XXX |Teen
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/277166
-#EXTINF:-1 group-title="ADULTOS",XXX |Threesome
-http://factoryplay.online:8080/Albachiquis/Chiquis2036/277167
 #EXTINF:-1 group-title="ADULTOS",ADULTOS-VENUS 
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/380765
