@@ -23,6 +23,8 @@ http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45133
 http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45140
 #EXTINF:-1 group-title="ARGENTINA",A24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+#EXTINF:-1 group-title="ARGENTINA",Magazine HD
+http://pinkpanther.uk:8080/luismartinezmalaga/VuxnAUmKs2ZD/45142
 
 #DEPORTES
 #EXTINF:-1 group-title="DEPORTES",TyC Sports
@@ -61,6 +63,10 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/285272
 http://offshore.lat:25461/marichu8/K35MV9pTHK/1461
 #EXTINF:-1 group-title="DEPORTES",My Padel TV UHD
 http://factoryplay.online:8080/Albachiquis/Chiquis2036/375242
+#EXTINF:-1 group-title="DEPORTES",Garage TV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/518
+#EXTINF:-1 group-title="DEPORTES",DeporTV ARG
+http://factoryplay.online:8080/Albachiquis/Chiquis2036/99750
 
 #INFANTILES
 #EXTINF:-1 group-title="INFANTILES",Boomerang
@@ -78,21 +84,72 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/244271
 #EXTINF:-1 group-title="INFANTILES",Tooncast
 http://offshore.lat:25461/marichu8/K35MV9pTHK/244272
 
-#INTERNACIONAL
+#CINE Y SERIES
+#EXTINF:-1 group-title="CINE Y SERIES",AXN
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263277
+#EXTINF:-1 group-title="CINE Y SERIES",Comedy Central
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263450
+#EXTINF:-1 group-title="CINE Y SERIES",Cinecanal
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263281
+#EXTINF:-1 group-title="CINE Y SERIES",Cinemax
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263356
+#EXTINF:-1 group-title="CINE Y SERIES",E! Entertaiment
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263298
+#EXTINF:-1 group-title="CINE Y SERIES",FILM & ARTS
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140170
+#EXTINF:-1 group-title="CINE Y SERIES",FOX
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/59928
+#EXTINF:-1 group-title="CINE Y SERIES",FOX LIFE
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/59927
+#EXTINF:-1 group-title="CINE Y SERIES",FX
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263442
+#EXTINF:-1 group-title="CINE Y SERIES",Golden
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263340
+#EXTINF:-1 group-title="CINE Y SERIES",Golden Edge
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263341
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Family
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301434
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Plus
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301442
+#EXTINF:-1 group-title="CINE Y SERIES",HBO
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263288
+#EXTINF:-1 group-title="CINE Y SERIES",HBO 2
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263289
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Extreme
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263437
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Signature
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263449
+#EXTINF:-1 group-title="CINE Y SERIES",HBO Mundi
+http://offshore.lat:25461/marichu8/K35MV9pTHK/137
+#EXTINF:-1 group-title="CINE Y SERIES",HBO POP
+http://offshore.lat:25461/marichu8/K35MV9pTHK/139
+#EXTINF:-1 group-title="CINE Y SERIES",ISAT
+http://tv.com.vc:80/msm/msm/955199
+#EXTINF:-1 group-title="CINE Y SERIES",Paramount Channel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263357
+#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT NETWORK
+http://aztkplay.pro:25461/Jerryhondura2024/VDdUbuilBZ/140155
+#EXTINF:-1 group-title="CINE Y SERIES",Sony Channel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263347
+#EXTINF:-1 group-title="CINE Y SERIES",Star
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301432
+#EXTINF:-1 group-title="CINE Y SERIES",Space
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263355
+#EXTINF:-1 group-title="CINE Y SERIES",ARG: SYFY
+http://154.58.202.49:8080/3212884249/q1n0gkoQnq/112519
+#EXTINF:-1 group-title="CINE Y SERIES",TNT
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263280
+#EXTINF:-1 group-title="CINE Y SERIES",TNT Series
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263342
+#EXTINF:-1 group-title="CINE Y SERIES",Universal Channel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263283
+#EXTINF:-1 group-title="CINE Y SERIES",Universal Studio
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263284
+#EXTINF:-1 group-title="CINE Y SERIES",Warner Channel
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263282
+
 #EXTINF:-1 group-title="INTERNACIONAL",Las Estrellas
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263287
-#EXTINF:-1 group-title="INTERNACIONAL",Star
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301432
-#EXTINF:-1 group-title="INTERNACIONAL",AXN
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263277
-#EXTINF:-1 group-title="INTERNACIONAL",Comedy Central
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263450
-#EXTINF:-1 group-title="INTERNACIONAL",E! Entertaiment
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263298
-#EXTINF:-1 group-title="INTERNACIONAL",FX
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263442
-#EXTINF:-1 group-title="INTERNACIONAL",Sony
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263347
 #EXTINF:-1 group-title="INTERNACIONAL",Discovery Channel
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263294
 #EXTINF:-1 group-title="INTERNACIONAL",Animal Planet
@@ -117,68 +174,37 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/301433
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263293
 #EXTINF:-1 group-title="INTERNACIONAL",National Geographic
 http://offshore.lat:25461/marichu8/K35MV9pTHK/263296
-#EXTINF:-1 group-title="INTERNACIONAL",Cinecanal
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263281
-#EXTINF:-1 group-title="INTERNACIONAL",Cinemax
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263356
-#EXTINF:-1 group-title="INTERNACIONAL",Golden
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263340
-#EXTINF:-1 group-title="INTERNACIONAL",Golden Edge
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263341
-#EXTINF:-1 group-title="INTERNACIONAL",HBO Family
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301434
-#EXTINF:-1 group-title="INTERNACIONAL",HBO Plus
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301442
-#EXTINF:-1 group-title="INTERNACIONAL",HBO
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263288
-#EXTINF:-1 group-title="INTERNACIONAL",HBO 2
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263289
-#EXTINF:-1 group-title="INTERNACIONAL",HBO Extreme
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263437
-#EXTINF:-1 group-title="INTERNACIONAL",HBO Signature
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263449
-#EXTINF:-1 group-title="INTERNACIONAL",Paramount Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263357
-#EXTINF:-1 group-title="INTERNACIONAL",Space
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263355
-#EXTINF:-1 group-title="INTERNACIONAL",Studio Universal
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263284
-#EXTINF:-1 group-title="INTERNACIONAL",TNT
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263280
-#EXTINF:-1 group-title="INTERNACIONAL",TNT Series
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263342
-#EXTINF:-1 group-title="INTERNACIONAL",Warner Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263282
-#EXTINF:-1 group-title="INTERNACIONAL",Universal Channel
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263283
-#EXTINF:-1 group-title="INTERNACIONAL",MTV
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263351
-#EXTINF:-1 group-title="INTERNACIONAL",MTV Live
-http://offshore.lat:25461/marichu8/K35MV9pTHK/263353
 
-#CINE
-#EXTINF:-1 group-title="CINE",Estrenos 01
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301262
-#EXTINF:-1 group-title="CINE",Netflix 01
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301265
-#EXTINF:-1 group-title="CINE",Netflix 02
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301266
-#EXTINF:-1 group-title="CINE",Netflix 03
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301267
-#EXTINF:-1 group-title="CINE",Netflix 04
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301268
-#EXTINF:-1 group-title="CINE",Netflix 05
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301269
-#EXTINF:-1 group-title="CINE",Netflix 06
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301270
-#EXTINF:-1 group-title="CINE",Netflix 07
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301271
-#EXTINF:-1 group-title="CINE",Netflix 10
-http://offshore.lat:25461/marichu8/K35MV9pTHK/302080
-#EXTINF:-1 group-title="CINE",Netflix 11
-http://offshore.lat:25461/marichu8/K35MV9pTHK/302081
-#EXTINF:-1 group-title="CINE",Top Cine
-http://offshore.lat:25461/marichu8/K35MV9pTHK/301272
+#EXTINF:-1 group-title="MUSICA",MTV
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263351
+#EXTINF:-1 group-title="MUSICA",MTV Live
+http://offshore.lat:25461/marichu8/K35MV9pTHK/263353
+#EXTINF:-1 group-title="MUSICA",MUCH MUSIC
+http://154.58.202.49:8080/3212884249/q1n0gkoQnq/112503
+#EXTINF:-1 group-title="MUSICA",ARG: QUIERO MUSICA
+http://154.58.202.49:8080/3212884249/q1n0gkoQnq/112511
+#EXTINF:-1 group-title="MUSICA",RADIO 40 PRINCIPALES 
+http://streamgo.vip:8008/sandraa/sandraa/166766
+#EXTINF:-1 group-title="MUSICA",RADIO PLANETA CUMBIA LATINA 
+http://streamgo.vip:8008/sandraa/sandraa/166767
+#EXTINF:-1 group-title="MUSICA",RADIO RINCON GAUCHO 
+http://streamgo.vip:8008/sandraa/sandraa/166769
+#EXTINF:-1 group-title="MUSICA",RADIO ROCA FM CLASICOS 
+http://streamgo.vip:8008/sandraa/sandraa/166770
+#EXTINF:-1 group-title="MUSICA",RADIO CVC LA VOZ 
+http://streamgo.vip:8008/sandraa/sandraa/166771
+#EXTINF:-1 group-title="MUSICA",RADIO BELGRANO AM650 
+http://streamgo.vip:8008/sandraa/sandraa/166773
+#EXTINF:-1 group-title="MUSICA",RADIO SOLO VINILO 
+http://streamgo.vip:8008/sandraa/sandraa/166774
+#EXTINF:-1 group-title="MUSICA",RADIO LIGHT FM 97.3 
+http://streamgo.vip:8008/sandraa/sandraa/166776
+#EXTINF:-1 group-title="MUSICA",RADIO LA POPULAR 
+http://streamgo.vip:8008/sandraa/sandraa/166777
+#EXTINF:-1 group-title="MUSICA",RADIO CNN 
+http://streamgo.vip:8008/sandraa/sandraa/166778
+#EXTINF:-1 group-title="MUSICA",RADIO SOLO ROCK NACIONAL 
+http://streamgo.vip:8008/sandraa/sandraa/166779
 
 #24 INFANTILES
 #EXTINF:-1 group-title="INFANTILES 24/7",BOB ESPONJA
@@ -259,8 +285,32 @@ http://offshore.lat:25461/marichu8/K35MV9pTHK/297289
 http://offshore.lat:25461/marichu8/K35MV9pTHK/297294
 #EXTINF:-1 group-title="CINE 24/7",TERROR
 http://latinoamericatv.vip:8080/Manolo2023/Manolo2023/99092
+#EXTINF:-1 group-title="CINE 24/7",Terror 2
+http://streamgo.vip:8008/sandraa/sandraa/306264
 #EXTINF:-1 group-title="CINE 24/7",FAMILIARES
 http://latinoamericatv.vip:8080/Manolo2023/Manolo2023/99093
+#EXTINF:-1 group-title="CINE 24/7",Estrenos 01
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301262
+#EXTINF:-1 group-title="CINE 24/7",Netflix 01
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301265
+#EXTINF:-1 group-title="CINE 24/7",Netflix 02
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301266
+#EXTINF:-1 group-title="CINE 24/7",Netflix 03
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301267
+#EXTINF:-1 group-title="CINE 24/7",Netflix 04
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301268
+#EXTINF:-1 group-title="CINE 24/7",Netflix 05
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301269
+#EXTINF:-1 group-title="CINE 24/7",Netflix 06
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301270
+#EXTINF:-1 group-title="CINE 24/7",Netflix 07
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301271
+#EXTINF:-1 group-title="CINE 24/7",Netflix 10
+http://offshore.lat:25461/marichu8/K35MV9pTHK/302080
+#EXTINF:-1 group-title="CINE 24/7",Netflix 11
+http://offshore.lat:25461/marichu8/K35MV9pTHK/302081
+#EXTINF:-1 group-title="CINE 24/7",Top Cine
+http://offshore.lat:25461/marichu8/K35MV9pTHK/301272
 
 #24 ANIME
 #EXTINF:-1 group-title="ANIME 24/7",Naruto
