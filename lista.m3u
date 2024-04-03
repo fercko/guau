@@ -1,46 +1,62 @@
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" group-title="DEPORTES",TYC SPORTS HD
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/267
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" group-title="DEPORTES",ESPN PREMIUM
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/99
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" group-title="DEPORTES",TNT SPORTS 
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/386
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA 24" group-title="ARGENTINA",AMERICA 24
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/178
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE HQ" group-title="ARGENTINA",TELEFE
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/264
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA EL TRECE" group-title="ARGENTINA", EL TRECE
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/265
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA 2" group-title="ARGENTINA",AMERICA 2
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/266
-#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" group-title="ARGENTINA",TV PUBLICA
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/268
-#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE" group-title="ARGENTINA", EL NUEVE
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/269
-#EXTINF:-1 tvg-id="" tvg-name="C5N" group-title="ARGENTINA",C5N
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/475
+#EXTINF:-1 tvg-id="" tvg-name="D_GAMES_EC*" group-title="DIRECTV ",BOCA
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/182704
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 24 HQ" tvg-logo="https://static.epg.best/ar/America24.ar.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 24 HQ
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/178
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  TELEFE HQ" tvg-logo="https://static.epg.best/ar/Telefe.ar.png" group-title="││TV││ARGENTINA ",││ARG││  TELEFE HQ
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/264
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ ARGENTINA EL TRECE [HQ]" tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="││TV││ARGENTINA ",││ARG││ ARGENTINA EL TRECE [HQ]
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/265
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 2 HQ" tvg-logo="https://static.americadigital.com.ar/americatv/images/america-tv-junio.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 2 HQ
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/266
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS [HD1]" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS [HD1]
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/267
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TV PUBLICA [HQ]" tvg-logo="https://static.epg.best/ar/TVPublica.ar.png" group-title="││TV││ARGENTINA ",││ARG││ TV PUBLICA [HQ]
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/268
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  EL NUEVE HD" tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="││TV││ARGENTINA ",││ARG││  EL NUEVE HD
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/269
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ CRONICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="││TV││ARGENTINA ",││ARG││ CRONICA
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/584
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ PAKA PAKA HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="││TV││ARGENTINA ",││ARG││ PAKA PAKA HQ
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/590
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TELEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="││TV││ARGENTINA ",││ARG││ TELEMAX
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/592
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="││TV││ARGENTINA ",││ARG││ TN
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/593
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ ARGENTINA C5N SD" tvg-logo="https://static.epg.best/ar/C5N.ar.png" group-title="││TV││ARGENTINA ",││ARG││ ARGENTINA C5N SD
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/475
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  EL NUEVE  SD" tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="││TV││ARGENTINA ",││ARG││  EL NUEVE  SD
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/473
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TELEFE SD" tvg-logo="https://static.epg.best/ar/Telefe.ar.png" group-title="││TV││ARGENTINA ",││ARG││ TELEFE SD
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/472
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TELEFE INTERNACIONAL SD" tvg-logo="https://static.epg.best/ar/Telefe.ar.png" group-title="││TV││ARGENTINA ",││ARG││ TELEFE INTERNACIONAL SD
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/471
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││  FOX SPORTS 3 ARGENTINA [HD] (N)" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  FOX SPORTS 3 ARGENTINA [HD] (N)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/84
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/84
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││  FOX SPORTS 2 ARGENTINA [HD] (N)" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  FOX SPORTS 2 ARGENTINA [HD] (N)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/85
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/85
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ ESPN PREMIUM [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ ESPN PREMIUM [SD]
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/99
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││  FOX SPORTS 2 ARGENTINA  [HD]" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  FOX SPORTS 2 ARGENTINA  [HD]
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/141
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/141
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││  FOX SPORTS 2 ARGENTINA [HD] (N)" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  FOX SPORTS 2 ARGENTINA [HD] (N)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/142
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/142
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││ FOX SPORTS 3 ARGENTINA [FHD] (N)" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ FOX SPORTS 3 ARGENTINA [FHD] (N)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/143
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/143
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││ FOX SPORTS ARGENTINA [FHD] (N)" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ FOX SPORTS ARGENTINA [FHD] (N)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/144
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/144
 #EXTINF:-1 tvg-id="" tvg-name=" ││ARG││  TNT SPORTS ARGENTINA [HD]" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️", ││ARG││  TNT SPORTS ARGENTINA [HD]
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/147
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/147
 #EXTINF:-1 tvg-id="" tvg-name=" ││ARG││  TYC SPORTS ARGENTINA  [HD] (N)" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️", ││ARG││  TYC SPORTS ARGENTINA  [HD] (N)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/148
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/148
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  TNT SPORTS ARGENTINA [FHD]" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  TNT SPORTS ARGENTINA [FHD]
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/386
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS OPC1 [HD] (N)" tvg-logo="https://insiderlatam.com/wp-content/uploads/2020/09/tyc-sports.jpg" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS OPC1 [HD] (N)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/26868
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/26868
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││ FOX SPORTS (OPC) [HD] " tvg-logo="https://e7.pngegg.com/pngimages/335/14/png-clipart-fox-sports-3-fox-sports-1-logo-television-channel-fox-headset-logo-text-trademark.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ FOX SPORTS (OPC) [HD] 
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/27860
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/27860
 #EXTINF:-1 tvg-id="" tvg-name="││ARG HD││ FOX SPORT 3 (OPC)" tvg-logo="https://e7.pngegg.com/pngimages/293/436/png-clipart-fox-sports-networks-fox-sports-2-fox-entertainment-group-television-others-television-emblem.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG HD││ FOX SPORT 3 (OPC)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/27861
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/27861
 #EXTINF:-1 tvg-id="" tvg-name="││ARG FHD││ DEPORTV  (OPC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG FHD││ DEPORTV  (OPC)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/27862
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/27862
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││  TYC SPORTS HD (OPC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  TYC SPORTS HD (OPC)
-http://emuligl.info:8080/Jefercor23TV/Eq2pwcVXReGT/27864
+http://emuligl.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/27864
